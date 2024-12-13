@@ -51,11 +51,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
-              "HasFlag": "SA.Woodskip.Mail",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
+        "HasFlag": "SA.Woodskip.Mail",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -108,11 +108,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
-              "HasFlag": "SA.Woodskip.Mail",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
+        "HasFlag": "SA.Woodskip.Mail",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -165,11 +165,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
-              "HasFlag": "SA.Woodskip.Mail",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
+        "HasFlag": "SA.Woodskip.Mail",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -222,11 +222,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
-              "HasFlag": "SA.Woodskip.Mail",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Woodskip",
+        "HasFlag": "SA.Woodskip.Mail",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -51,9 +51,9 @@
           ]
         }
       },
-       	  "When": {
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -106,9 +106,9 @@
           ]
         }
       },
-          "When": {
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -161,9 +161,9 @@
           ]
         }
       },
-          "When": {
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -216,9 +216,9 @@
           ]
         }
       },
-          "When": {
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

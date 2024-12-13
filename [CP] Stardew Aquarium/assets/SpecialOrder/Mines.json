@@ -83,12 +83,12 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
-              "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",
-              "HasFlag: hostPlayer": "AquariumDonated:IcePip",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",
+        "HasFlag: hostPlayer": "AquariumDonated:IcePip",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -173,12 +173,12 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
-              "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",              
-              "HasFlag: hostPlayer": "AquariumDonated:IcePip",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",
+        "HasFlag: hostPlayer": "AquariumDonated:IcePip",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -263,12 +263,12 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
-              "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",              
-              "HasFlag: hostPlayer": "AquariumDonated:IcePip",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",
+        "HasFlag: hostPlayer": "AquariumDonated:IcePip",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -353,12 +353,12 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
-              "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",              
-              "HasFlag: hostPlayer": "AquariumDonated:IcePip",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag: hostPlayer": "AquariumDonated:Ghostfish",
+        "HasFlag: hostPlayer": "AquariumDonated:IcePip",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -69,12 +69,12 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "HasFlag": "SA.VoidSalmon.Mail",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "HasFlag": "SA.VoidSalmon.Mail",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -145,12 +145,12 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "HasFlag": "SA.VoidSalmon.Mail",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "HasFlag": "SA.VoidSalmon.Mail",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -220,12 +220,12 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "HasFlag": "SA.VoidSalmon.Mail",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "HasFlag": "SA.VoidSalmon.Mail",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -296,12 +296,12 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "HasFlag": "SA.VoidSalmon.Mail",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "HasFlag": "SA.VoidSalmon.Mail",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -43,11 +43,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
-              "HasFlag: hostPlayer": "AquariumFishDonated:40",
-              "SpecialOrdersDifficulty": "Easy"
-		  }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
+        "HasFlag: hostPlayer": "AquariumFishDonated:40",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -92,11 +92,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
-              "HasFlag: hostPlayer": "AquariumFishDonated:40",
-              "SpecialOrdersDifficulty": "Medium"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
+        "HasFlag: hostPlayer": "AquariumFishDonated:40",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -141,11 +141,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
-              "HasFlag: hostPlayer": "AquariumFishDonated:40",
-              "SpecialOrdersDifficulty": "Hard"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
+        "HasFlag: hostPlayer": "AquariumFishDonated:40",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -190,11 +190,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
-              "HasFlag: hostPlayer": "AquariumFishDonated:40",
-              "SpecialOrdersDifficulty": "Hell"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Pufferchick",
+        "HasFlag: hostPlayer": "AquariumFishDonated:40",
+        "SpecialOrdersDifficulty": "Hell"
+      }
     }
-]
+  ]
 }

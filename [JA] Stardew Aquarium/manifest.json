@@ -1,0 +1,11 @@
+﻿{
+  "Name": "Stardew Aquarium [JA]",
+  "Author": "Gervig91",
+  "Version": "1.0.3",
+  "Description": "JA Pack adding objects for Stardew Aquarium",
+  "UniqueID": "Gervig91.StardewAquariumJA",
+  "UpdateKeys": [ "Nexus:???" ],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.JsonAssets"
+  }
+}

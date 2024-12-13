@@ -27,9 +27,9 @@
         "6372003/t 1000 2100/i {{spacechase0.JsonAssets/ObjectId:Razor Trout}}": "50s/20 49/Curator 15 47 2 farmer -100 -100 0 Goldie 15 46 0/skippable/pause 500/playSound stoneStep/playSound doorOpen/warp farmer 16 52/speak Curator \"А, привет @!$0\"/pause 500/move farmer 0 -3 0/pause 500/move Curator 1 0 2/speak Curator \"Итак, что вы пришли пожертвовать сегодня?$1\"/pause 500/showFrame farmer 15/pause 200/playSound fishSlap/addObject 16 47 {{spacechase0.JsonAssets/ObjectId:Razor Trout}} 1/pause 100/showFrame farmer 12/pause 100/faceDirection farmer 3/move farmer -1 0 0/pause 200/jump Curator 4/pause 100/faceDirection farmer 1/pause 200/emote Curator 16/pause 500/move Curator -1 0 2 true/faceDirection farmer 0/speak Curator \"О нет @, так не пойдет!$6\"/pause 500/emote farmer 8/pause 500/speak Curator \"Я знаю эту рыбу, это Бритвенная форель.$2#$b#Это инвазивный вид для этой местности...$5\"/pause 500/emote farmer 28/pause 500/speak Curator \"Он также ест другую рыбу!$0\"/pause 200/jump farmer 5/pause 200/speak Goldie \"...$0#$b#*Голди выглядит испуганным*$7\"/pause 500/emote Goldie 16/pause 500/speak Curator \"Я не думаю, что Аквариум - подходящее место для такой рыбы...$2#$b#Тебе лучше взять его с собой.$0\"/move farmer 1 0 0/pause 500/showFrame farmer 15/pause 200/removeSprite 16 47/playSound pickUpItem/pause 200/showFrame farmer 12/pause 500/speak Curator \"Не расстраивайся, я уверен, что ты не хотел ничего плохого.$0^Не расстраивайся, я уверен, что ты не хотела ничего плохого.$0\"/pause 500/emote farmer 60/pause 1000/end"
       },
       "When": {
-        "HasMod": "spacechase0.JsonAssets",
-        "HasMod": "FlashShifter.StardewValleyExpandedCP",
-        "HasMod": "Hana.GenderNeutralityMod"
+        "HasMod |contains=spacechase0.JsonAssets": true,
+        "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
+        "HasMod |contains=Hana.GenderNeutralityMod": true
       }
     },
     // 1.3.0
@@ -42,8 +42,8 @@
         "6372004_MantaYes": "pause 500/jump Curator 7/pause 250/speak Curator \"С твоей удочкой?!$6#$b#Такой крупный зверь, пойманный на удочку...$2\"/pause 500/speak Curator \"Вилли был прав насчет тебя...$0#$b#Вы необыкновенный рыболов!$4\"/pause 100/jump farmer 5/pause 500/emote farmer 20/pause 500/faceDirection Curator 0 true/pause 100/faceDirection farmer 0/pause 500/speak Curator \"Похоже, он здесь хорошо процветает.$0\"/pause 250/faceDirection Curator 1 true/pause 50/faceDirection farmer 3 true/pause 500/speak Curator \"Я должен позволить тебе вернуться к твоим делам. Наслаждайтесь оставшейся частью вашего визита в Аквариум!$1\"/pause 250/move Curator -6 0 3 true/faceDirection farmer 0/emote farmer 32/pause 1000/end"
       },
       "When": {
-        "HasMod": "MoreFish",
-        "HasMod": "Hana.GenderNeutralityMod"
+        "HasMod |contains=MoreFish": true,
+        "HasMod |contains=Hana.GenderNeutralityMod": true
       }
     },
     {
@@ -56,8 +56,8 @@
         "6372007/t 1000 2100/Hn AquariumDonated:MNF.MoreNewFish_tui/Hn AquariumDonated:MNF.MoreNewFish_la": "SunRoom/13 31/Curator 13 21 1 farmer -100 -100 0 Wizard -100 -100 0/skippable/pause 500/playSound doorOpen/warp farmer 13 37/pause 500/move farmer 0 -7 0 true/viewport move 0 -1 2000/pause 500/move Curator 0 1 2/speak Curator \"@ ты здесь!$0\"/pause 500/speak Curator \"Волшебник ждет нас на другой стороне, мы не должны заставлять его ждать.$0\"/pause 250/jump farmer 5/move Curator 0 -3 2 true/move farmer 0 -3 2 true/pause 500/viewport move 0 -1 2000 true/stopMusic/fade/viewport -1000 -1000/playSound wand/pause 500/warp Curator -100 -100/faceDirection Curator 0/pause 250/playSound wand/warp Curator -100 -100/faceDirection farmer 0/pause 500/changeLocation Gervig91.StardewAquariumCP_SpiritOasis/ambientLight 0 255 255/viewport 24 25/warp Wizard 24 24/faceDirection Wizard 2/animate Wizard false true 500 16 18 18 20 20 18 18 16 16 16 16/playMusic WizardSong/pause 1000/playSound thunder/pause 5000/playSound thunder/pause 750/playSound thunder/pause 1000/screenflash 2/playSound wand/warp Curator 23 22/faceDirection Curator 2/pause 500/stopAnimation Wizard 8/pause 250/screenflash 2/playSound wand/warp farmer 25 22/faceDirection farmer 2/pause 500/speak Wizard \"Хорошо, что вы оба здесь.$0\"/pause 500/playSound thunder/speak Wizard \"Я уже воссоединил Туи и Ла в этом пруду.$0#$b#Все, что теперь остается, - это выполнить заключительную часть ритуала.$0\"/pause 250/faceDirection farmer 3/faceDirection Curator 1/pause 250/emote farmer 16/emote Curator 16/faceDirection Wizard 0/pause 250/faceDirection farmer 2/faceDirection Curator 2/pause 250/animate Wizard false true 500 16 18 18 20 20 18 18 16 16 16 16/pause 500/playSound thunder/message \"Волшебник находится в трансе, бормоча невнятные фразы.\"/pause 200/playSound healSound/jump Curator 5/jump farmer 5/pause 100/playSound healSound/stopMusic/ambientLight 0 200 200/pause 500/ambientLight 0 100 100/pause 500/ambientLight 0 0 0/pause 500/stopAnimation Wizard 18/pause 500/playMusic EmilyDream/speak Wizard \"Сделано...$0\"/pause 500/faceDirection farmer 3/faceDirection Curator 1/pause 250/emote farmer 40/emote Curator 40/pause 500/faceDirection farmer 2/faceDirection Curator 2/faceDirection Wizard 0/pause 500/speak Wizard \"Если бы эти две рыбы были разделены гораздо дольше, это привело бы к катастрофе!$0\"/pause 500/emote farmer 28/emote Curator 28/pause 500/speak Wizard \"Теперь я оставляю защиту этой области на вас.$0\"/pause 500/showFrame Wizard 0/pause 250/showFrame Wizard 16/pause 500/screenflash 2/playSound wand/warp Wizard -100 -100/pause 500/faceDirection farmer 3/faceDirection Curator 1/pause 500/speak Curator \"Что ж, все это было очень драматично...$0\"/pause 500/speak Curator \"Могу ли я рассчитывать на то, что ты поможешь мне сохранить это место в безопасности?$0\"/pause 500/quickquestion #Да, конечно.#Нет, ты сам по себе.(break)emote Curator 32(break)emote Curator 60/pause 1000/end"
       },
       "When": {
-        "HasMod": "MoreFish",
-        "HasMod": "Hana.GenderNeutralityMod"
+        "HasMod |contains=MoreFish": true,
+        "HasMod |contains=Hana.GenderNeutralityMod": true
       }
     }
   ]

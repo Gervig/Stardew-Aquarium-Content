@@ -58,8 +58,8 @@
         "6372003/t 1000 2100/i {{spacechase0.JsonAssets/ObjectId:Razor Trout}}": "50s/20 49/Curator 15 47 2 farmer -100 -100 0 Goldie 15 46 0/skippable/pause 500/playSound stoneStep/playSound doorOpen/warp farmer 16 52/speak Curator \"Ah merhaba @!$0\"/pause 500/move farmer 0 -3 0/pause 500/move Curator 1 0 2/speak Curator \"Bugün ne bağışlamaya geldin?$1\"/pause 500/showFrame farmer 15/pause 200/playSound fishSlap/addObject 16 47 {{spacechase0.JsonAssets/ObjectId:Razor Trout}} 1/pause 100/showFrame farmer 12/pause 100/faceDirection farmer 3/move farmer -1 0 0/pause 200/jump Curator 4/pause 100/faceDirection farmer 1/pause 200/emote Curator 16/pause 500/move Curator -1 0 2 true/faceDirection farmer 0/speak Curator \"Ah hayır evlat, bu olmaz!$6^Ah hayır kızım, bu olmaz!$6\"/pause 500/emote farmer 8/pause 500/speak Curator \"Bu balığı biliyorum, bu Ustura Alabalığı.$2#$b#Bu alan için istilacı bir türdür...$5\"/pause 500/emote farmer 28/pause 500/speak Curator \"Ayrıca diğer balıkları da yiyor!$0\"/pause 200/jump farmer 5/pause 200/speak Goldie \"...$0#$b#*Goldie korkmuş görünüyor*$7\"/pause 500/emote Goldie 16/pause 500/speak Curator \"Akvayum'un böyle bir balığın yeri olduğunu sanmıyorum...$2#$b#Onu alıp götürsen iyi olur.$0\"/move farmer 1 0 0/pause 500/showFrame farmer 15/pause 200/removeSprite 16 47/playSound pickUpItem/pause 200/showFrame farmer 12/pause 500/speak Curator \"Kötü hissetme evlat, eminim ki zarar vermek istemedin.^Kötü hissetme kızım, eminim ki zarar vermek istemedin.$0\"/pause 500/emote farmer 60/pause 1000/end"
       },
       "When": {
-        "HasMod": "spacechase0.JsonAssets",
-        "HasMod": "FlashShifter.StardewValleyExpandedCP",
+        "HasMod |contains=spacechase0.JsonAssets": true,
+        "HasMod |contains=FlashShifter.StardewValleyExpandedCP": true,
         "HasMod |contains=Hana.GenderNeutralityMod": false
       }
     },

@@ -8,26 +8,26 @@
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },
-"Dependencies": [
-   {
-      "UniqueID": "Cherry.StardewAquarium",
-   },
-   {
-      "UniqueID": "hxw.tilesheets",
-   },
-   {
-      "UniqueID": "PeacefulEnd.CustomCompanions",
-   },
-   {
-      "UniqueID": "Esca.EMP",
-   },
-   {
+  "Dependencies": [
+    {
+      "UniqueID": "Cherry.StardewAquarium"
+    },
+    {
+      "UniqueID": "hxw.tilesheets"
+    },
+    {
+      "UniqueID": "PeacefulEnd.CustomCompanions"
+    },
+    {
+      "UniqueID": "Esca.EMP"
+    },
+    {
       "UniqueID": "spacechase0.JsonAssets",
-      "IsRequired": true,
-   },
-   {
+      "IsRequired": true
+    },
+    {
       "UniqueID": "Cherry.ExpandedPreconditionsUtility",
-      "IsRequired": true,
-   },
-]
+      "IsRequired": true
+    }
+  ]
 }

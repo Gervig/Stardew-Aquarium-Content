@@ -17,7 +17,8 @@
           "MailToRemoveOnEnd": "SA.Riddle1.Clue1",
           "RandomizedElements": null,
           "Objectives": [
-           /* {
+            /*
+            {
               "Type": "Donate",
               "Text": "[SA.Riddle1_Objective_0_Text]",
               "RequiredCount": "1",
@@ -27,7 +28,8 @@
                 "DropBoxIndicatorLocation": "21 45",
                 "AcceptedContextTags": "item_tea_leaves"
               }
-            },*/
+            },
+            */
             {
               "Type": "Deliver",
               "Text": "[SA.Riddle1_Objective_1_Text]",
@@ -55,9 +57,9 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Snail"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Snail"
+      }
     }
-]
+  ]
 }

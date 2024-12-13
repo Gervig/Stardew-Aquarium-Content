@@ -54,11 +54,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Stingray",
-              "HasFlag": "SA.Stingray.Mail",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stingray",
+        "HasFlag": "SA.Stingray.Mail",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -114,11 +114,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stingray",
-              "HasFlag": "SA.Stingray.Mail",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stingray",
+        "HasFlag": "SA.Stingray.Mail",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -174,11 +174,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stingray",
-              "HasFlag": "SA.Stingray.Mail",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stingray",
+        "HasFlag": "SA.Stingray.Mail",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -234,11 +234,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stingray",
-              "HasFlag": "SA.Stingray.Mail",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stingray",
+        "HasFlag": "SA.Stingray.Mail",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -6,12 +6,12 @@
   "UniqueID": "StardewAquariumTeam.StardewAquariumTS",
   "UpdateKeys": [ "Nexus:???" ],
   "ContentPackFor": {
-	"UniqueID": "Cherry.TrainStation"
+    "UniqueID": "Cherry.TrainStation"
   },
   "Dependencies": [
-   {
+    {
       "UniqueID": "Gervig91.StardewAquariumCP",
-      "IsRequired": true,
-   }
-]
+      "IsRequired": true
+    }
+  ]
 }

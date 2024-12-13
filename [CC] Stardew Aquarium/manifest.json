@@ -4,12 +4,12 @@
   "Version": "1.6.8",
   "Description": "Custom Companions for Stardew Aquarium.",
   "UniqueID": "Gervig91.StardewAquariumCC",
-  "UpdateKeys": [ "Nexus:???" ],  
-  "Dependencies": [  	
-   {
+  "UpdateKeys": [ "Nexus:???" ],
+  "Dependencies": [
+    {
       "UniqueID": "Gervig91.StardewAquariumCP",
-      "IsRequired": false,
-   }
+      "IsRequired": false
+    }
   ],
   "ContentPackFor": {
     "UniqueID": "PeacefulEnd.CustomCompanions",

@@ -51,11 +51,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",
-              "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",
+        "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -108,11 +108,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",              
-              "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",
+        "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -165,11 +165,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",              
-              "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",
+        "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -222,11 +222,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",              
-              "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:BlueDiscus",
+        "HasFlag: hostPlayer": "AquariumDonated:Lionfish",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -54,12 +54,13 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-              "HasFlag": "SA.ScorpionCarp.Mail",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
-    },{
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "HasFlag": "SA.ScorpionCarp.Mail",
+        "SpecialOrdersDifficulty": "Easy"
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Data/SpecialOrders",
       "Entries": {
@@ -113,11 +114,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-              "HasFlag": "SA.ScorpionCarp.Mail",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "HasFlag": "SA.ScorpionCarp.Mail",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -173,11 +174,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-              "HasFlag": "SA.ScorpionCarp.Mail",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "HasFlag": "SA.ScorpionCarp.Mail",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -233,11 +234,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-              "HasFlag": "SA.ScorpionCarp.Mail",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "HasFlag": "SA.ScorpionCarp.Mail",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -9,15 +9,15 @@
         "ja": "スターデュー水族館",
         "ru": "Аквариум долины Стардью",
         "pt": "Stardew Aquarium",
-		    "fr": "L'Aquarium Stardew",
+        "fr": "L'Aquarium Stardew",
         "de": "Sternentau Aquarium",
         "es": "El Acuario Stardew",
-        "tr" : "Yıldızçiyi Akvaryumu"
+        "tr": "Yıldızçiyi Akvaryumu"
       },
       "TargetX": 40,
       "TargetY": 1,
       "Cost": 20,
-      "FacingDirectionAfterWarp":-2,
-    },
+      "FacingDirectionAfterWarp": -2
+    }
   ]
 }

@@ -19,15 +19,15 @@
   "UpAnimation": {
     "StartingFrame": 0,
     "NumberOfFrames": 3,
-    "Duration": 200,  
+    "Duration": 200,
 
-      "IdleAnimation": {
-        "StartingFrame": 6,
-        "NumberOfFrames": 6,
-        "Duration": 400     
-        }   
-    },
-    "DownAnimation": {
+    "IdleAnimation": {
+      "StartingFrame": 6,
+      "NumberOfFrames": 6,
+      "Duration": 400
+    }
+  },
+  "DownAnimation": {
     "StartingFrame": 3,
     "NumberOfFrames": 3,
     "Duration": 200,

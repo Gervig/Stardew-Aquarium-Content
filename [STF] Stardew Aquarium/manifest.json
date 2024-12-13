@@ -4,8 +4,8 @@
   "Version": "1.6.8",
   "Description": "Adds the shops for the Stardew Aquarium",
   "UniqueID": "ZarKiiFreemanGervig91.StardewAquariumShops",
-    "UpdateKeys": [ "Nexus:???" ],
+  "UpdateKeys": [ "Nexus:???" ],
   "ContentPackFor": {
-    "UniqueID": "Cherry.ShopTileFramework",
+    "UniqueID": "Cherry.ShopTileFramework"
   }
 }

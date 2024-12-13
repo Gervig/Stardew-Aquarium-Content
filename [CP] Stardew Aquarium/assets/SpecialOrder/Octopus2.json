@@ -54,11 +54,11 @@
           ]
         }
       },
-       	  "When": {
- 			    "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-      		"HasSeenEvent": "6372010",
-          "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "HasSeenEvent": "6372010",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -114,10 +114,10 @@
           ]
         }
       },
-          "When": {
-          "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-          "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -173,10 +173,10 @@
           ]
         }
       },
-          "When": {
-          "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-          "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -232,10 +232,10 @@
           ]
         }
       },
-          "When": {
-          "HasFlag: hostPlayer": "AquariumDonated:Octopus",
-          "SpecialOrdersDifficulty": "Hell"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Octopus",
+        "SpecialOrdersDifficulty": "Hell"
+      }
     }
-]
+  ]
 }

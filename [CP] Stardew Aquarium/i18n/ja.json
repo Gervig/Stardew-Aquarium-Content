@@ -415,31 +415,6 @@
 
   //1.6.0
 
-  // Locations
-  "Locations.Aquarium.ExteriorMuseum": "Aquarium Beach",
-  "Locations.Aquarium.AquariumBasement": "Aquarium Basement",
-  "Locations.Aquarium.BigRoom": "Aquarium Big Room",
-  "Locations.Aquarium.AquariumESRoom": "Aquarium East Scarp Room",
-  "Locations.Aquarium.FishBasement": "Aquarium Pufferchick Room",
-  "Locations.Aquarium.FishMuseum": "Stardew Aquarium",
-  "Locations.Aquarium.KayaRoom": "Aquarium Kaya's Room",
-  "Locations.Aquarium.CuratorBedroom": "Aquarium Curator's Bedroom",
-  "Locations.Aquarium.LASV": "Aquarium LASV",
-  "Locations.Aquarium.MNFIslandRoom": "Aquarium MNF Island Room",
-  "Locations.Aquarium.MNFBugland": "Aquarium MNF Bugland",
-  "Locations.Aquarium.MNFKoiRoom": "Aquarium MNF Koi Room",
-  "Locations.Aquarium.MNFRoom": "Aquarium MNF Room",
-  "Locations.Aquarium.MNFSewer": "Aquarium MNF Sewer",
-  "Locations.Aquarium.MNFVerySwamp": "Aquarium MNF Swamp",
-  "Locations.Aquarium.NotYouAgainRoom": "Aquarium Not You Again Room",
-  "Locations.Aquarium.RSVRoom": "Aquarium RSV Room",
-  "Locations.Aquarium.Slimejack": "Aquarium Sewer",
-  "Locations.Aquarium.SpiritOasis": "Aquarium Spirit Oasis",
-  "Locations.Aquarium.SVE": "Aquarium SVE Room",
-  "Locations.Aquarium.SA_SVE_Bugland": "Aquarium SVE Bugland",
-  "Locations.Aquarium.VerySwamp": "Aquarium Swamp",
-  //"Locations.Aquarium.": "Aquarium ",
-
   // SVE
   "Tank_SnatcherWorm": "This Polychaeta has a very large and strong jaw that can crush rocks, it's not recommended to swim in waters where this worm can be found!",
   "Tank_WaterGrub": "water grub",
@@ -748,6 +723,8 @@
   "SA.StatueUnveiled.MapString": "'Stardew Aquarium - Bringing aquatic life closer to you!'^Made by Leah, Robin & Yri",
 
   //Locations
+  "Locations.Aquarium.MNFBugland": "Aquarium MNF Bugland",
+  "Locations.Aquarium.NotYouAgainRoom": "Aquarium Not You Again Room",
   "Locations.Aquarium.ExteriorMuseum": "Stardew Aquarium Beach",
   "Locations.Aquarium.AquariumBasement": "Stardew Aquarium Basement",
   "Locations.Aquarium.BigRoom": "Large Aquarium Room",

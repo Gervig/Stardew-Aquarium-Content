@@ -1,7 +1,7 @@
 {
   "Name": "Yukine",
   "Type": "Walking",
-	"TravelSpeed": 2,
+  "TravelSpeed": 2,
   "FrameSizeWidth": 16,
   "FrameSizeHeight": 32,
   "TileSheetPath": "",
@@ -18,15 +18,15 @@
   "UpAnimation": {
     "StartingFrame": 8,
     "NumberOfFrames": 4,
-    "Duration": 200,  
+    "Duration": 200,
 
-      "IdleAnimation": {
-        "StartingFrame": 8,
-        "NumberOfFrames": 1,
-        "Duration": 200     
-        }   
-    },
-    "DownAnimation": {
+    "IdleAnimation": {
+      "StartingFrame": 8,
+      "NumberOfFrames": 1,
+      "Duration": 200
+    }
+  },
+  "DownAnimation": {
     "StartingFrame": 0,
     "NumberOfFrames": 4,
     "Duration": 200,

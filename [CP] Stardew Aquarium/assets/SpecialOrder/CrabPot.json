@@ -59,7 +59,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Easy"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -120,7 +120,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Easy"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -181,7 +181,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Medium"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -242,7 +242,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Medium"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -303,7 +303,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Hard"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -364,7 +364,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Hard"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -425,7 +425,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Hell"
-      },
+      }
     },
     {
       "Action": "EditData",
@@ -486,7 +486,7 @@
       },
       "When": {
         "SpecialOrdersDifficulty": "Hell"
-      },
-    },
-]
+      }
+    }
+  ]
 }

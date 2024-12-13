@@ -35,7 +35,7 @@
                 "DropBoxIndicatorLocation": "28 16",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -54,11 +54,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "HasMod |contains=MoreFish": false,
-              "SpecialOrdersDifficulty": "Easy"
-		  }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "HasMod |contains=MoreFish": false,
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -95,7 +95,7 @@
                 "DropBoxIndicatorLocation": "28 16",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -114,11 +114,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "HasMod |contains=MoreFish": false,
-              "SpecialOrdersDifficulty": "Medium"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "HasMod |contains=MoreFish": false,
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -155,7 +155,7 @@
                 "DropBoxIndicatorLocation": "28 16",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -174,11 +174,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "HasMod |contains=MoreFish": false,
-              "SpecialOrdersDifficulty": "Hard"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "HasMod |contains=MoreFish": false,
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -215,7 +215,7 @@
                 "DropBoxIndicatorLocation": "28 16",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -234,10 +234,10 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "SpecialOrdersDifficulty": "Hell"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "SpecialOrdersDifficulty": "Hell"
+      }
     },
     {
       "Action": "EditData",
@@ -274,7 +274,7 @@
                 "DropBoxIndicatorLocation": "18 15",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -293,10 +293,10 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "SpecialOrdersDifficulty": "Easy"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -333,7 +333,7 @@
                 "DropBoxIndicatorLocation": "18 15",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -352,10 +352,10 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "SpecialOrdersDifficulty": "Medium"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -392,7 +392,7 @@
                 "DropBoxIndicatorLocation": "18 15",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -411,10 +411,10 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "SpecialOrdersDifficulty": "Hard"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -451,7 +451,7 @@
                 "DropBoxIndicatorLocation": "18 15",
                 "AcceptedContextTags": "item_slimejack"
               }
-            },
+            }
           ],
           "Rewards": [
             {
@@ -470,10 +470,10 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
-              "SpecialOrdersDifficulty": "Hell"
-      }  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Slimejack",
+        "SpecialOrdersDifficulty": "Hell"
+      }
     }
-]
+  ]
 }

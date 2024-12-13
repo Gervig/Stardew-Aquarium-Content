@@ -8,30 +8,30 @@
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },
-"Dependencies": [
-   {
+  "Dependencies": [
+    {
       "UniqueID": "FlashShifter.StardewValleyExpandedCP",
-      "IsRequired": false,
-   },
-   {
+      "IsRequired": false
+    },
+    {
       "UniqueID": "Lemurkat.JacobEloise.CP",
-      "IsRequired": false,
-   },
-   {
+      "IsRequired": false
+    },
+    {
       "UniqueID": "Gervig91.StardewAquariumCP",
-      "IsRequired": true,
-   },
-   {
+      "IsRequired": true
+    },
+    {
       "UniqueID": "spacechase0.SpaceCore",
-      "IsRequired": true,
-   },
-   {
+      "IsRequired": true
+    },
+    {
       "UniqueID": "spacechase0.JsonAssets",
-      "IsRequired": true,
-   },   
-   {
+      "IsRequired": true
+    },
+    {
       "UniqueID": "Esca.CustomNPCExclusions",
-      "IsRequired": true,
-   }
-]
+      "IsRequired": true
+    }
+  ]
 }

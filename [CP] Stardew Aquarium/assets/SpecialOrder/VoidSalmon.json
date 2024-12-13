@@ -69,11 +69,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -144,11 +144,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -219,11 +219,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -294,11 +294,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
-              "HasFlag: hostPlayer": "AquariumDonated:Salmon",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:VoidSalmon",
+        "HasFlag: hostPlayer": "AquariumDonated:Salmon",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

@@ -54,11 +54,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",              
-              "HasFlag": "SA.CrabPot.Mail",
-              "SpecialOrdersDifficulty": "Easy"
-      },  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag": "SA.CrabPot.Mail",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -114,11 +114,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",              
-              "HasFlag": "SA.CrabPot.Mail",
-              "SpecialOrdersDifficulty": "Medium"
-      },  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag": "SA.CrabPot.Mail",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -174,11 +174,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",              
-              "HasFlag": "SA.CrabPot.Mail",
-              "SpecialOrdersDifficulty": "Hard"
-      },  
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag": "SA.CrabPot.Mail",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -234,11 +234,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:Stonefish",              
-              "HasFlag": "SA.CrabPot.Mail",
-              "SpecialOrdersDifficulty": "Hell"
-      },  
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Stonefish",
+        "HasFlag": "SA.CrabPot.Mail",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

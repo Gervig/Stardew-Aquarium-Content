@@ -67,11 +67,11 @@
           ]
         }
       },
-       	  "When": {
- 			        "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",
-              "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
-              "SpecialOrdersDifficulty": "Easy"
-		  },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",
+        "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
+        "SpecialOrdersDifficulty": "Easy"
+      }
     },
     {
       "Action": "EditData",
@@ -143,11 +143,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",              
-              "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
-              "SpecialOrdersDifficulty": "Medium"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",
+        "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
+        "SpecialOrdersDifficulty": "Medium"
+      }
     },
     {
       "Action": "EditData",
@@ -219,11 +219,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",              
-              "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
-              "SpecialOrdersDifficulty": "Hard"
-      },      
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",
+        "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
+        "SpecialOrdersDifficulty": "Hard"
+      }
     },
     {
       "Action": "EditData",
@@ -295,11 +295,11 @@
           ]
         }
       },
-          "When": {
-              "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",              
-              "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
-              "SpecialOrdersDifficulty": "Hell"
-      },      
-    },
-]
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:ScorpionCarp",
+        "HasFlag: hostPlayer": "AquariumDonated:Sandfish",
+        "SpecialOrdersDifficulty": "Hell"
+      }
+    }
+  ]
 }

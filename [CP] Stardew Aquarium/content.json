@@ -925,8 +925,8 @@
       "AnimationFrameTime": 10,
       "AnimationFrameCount": 28,
       "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
-        "HasMod": "spacechase0.JsonAssets"
+        "HasMod |contains=spacechase0.ContentPatcherAnimations": true,
+        "HasMod |contains=spacechase0.JsonAssets": true
       }
     },
     {

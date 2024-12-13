@@ -1,5 +1,7 @@
 {
-  "Format": "2.3.0",
+  "$schema": "https://smapi.io/schemas/content-patcher.json",
+
+  "Format": "2.4.0",
   "Changes": [
     /* pre-1.6 NPC stuff
     {
@@ -60,15 +62,9 @@
       }
     },
     {
-      "LogName": "NPC Curator",
       "Action": "Load",
-      "Target": "Portraits/Curator, Characters/Curator",
-      "FromFile": "assets/{{target}}.png"
-    },
-    {
-      "LogName": "NPC Goldie",
-      "Action": "Load",
-      "Target": "Portraits/Goldie, Characters/Goldie",
+      "LogName": "NPC portraits & sprites",
+      "Target": "Portraits/Curator, Characters/Curator, Portraits/Goldie, Characters/Goldie",
       "FromFile": "assets/{{target}}.png"
     },
     {

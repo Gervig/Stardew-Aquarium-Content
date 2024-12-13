@@ -1,169 +1,42 @@
 {
-  "Format": "2.0.0",
+  "$schema": "https://smapi.io/schemas/content-patcher.json",
+
+  "Format": "2.4.0",
   "ConfigSchema": {
     "LegendaryFishAnimation": {
       "AllowValues": "true,false",
       "Default": "true",
-      "AllowMultiple": "false"
+      "AllowMultiple": false
     }
     /*
     "SpicyLavaEelAnimation":
     {
       "AllowValues": "true,false",
       "Default": "true",
-      "AllowMultiple": "false"
+      "AllowMultiple": false
     },
     "SpecialOrdersDifficulty":
     {
       "AllowValues": "Easy,Medium,Hard,Hell",
       "Default": "Medium",
-      "AllowMultiple": "false"
+      "AllowMultiple": false
     },
     "CustomSpecialBoardBackground":
     {
       "AllowValues": "vanilla,1,2",
       "Default": "1",
-      "AllowMultiple": "false"
+      "AllowMultiple": false
     },
     "CustomSpecialBoardSprite":
     {
       "AllowValues": "true,false",
       "Default": "true",
-      "AllowMultiple": "false"
+      "AllowMultiple": false
     }
     */
   },
-  /*
-  "CustomLocations": [
-    // pre 1.6 maps format
-    {
-      "Name": "Custom_ExteriorMuseum",
-      "FromMapFile": "Assets/Maps/ExteriorMuseum_Spring.tmx",
-      "MigrateLegacyNames": [ "ExteriorMuseum" ]
-    },
-    {
-      "Name": "Custom_AquariumBasement",
-      "FromMapFile": "Assets/Maps/AquariumBasement.tmx",
-      "MigrateLegacyNames": [ "AquariumBasement" ],
-      "When": { "HasMod": "KAYA.Goldfish.JA, tiakall.seabass" }
-    },
-    {
-      "Name": "Custom_BigRoom",
-      "FromMapFile": "Assets/Maps/BigRoom.tmx",
-      "MigrateLegacyNames": [ "BigRoom" ]
-    },
-    {
-      "Name": "Custom_CuratorBedroom",
-      "FromMapFile": "Assets/Maps/CuratorBedroom.tmx",
-      "MigrateLegacyNames": [ "CuratorBedroom" ]
-    },
-    {
-      "Name": "Custom_AquariumESRoom",
-      "FromMapFile": "Assets/Maps/AquariumESRoom.tmx",
-      "MigrateLegacyNames": [ "AquariumESRoom" ],
-      "When": { "HasMod": "LemurKat.EastScarpe.CP" }
-    },
-    {
-      "Name": "Custom_FishBasement",
-      "FromMapFile": "Assets/Maps/FishBasement.tmx",
-      "MigrateLegacyNames": [ "FishBasement" ]
-    },
-    {
-      "Name": "Custom_FishMuseum",
-      "FromMapFile": "Assets/Maps/FishMuseum.tmx",
-      "MigrateLegacyNames": [ "FishMuseum" ]
-    },
-    {
-      "Name": "Custom_KayaRoom",
-      "FromMapFile": "Assets/Maps/KayaRoom.tmx",
-      "MigrateLegacyNames": [ "KayaRoom" ],
-      "When": { "HasMod": "KAYA.Goldfish.JA" }
-    },
-    {
-      "Name": "Custom_LASV",
-      "FromMapFile": "Assets/Maps/LASV.tmx",
-      "MigrateLegacyNames": [ "LASV" ],
-      "When": { "HasMod": "Rafseazz.LunnaCP" }
-    },
-    {
-      "Name": "Custom_MNFBugland",
-      "FromMapFile": "Assets/Maps/MNFBugland.tmx",
-      "MigrateLegacyNames": [ "MNFBugland" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_MNFIslandRoom",
-      "FromMapFile": "Assets/Maps/MNFIslandRoom.tmx",
-      "MigrateLegacyNames": [ "MNFIslandRoom" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_MNFKoiRoom",
-      "FromMapFile": "Assets/Maps/MNFKoiRoom.tmx",
-      "MigrateLegacyNames": [ "MNFKoiRoom" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_MNFRoom",
-      "FromMapFile": "Assets/Maps/MNFRoom.tmx",
-      "MigrateLegacyNames": [ "MNFRoom" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_MNFSewer",
-      "FromMapFile": "Assets/Maps/MNFSewer.tmx",
-      "MigrateLegacyNames": [ "MNFSewer" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_MNFVerySwamp",
-      "FromMapFile": "Assets/Maps/MNFVerySwamp.tmx",
-      "MigrateLegacyNames": [ "MNFVerySwamp" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_NotYouAgainRoom",
-      "FromMapFile": "Assets/Maps/NotYouAgainRoom.tmx",
-      "MigrateLegacyNames": [ "NotYouAgainRoom" ],
-      "When": { "HasMod": "tiakall.seabassCP" }
-    },
-    {
-      "Name": "Custom_RSVRoom",
-      "FromMapFile": "Assets/Maps/RSVRoom.tmx",
-      "MigrateLegacyNames": [ "RSVRoom" ],
-      "When": { "HasMod": "Rafseazz.RSVCP" }
-    },
-    {
-      "Name": "Custom_Slimejack",
-      "FromMapFile": "Assets/Maps/Slimejack.tmx",
-      "MigrateLegacyNames": [ "Slimejack" ]
-    },
-    {
-      "Name": "Custom_SpiritOasis",
-      "FromMapFile": "Assets/Maps/SpiritOasis.tmx",
-      "MigrateLegacyNames": [ "SpiritOasis" ],
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "Name": "Custom_SVE",
-      "FromMapFile": "Assets/Maps/SVE.tmx",
-      "MigrateLegacyNames": [ "SVE" ],
-      "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" }
-    },
-    {
-      "Name": "Custom_SA_SVE_Bugland",
-      "FromMapFile": "Assets/Maps/SA_SVE_Bugland.tmx",
-      "MigrateLegacyNames": [ "SA_SVE_Bugland" ],
-      "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" }
-    },
-    {
-      "Name": "Custom_VerySwamp",
-      "FromMapFile": "Assets/Maps/VerySwamp.tmx",
-      "MigrateLegacyNames": [ "VerySwamp" ]
-    },
-  ],*/
   "Changes": [
-    // 1.6 new maps format
+    // load map assets
     {
       "LogName": "Load ExteriorMuseum",
       "Action": "Load",
@@ -171,28 +44,9 @@
       "FromFile": "Assets/Maps/ExteriorMuseum_Spring.tmx"
     },
     {
-      "LogName": "Load ExteriorMuseum Spring",
       "Action": "Load",
-      "Target": "Maps/ExteriorMuseum_Spring",
-      "FromFile": "Assets/Maps/ExteriorMuseum_Spring.tmx"
-    },
-    {
-      "LogName": "Load ExteriorMuseum Summer",
-      "Action": "Load",
-      "Target": "Maps/ExteriorMuseum_Summer",
-      "FromFile": "Assets/Maps/ExteriorMuseum_Summer.tmx"
-    },
-    {
-      "LogName": "Load ExteriorMuseum Fall",
-      "Action": "Load",
-      "Target": "Maps/ExteriorMuseum_Fall",
-      "FromFile": "Assets/Maps/ExteriorMuseum_Fall.tmx"
-    },
-    {
-      "LogName": "Load ExteriorMuseum Winter",
-      "Action": "Load",
-      "Target": "Maps/ExteriorMuseum_Winter",
-      "FromFile": "Assets/Maps/ExteriorMuseum_Winter.tmx"
+      "Target": "Maps/BigRoom, Maps/CuratorBedroom, Maps/ExteriorMuseum_Spring, Maps/ExteriorMuseum_Summer, Maps/ExteriorMuseum_Fall, Maps/ExteriorMuseum_Winter, Maps/FishBasement, Maps/FishMuseum, Maps/Slimejack",
+      "FromFile": "Assets/{{Target}}.tmx"
     },
     {
       "LogName": "Load AquariumBasement",
@@ -202,35 +56,11 @@
       "When": { "HasMod": "KAYA.Goldfish.JA, tiakall.seabassCP, HamioDracny.TCLE.CP" } // mods that goes in the new basement goes here
     },
     {
-      "LogName": "Load BigRoom",
-      "Action": "Load",
-      "Target": "Maps/BigRoom",
-      "FromFile": "Assets/Maps/BigRoom.tmx"
-    },
-    {
-      "LogName": "Load CuratorBedroom",
-      "Action": "Load",
-      "Target": "Maps/CuratorBedroom",
-      "FromFile": "Assets/Maps/CuratorBedroom.tmx"
-    },
-    {
       "LogName": "Load AquariumESRoom",
       "Action": "Load",
       "Target": "Maps/AquariumESRoom",
       "FromFile": "Assets/Maps/AquariumESRoom.tmx",
       "When": { "HasMod": "LemurKat.EastScarpe.CP" }
-    },
-    {
-      "LogName": "Load FishBasement",
-      "Action": "Load",
-      "Target": "Maps/FishBasement",
-      "FromFile": "Assets/Maps/FishBasement.tmx"
-    },
-    {
-      "LogName": "Load FishMuseum",
-      "Action": "Load",
-      "Target": "Maps/FishMuseum",
-      "FromFile": "Assets/Maps/FishMuseum.tmx"
     },
     {
       "LogName": "Load KayaRoom",
@@ -249,43 +79,8 @@
     {
       "LogName": "Load MNFBugland",
       "Action": "Load",
-      "Target": "Maps/MNFBugland",
-      "FromFile": "Assets/Maps/MNFBugland.tmx",
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "LogName": "Load MNFIslandRoom",
-      "Action": "Load",
-      "Target": "Maps/MNFIslandRoom",
-      "FromFile": "Assets/Maps/MNFIslandRoom.tmx",
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "LogName": "Load MNFKoiRoom",
-      "Action": "Load",
-      "Target": "Maps/MNFKoiRoom",
-      "FromFile": "Assets/Maps/MNFKoiRoom.tmx",
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "LogName": "Load MNFRoom",
-      "Action": "Load",
-      "Target": "Maps/MNFRoom",
-      "FromFile": "Assets/Maps/MNFRoom.tmx",
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "LogName": "Load MNFSewer",
-      "Action": "Load",
-      "Target": "Maps/MNFSewer",
-      "FromFile": "Assets/Maps/MNFSewer.tmx",
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
-      "LogName": "Load MNFVerySwamp",
-      "Action": "Load",
-      "Target": "Maps/MNFVerySwamp",
-      "FromFile": "Assets/Maps/MNFVerySwamp.tmx",
+      "Target": "Maps/MNFBugland, Maps/MNFIslandRoom, Maps/MNFKoiRoom, Maps/MNFRoom, Maps/MNFSewer, Maps/MNFVerySwamp, Maps/SpiritOasis",
+      "FromFile": "Assets/{{Target}}.tmx",
       "When": { "HasMod": "MoreFish" }
     },
     {
@@ -303,30 +98,10 @@
       "When": { "HasMod": "Rafseazz.RSVCP" }
     },
     {
-      "LogName": "Load Slimejack",
-      "Action": "Load",
-      "Target": "Maps/Slimejack",
-      "FromFile": "Assets/Maps/Slimejack.tmx"
-    },
-    {
-      "LogName": "Load SpiritOasis",
-      "Action": "Load",
-      "Target": "Maps/SpiritOasis",
-      "FromFile": "Assets/Maps/SpiritOasis.tmx",
-      "When": { "HasMod": "MoreFish" }
-    },
-    {
       "LogName": "Load SVE",
       "Action": "Load",
-      "Target": "Maps/SVE",
-      "FromFile": "Assets/Maps/SVE.tmx",
-      "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" }
-    },
-    {
-      "LogName": "Load SA_SVE_Bugland",
-      "Action": "Load",
-      "Target": "Maps/SA_SVE_Bugland",
-      "FromFile": "Assets/Maps/SA_SVE_Bugland.tmx",
+      "Target": "Maps/SVE, Maps/SA_SVE_Bugland",
+      "FromFile": "Assets/{{Target}}.tmx",
       "When": { "HasMod": "FlashShifter.StardewValleyExpandedCP" }
     },
     {
@@ -335,14 +110,6 @@
       "Target": "Maps/VerySwamp",
       "FromFile": "Assets/Maps/VerySwamp.tmx"
     },
-    /*
-    {
-      "LogName": "Load",
-      "Action": "Load",
-      "Target": "Maps/",
-      "FromFile": "Assets/Maps/.tmx"
-    },
-    */
     {
       "LogName": "Aquarium ES Location Data",
       "Action": "EditData",
@@ -588,9 +355,11 @@
       "LogName": "MNF Sewer Warps", // Adds warps to the MNF Sewer Map
       "Action": "EditMap",
       "Target": "Maps/Slimejack",
-      "MapProperties": {
-        "Warp": "28 17 Gervig91.StardewAquariumCP_MNFBugland 17 18 28 18 Gervig91.StardewAquariumCP_MNFBugland 17 19 28 19 Gervig91.StardewAquariumCP_MNFBugland 17 20"
-      },
+      "AddWarps": [
+        "28 17 Gervig91.StardewAquariumCP_MNFBugland 17 18",
+        "28 18 Gervig91.StardewAquariumCP_MNFBugland 17 19",
+        "28 19 Gervig91.StardewAquariumCP_MNFBugland 17 20"
+      ],
       "When": {
         "HasMod": "MoreFish"
       }
@@ -1619,9 +1388,9 @@
       "LogName": "MNF Big Room Exit Warp", // Changes the Big Room warp exit if you have MNF
       "Action": "EditMap",
       "Target": "Maps/BigRoom",
-      "MapProperties": {
-        "Warp": "30 16 Gervig91.StardewAquariumCP_FishMuseum 21 27"
-      },
+      "AddWarps": [
+        "30 16 Gervig91.StardewAquariumCP_FishMuseum 21 27"
+      ],
       "When": {
         "HasMod": "MoreFish"
       }
@@ -1676,13 +1445,9 @@
       "LogName": "Aquarium Basement Warp Patch",
       "Action": "EditMap",
       "Target": "Maps/FishMuseum",
-      "TextOperations": [
-        {
-          "Operation": "Append",
-          "Target": [ "MapProperties", "Warp" ],
-          "Value": "34 47 Gervig91.StardewAquariumCP_AquariumBasement 12 1 35 47 Gervig91.StardewAquariumCP_AquariumBasement 13 1",
-          "Delimiter": " "
-        }
+      "AddWarps": [
+        "34 47 Gervig91.StardewAquariumCP_AquariumBasement 12 1",
+        "35 47 Gervig91.StardewAquariumCP_AquariumBasement 13 1"
       ],
       "When": { "HasMod": "KAYA.Goldfish.JA, tiakall.seabassCP, HamioDracny.TCLE.CP" }
     },
@@ -1705,13 +1470,9 @@
       "LogName": "AquariumESRoom Warp Patch",
       "Action": "EditMap",
       "Target": "Maps/FishMuseum",
-      "TextOperations": [
-        {
-          "Operation": "Append",
-          "Target": [ "MapProperties", "Warp" ],
-          "Value": "8 45 Gervig91.StardewAquariumCP_AquariumESRoom 39 1 9 45 Gervig91.StardewAquariumCP_AquariumESRoom 40 1",
-          "Delimiter": " "
-        }
+      "AddWarps": [
+        "8 45 Gervig91.StardewAquariumCP_AquariumESRoom 39 1",
+        "9 45 Gervig91.StardewAquariumCP_AquariumESRoom 40 1"
       ],
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP"

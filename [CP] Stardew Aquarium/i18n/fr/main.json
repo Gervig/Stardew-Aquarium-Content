@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "Bienvenue dans l'Aquarium Stardew! Nous avons maintenant acquis une collection complète. Et c'est bien sur grâce à vous!",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "Séléctionez le poisson que vous souhaitez donner.",
-  "DonationQuestion": "Bienvenue dans l'Aquarium Stardew! Souhaitez vous nous confier un poisson aujourd'hui?",
-  "OptionYes": "Oui",
-  "OptionNo": "Non",
-  "More": "Plus",
-  "Exit": "Fermer",
-  "DeclineToDonate": "Vous êtes bienvenus à revenir quand vous voulez si vous changez d'avis!",
-  "NothingToDonate": "Bienvenue dans l'Aquarium Stardew! Si vous pêchez un spécimen qui nous manque, nous serious ravis de l'accueillir si vous consideriez de nous le donner!",
-  "MenuCloseFishDonated": "Merci beaucoup pour votre contribution! Revenez plus tard et nous l'aurions mis dans un habitat conforme.",
-  "MenuCloseNoFishDonated": "Revenez quand vous voulez!",
-  "Donate": "Donner: ",
-  "DonateDescription": "Appuyer sur le bouton ci-dessous pour donner ce poisson et le retirer de votre inventaire.",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0} a donné {1} à l'Aquarium",
-  "AchievementUnlockedMP": "L'Aquarium Stardew à été complété!",
-
-  //collections menu title
-  "CollectionsMenu": "Collection de L'Aquarium Stardew",
-
   //tank messages
-  "WhichFishInfo": "Sur quel poisson voudriez vous en savoir plus?",
   "EmptyTank": "Juste un aquarium vide...",
 
   // items.
@@ -182,14 +157,6 @@
   "NPCWINTER_4": "Pêcheur: Hmm? Oh bonjour, venu pour profiter du silence?",
   "NPCWINTER_5": "Dame: Simon... pose cette boulle de neige.",
   "NPCWINTER_6": "Simon portes un sourire malicieux",
-
-  //achievement
-  "AchievementName": "Dormons avec les poissons!",
-  "AchievementDescription": "As donné un de chaque poisson à l'Aquarium Stardew.",
-  "AchievementCongratulations": "Tu as réussit.... Félicitations! Reviens demain pour voir l'Aquarium remplis de merveilleux poissons!",
-
-  //ehehehe
-  "PufferchickDonated": "Tu as entendu un 'click' derrière le comptoir...",
 
   //mail
   "AquariumOpenLandslide": "Cher @,^^Je suis ravis d'entendre que personne ne fût blessé pendant l'éboulement de la nuit dernière. Mais grâce à cet évènemment j'ai entendu dire que la gare est à nouveau accessible pour les résidents de Pélican Ville.^Je suis donc fier de vous annoncer que le tout nouvel Aquarium Stardew est ouvert!^Mon ami Willy me dit que vous êtes un pêcheur doué, peut-être consideriez vous donner quelques spécimens que vous attrapez.^^Meilleures salutations, Le Conservateur de l'Aquarium Stardew.",

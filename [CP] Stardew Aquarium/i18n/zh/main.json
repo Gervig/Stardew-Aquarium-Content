@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "欢迎来到星露水族馆！我们已经收集齐了所有鱼类。这都要归功于你！",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "选择要捐赠的鱼类",
-  "DonationQuestion": "欢迎来到星露水族馆！您今天想捐赠一条鱼吗？",
-  "OptionYes": "是",
-  "OptionNo": "否",
-  "More": "更多",
-  "Exit": "退出",
-  "DeclineToDonate": "如果您改变主意，随时可以回来！",
-  "NothingToDonate": "欢迎来到星露水族馆！如果您找到我们缺少的标本，我们将非常高兴您考虑捐赠。",
-  "MenuCloseFishDonated": "非常感谢您的贡献！稍等片刻，我会安排好它！",
-  "MenuCloseNoFishDonated": "请随时回来。",
-  "Donate": "捐赠： ",
-  "DonateDescription": "点击下面的按钮将捐赠此鱼类并从您的库存中移除",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0}已经向水族馆捐赠了{1}",
-  "AchievementUnlockedMP": "星露水族馆已完成！",
-
-  //collections menu title
-  "CollectionsMenu": "星露水族馆收藏目录",
-
   //tank messages
-  "WhichFishInfo": "您想了解哪种鱼类的更多信息？",
   "EmptyTank": "只是一个空鱼缸...",
 
   // items.
@@ -256,14 +231,6 @@
   "NPCWINTER_4": "渔夫：嗯？哦，你好，祝你好运。",
   "NPCWINTER_5": "女士：把那个雪球放下，西蒙。",
   "NPCWINTER_6": "西蒙脸上露出了调皮的笑容。",
-
-  //achievement
-  "AchievementName": "与鱼儿共眠！",
-  "AchievementDescription": "向星露水族馆捐赠了每一种鱼。",
-  "AchievementCongratulations": "你做到了...恭喜！明天再来看看水族馆的最新动态吧！",
-
-  //ehehehe
-  "PufferchickDonated": "你听到柜台后面传来了一声点击声...",
 
   //mail
   "AquariumOpenLandslide": "亲爱的@，^^我很欣慰地听说昨晚清理山体滑坡时没有人受伤。但由于这个事件，我听说铁路现在又开放到鹈鹕镇了。^因此，我自豪地宣布全新的星露水族馆正式开业！^我的朋友威利告诉我你是个很棒的钓鱼者，也许你可以考虑捐赠一些你可能捕到的标本。^^最好的祝愿，星露水族馆的馆长。",

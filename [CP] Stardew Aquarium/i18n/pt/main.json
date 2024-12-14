@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "Bem-vindo ao Stardew Aquarium! Agora adquirimos uma coleção completa. E tudo graças a você!",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "Selecione o peixe para doar",
-  "DonationQuestion": "Bem-vindo ao Stardew Aquarium! Você gostaria de doar um peixe hoje?",
-  "OptionYes": "Sim",
-  "OptionNo": "Não",
-  "More": "Mais",
-  "Exit": "Fechar",
-  "DeclineToDonate": "Você está livre para voltar a qualquer momento se mudar de ideia!",
-  "NothingToDonate": "Bem-vindo ao Stardew Aquarium! Se você encontrar um espécime que estamos em falta, ficaríamos muito satisfeitos se você considerasse fazer uma doação.",
-  "MenuCloseFishDonated": "Muito obrigado pela sua contribuição! Volte mais tarde e eu terei organizado tudo!",
-  "MenuCloseNoFishDonated": "Por favor, volte a qualquer hora.",
-  "Donate": "Doar: ",
-  "DonateDescription": "Clicar no botão abaixo irá doar este peixe e removê-lo de seu inventário",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0} doou {1} ao Aquarium",
-  "AchievementUnlockedMP": "O Stardew Aquarium foi completado!",
-
-  //collections menu title
-  "CollectionsMenu": "Stardew Aquarium Coleção",
-
   //tank messages
-  "WhichFishInfo": "Sobre quais peixes você gostaria de saber mais?",
   "EmptyTank": "Apenas um tanque vazio...",
 
   // items.
@@ -183,14 +158,6 @@
   "NPCWINTER_4": "Pescador: Hmm? Oh, olá, linhas apertadas e tudo mais.",
   "NPCWINTER_5": "Moça: Coloque essa bola de neve no chão, Simon.",
   "NPCWINTER_6": "Simon tem um sorriso travesso no rosto.",
-
-  //achievement
-  "AchievementName": "Dormindo com os peixes!",
-  "AchievementDescription": "Doou um de cada peixe para o Stardew Aquarium.",
-  "AchievementCongratulations": "Você conseguiu... Parabéns! Tente voltar amanhã para ver o Aquarium em sua plenitude!",
-
-  //ehehehe
-  "PufferchickDonated": "Você ouviu algo clicar atrás do balcão...",
 
   //mail
   "AquariumOpenLandslide": "Querido(a) @,^^Estou aliviado em saber que ninguém se feriu quando o deslizamento foi eliminado na noite passada. Mas, devido a esse evento, ouvi que a ferrovia agora está disponível novamente para Pelican Town.^Portanto, tenho o orgulho de anunciar que o novo Stardew Aquarium está aberto para negócios!^Meu amigo Willy me disse que você é um grande pescador, talvez você considerasse doar alguns dos espécimes que possa pescar.^^Atenciosamente, O Curador do Stardew Aquarium.",

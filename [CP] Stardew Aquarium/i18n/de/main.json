@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed, This Translation was made by Mary1504
-  "AquariumWelcome": "Willkommen im Sternentau Aquarium! Wir haben jetzt eine vollständige Kollektion. Und das alles dank dir!",
-
-  //Donation menu dialogue and options, This Translation was made by Mary1504
-  "DonationMenuTitle": "Wähle einen Fisch zum Spenden",
-  "DonationQuestion": "Willkommen im Sternentau Aquarium! Möchtest du heute einen Fisch spenden?",
-  "OptionYes": "Ja",
-  "OptionNo": "Nein",
-  "More": "Mehr",
-  "Exit": "schließen",
-  "DeclineToDonate": "Du kannst jederzeit wiederkommen, wenn du deine Meinung änderst!",
-  "NothingToDonate": "Willkommen im Sternentau Aquarium! Falls du einmal eine Fischart findest, die uns noch fehlt, wären wir dir dankbar, wenn du eine Spende in Betracht ziehen würdest.",
-  "MenuCloseFishDonated": "Vielen Dank für deinen Beitrag! Bei deinem nächsten Besuch wird deine Spende ausgestellt sein!",
-  "MenuCloseNoFishDonated": "Du kannst jederzeit wiederkommen.",
-  "Donate": "Spende: ",
-  "DonateDescription": "Mit dem Klick auf die untere Schaltfläche wird der Fisch gespendet und aus deinem Inventar entfernt",
-
-  //global messages in multiplayer, This Translation was made by Mary1504
-  "FishDonatedMP": "{0} hat dem Aquarium {1} gespendet",
-  "AchievementUnlockedMP": "Das Sternentau Aquarium wurde vollendet!",
-
-  //collections menu title, This Translation was made by Mary1504
-  "CollectionsMenu": "Sternentau Aquarium Kollektion",
-
   //tank messages, This Translation was made by Mary1504
-  "WhichFishInfo": "Über welchen Fisch würdest Du gerne mehr wissen?",
   "EmptyTank": "Nur ein leeres Becken...",
 
   //dialogue boxes, This Translation was made by Mary1504
@@ -247,14 +222,6 @@
   "NPCWINTER_4": "Fischer: Hmm? Oh Hallo, stramme Schnur und all dat.",
   "NPCWINTER_5": "Frau: Leg den Schneeball hin, Simon.",
   "NPCWINTER_6": "Simon hat ein schelmisches Lächeln im Gesicht.",
-
-  //achievement, This Translation was made by Mary1504
-  "AchievementName": "Der mit den Fischen schläft!",
-  "AchievementDescription": "Hat jede Fischart dem Sternentau Aquarium gespendet.",
-  "AchievementCongratulations": "Du hast es geschafft... Glückwunsch! Komme morgen zurück um das Aquarium in seiner vollen Pracht zu sehen!",
-
-  //ehehehe, This Translation was made by Mary1504 (Edited by CoolRabbit123)
-  "PufferchickDonated": "Hinter dem Tresen höhrst du etwas klicken...",
 
   //mail, This Translation was made by Mary1504 (Slightly Edited by CoolRabbit123)
   "AquariumOpenLandslide": "Hallo @,^^Ich bin erleichtert zu hören, dass niemand verletzt wurde, als der Erdrutsch letzte Nacht beseitigt wurde. Allerdings ist aufgrund dieses Ereignisses der Bahnhof von Pelikan Stadt wieder zugänglich. ^Deshalb kann ich mit Stolz verkünden, dass das brandneue Sternentau Aquarium von jetzt an für Besucher geöffnet hat! ^Mein Freund Willy erzählte mir, dass du ein ganz passabler Angler bist. Vielleicht würdest Du es ja in Betracht ziehen, einige der Exemplare die du fängst an das Aquarium zu spenden. ^^Mit freundlichen Grüßen, ^der Kurator des Sternentau Aquariums",

@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "Yıldızçiyi Akvaryumu'na hoşgeldin! Şimdi tamamlanmış bir koleksiyona eriştik. Ve hepsi senin sayende!",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "Bağışlamak için balık seç",
-  "DonationQuestion": "Yıldızçiyi Akvaryumu'na hoşgeldin! Bugün bir balık bağışlamak ister misin?",
-  "OptionYes": "Evet",
-  "OptionNo": "Hayır",
-  "More": "Sonraki",
-  "Exit": "Çıkış",
-  "DeclineToDonate": "Eğer fikrini değiştirirsen istediğin zaman geri gelebilirsin!",
-  "NothingToDonate": "Yıldızçiyi Akvaryumu'na hoşgeldin! Olur da bizde olmayan bir tür bulursan ve bağış yapmak istersen memnun oluruz.",
-  "MenuCloseFishDonated": "Katkın için çok teşekkürler! Bir dakika içinde hemen balığın yeri hazırlanmış olacak!",
-  "MenuCloseNoFishDonated": "Lütfen istediğin her zaman geri gel.",
-  "Donate": "Bağışla: ",
-  "DonateDescription": "Alttaki düğmeye tıklaman balığı bağışlayacak ve envanterinden kaldıracak.",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0} Akvaryum'a {1} bağışladı.",
-  "AchievementUnlockedMP": "Yıldızçiyi Akvaryumu tamamlandı!",
-
-  //collections menu title
-  "CollectionsMenu": "Yıldızçiyi Akvaryumu Koleksiyonu",
-
   //tank messages
-  "WhichFishInfo": "Hangi balık hakkında daha fazla bilgi edinmek istersin?",
   "EmptyTank": "Sadece boş bir havuz...",
 
   //dialogue boxes
@@ -209,14 +184,6 @@
   "NPCWINTER_4": "Balıkçı: Hmm? Ah merhaba, sıkı sınırlar hepsi bu.",
   "NPCWINTER_5": "Kadın: Şu kartopunu yere bırak Simon.",
   "NPCWINTER_6": "Simon'ın yüzünde haylaz bir gülümseme var.",
-
-  //achievement
-  "AchievementName": "Balıklarla Beraber Uyku!",
-  "AchievementDescription": "Yıldızçiyi Akvaryumu'na her balıktan birer tane bağışlandı.",
-  "AchievementCongratulations": "Başardın... Tebrikler! Yarın Akvaryum'u ağzına kadar dolu görmek için geri gel!",
-
-  //ehehehe
-  "PufferchickDonated": "Tezgahın arkasında bir şeyin tıkırdadığını duyuyorsun...",
 
   //mail
   "AquariumOpenLandslide": "Sevgili @,^^Dün gece kayma temizlendiğinde kimsenin yaralanmadığını duyunca rahatladım. Ancak bunun sonrasında Pelikan Kasabası'na giden trenin tekrar kullanılabilir olduğunu duydum.^Dolayısıyla yepyeni Yıldızçiyi Akvaryumu'nun açıldığını duyurmaktan gurur duyuyorum!^Arkadaşım Willy çok iyi bir balıkçı olduğunu söylüyor, herhalde yakalayabileceğin bazı örnekleri bağışlamayı düşünürsün.^^Saygılarımla, Yıldızçiyi Akvaryumu Müdürü.",

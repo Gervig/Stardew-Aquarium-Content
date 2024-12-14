@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "¡Bienvenido al Aquario de Stardew Valley! Hemos adquirido una colección completa recientemente. ¡Y todo es gracias a ti!",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "Selecciona el pez que deseas donar",
-  "DonationQuestion": "¡Bienvenido al Aquario de Stardew Valley! ¿Te gustaría donar un pez hoy?",
-  "OptionYes": "Sí",
-  "OptionNo": "No",
-  "More": "Más",
-  "Exit": "Cerca",
-  "DeclineToDonate": "¡Eres libre de volver en cualquier momento si cambias de parecer!",
-  "NothingToDonate": "¡Bienvenido al Aquario de Stardew Valley! Si alguna vez encuentras algún espécimen que nos falte, estaríamos encantados si llegas a considerar en realizar una donación.",
-  "MenuCloseFishDonated": "¡Muchas gracias por tu contribución! ¡Vuelve en cualquier momento y lo tendré preparado!",
-  "MenuCloseNoFishDonated": "Por favor, vuelve cuando quieras.",
-  "Donate": "Donate: ",
-  "DonateDescription": "Haciendo click en el botón a continuación donarás el pez y se eliminará de tu inventario",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0} ha donado {1} en el Acuario",
-  "AchievementUnlockedMP": "¡El Acuario de Stardew Valley ha sido completado!",
-
-  //collections menu title
-  "CollectionsMenu": "Colección de Acuario Stardew",
-
   //tank messages
-  "WhichFishInfo": "¿Sobre qué pez te gustaría saber más?",
   "EmptyTank": "Solo un tanque vacío...",
 
   // items.
@@ -183,14 +158,6 @@
   "NPCWINTER_4": "Pescador: ¿Hmm? Oh hola, líneas estrechas y todo eso.",
   "NPCWINTER_5": "Señora: Deja esa bola de nieve, Simon.",
   "NPCWINTER_6": "Simon tiene una sonrisa traviesa en su rostro.",
-
-  //achievement
-  "AchievementName": "¡Durmiendo con los pececitos!",
-  "AchievementDescription": "Donó uno de cada pez al acuario Stardew.",
-  "AchievementCongratulations": "Lo hiciste.. ¡Felicitaciones! ¡Intenta volver mañana para ver el Acuario repleto!",
-
-  //ehehehe
-  "PufferchickDonated": "Escuchaste un clic detrás del mostrador...",
 
   //mail
   "AquariumOpenLandslide": "Querido @,^^Me alivia saber que nadie resultó herido cuando se despejó el deslizamiento de tierra anoche. Pero debido a este evento, escuché que el ferrocarril ahora está disponible nuevamente para Pueblo Pelícano.^¡Por lo tanto, me enorgullece anunciar que el nuevo Acuario Stardew está abierto!^Mi amigo Willy me dijo que eres buen pescador, tal vez considerarías donar algunos de los especímenes que has capturado.^^Saludos cordiales, el Curador del Acuario Stardew.",

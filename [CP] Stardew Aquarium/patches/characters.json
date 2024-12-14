@@ -1,7 +1,6 @@
 {
   "$schema": "https://smapi.io/schemas/content-patcher.json",
 
-  "Format": "2.4.0",
   "Changes": [
     /* pre-1.6 NPC stuff
     {
@@ -105,7 +104,7 @@
     */
     {
       "Action": "Include",
-      "FromFile": "GenderNeutralContent.json",
+      "FromFile": "patches/charactersGenderNeutral.json",
       "When": {
         "HasFile:{{FromFile}}": true,
         "HasMod": "Hana.GenderNeutralityMod"
@@ -120,14 +119,14 @@
     },
     {
       "Action": "Include",
-      "FromFile": "Translations/{{Language}}.json",
+      "FromFile": "CharacterTranslations/{{Language}}.json",
       "When": {
         "HasFile:{{FromFile}}": true
       }
     },
     {
       "Action": "Include",
-      "FromFile": "Translations/GenderNeutral.{{Language}}.json",
+      "FromFile": "CharacterTranslations/GenderNeutral.{{Language}}.json",
       "When": {
         "HasFile:{{FromFile}}": true,
         "HasMod": "Hana.GenderNeutralityMod"
@@ -146,7 +145,7 @@
       "LogName": "Load Events",
       "Action": "Load",
       "Target": "Data/Events/Gervig91.StardewAquariumCP_FishMuseum, Data/Events/Gervig91.StardewAquariumCP_BigRoom, Data/Events/Gervig91.StardewAquariumCP_CuratorBedroom, Data/Events/Gervig91.StardewAquariumCP_ExteriorMuseum, Data/Events/Gervig91.StardewAquariumCP_AquariumBasement, Data/Events/Gervig91.StardewAquariumCP_KayaRoom, Data/Events/Gervig91.StardewAquariumCP_NotYouAgainRoom, Data/Events/Gervig91.StardewAquariumCP_RSVRoom, Data/Events/Gervig91.StardewAquariumCP_AquariumESRoom",
-      "FromFile": "assets/{{Target}}.json",
+      "FromFile": "assets/Events/{{TargetWithoutPath}}.json",
       "When": {
         "HasFile:{{FromFile}}": true
       }
@@ -155,7 +154,7 @@
       "LogName": "Load MNF Events",
       "Action": "Load",
       "Target": "Data/Events/Gervig91.StardewAquariumCP_MNFIslandRoom, Data/Events/Gervig91.StardewAquariumCP_MNFKoiRoom, Data/Events/Gervig91.StardewAquariumCP_MNFKoiRoom, Data/Events/Gervig91.StardewAquariumCP_MNFRoom, Data/Events/Gervig91.StardewAquariumCP_SpiritOasis",
-      "FromFile": "assets/{{Target}}.json",
+      "FromFile": "assets/Events/{{TargetWithoutPath}}.json",
       "When": {
         "HasFile:{{FromFile}}": true,
         "HasMod": "MoreFish"
@@ -164,7 +163,7 @@
     {
       "LogName": "Include Special Events",
       "Action": "Include",
-      "FromFile": "assets/Data/Events/SpecialEvents.json",
+      "FromFile": "assets/Events/SpecialEvents.json",
       "When": {
         "HasFile:{{FromFile}}": true
       }

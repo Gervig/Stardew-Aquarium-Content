@@ -13,7 +13,7 @@
   "DirectionChangeChanceWhileMoving": 0.007,
   "DirectionChangeChanceWhileIdle": 0.1,
   "EnableBreathing": true,
-  "InspectionDialogue": "Shark",
+  "InspectionDialogue": "tourist.dialogue.shark",
 
   "UpAnimation": {
     "StartingFrame": 8,

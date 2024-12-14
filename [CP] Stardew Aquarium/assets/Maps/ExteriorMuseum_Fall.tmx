@@ -25136,7 +25136,7 @@
   </object>
   <object id="1077" name="TileData" x="1152" y="304" width="16" height="16">
    <properties>
-    <property name="Action" value="Message Gervig91.StardewAquariumCP_FALLNPC_2"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_fall-npc.dialogue.2"/>
    </properties>
   </object>
   <object id="1089" name="TileData" x="784" y="256" width="16" height="16">

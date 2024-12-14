@@ -25958,12 +25958,12 @@
   </object>
   <object id="1080" name="TileData" x="592" y="304" width="16" height="16">
    <properties>
-    <property name="Action" value="Message Gervig91.StardewAquariumCP_SPRINGNPC_4"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_spring-npc.dialogue.4"/>
    </properties>
   </object>
   <object id="1083" name="TileData" x="1152" y="336" width="16" height="16">
    <properties>
-    <property name="Action" value="Message Gervig91.StardewAquariumCP_SPRINGNPC_7"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_spring-npc.dialogue.7"/>
    </properties>
   </object>
   <object id="1109" name="TileData" x="592" y="400" width="16" height="16">

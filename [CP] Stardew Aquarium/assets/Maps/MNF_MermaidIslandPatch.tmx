@@ -8235,7 +8235,7 @@
   </object>
   <object id="41" name="TileData" x="368" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Boat"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Boat"/>
    </properties>
   </object>
   <object id="52" name="TileData" x="384" y="288" width="16" height="32">
@@ -8245,7 +8245,7 @@
   </object>
   <object id="53" name="TileData" x="352" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Boat"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Boat"/>
    </properties>
   </object>
   <object id="54" x="576" y="208"/>
@@ -8271,12 +8271,12 @@
   </object>
   <object id="61" name="TileData" x="368" y="160" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Boat"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Boat"/>
    </properties>
   </object>
   <object id="62" name="TileData" x="384" y="160" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Boat"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Boat"/>
    </properties>
   </object>
  </objectgroup>

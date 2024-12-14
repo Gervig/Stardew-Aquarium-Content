@@ -3341,7 +3341,7 @@
  <objectgroup id="4" name="Buildings">
   <object id="1224" name="TileData" x="32" y="96" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SA.StatueVeiled.MapString"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SA.StatueVeiled.MapString"/>
    </properties>
   </object>
  </objectgroup>

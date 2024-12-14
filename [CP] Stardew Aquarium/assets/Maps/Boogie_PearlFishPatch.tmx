@@ -70,7 +70,7 @@
  <objectgroup id="4" name="Buildings">
   <object id="158" name="TileData" x="0" y="16" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PearlFish"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PearlFish"/>
    </properties>
   </object>
  </objectgroup>

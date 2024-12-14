@@ -16825,22 +16825,22 @@
  <objectgroup id="4" name="Buildings" visible="0">
   <object id="1" name="TileData" x="544" y="304" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SVEBookOpen"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SVEBookOpen"/>
    </properties>
   </object>
   <object id="2" name="TileData" x="224" y="336" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SVEBook1"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SVEBook1"/>
    </properties>
   </object>
   <object id="3" name="TileData" x="224" y="352" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SVEBook2"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SVEBook2"/>
    </properties>
   </object>
   <object id="4" name="TileData" x="224" y="368" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SVEBook3"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SVEBook3"/>
    </properties>
   </object>
   <object id="5" name="TileData" x="448" y="304" width="16" height="16">

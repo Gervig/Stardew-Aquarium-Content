@@ -1,47 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Edit NPC display names",
-      "Action": "EditData",
-      "Target": "Data/Characters",
-      "Fields": {
-        "Curator": {
-          "DisplayName": "Curator"
-        },
-        "Goldie": {
-          "DisplayName": "Goldie"
-        }
-      }
-    },
-    {
-      "LogName": "Curator <Language> Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "How are you today, lad? I hope things are going well in town.^How are you today, lass? I hope things are going well in town.",
-        "Tue": "What grand timing! I'd just brewed a pot of tea. Fancy a cuppa? [614]$3",
-        "Wed": "And how's my old friend Willy! Next time you see him, tell him Old Henry says Hello!",
-        "Thu": "Hello lad!^Hello lass#$b#I'm chuffed to bits that you're helping me with my project.$1",
-        "Fri": "%The Curator is reading a newspaper.#$b#Ah, good day young chap.^Good day young lass.#$b#Just catching up on the latest news. Did you know there's been sightings of mermaids off the Cerulean coast?$3",
-        "Sat": "In my younger days, I used to be quite the angler you know.$3#$b#Oh, I caught some whoppers!#$b#Told a few too, when it comes to that!$1",
-        "Sun": "Don't forget to say 'Hello' to sweet Goldie. She loves attention.#$b#Did you know goldfish can live up to 43 years, and have very good memories?$1"
-      }
-    },
-    {
-      "LogName": "Goldie <Language> Dialogue",
-      "Target": "Characters/Dialogue/Goldie",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "...$0#$b#*Goldie studies you intently, as though she's trying to remember your face.*$1",
-        "Tue": "...$2#$b#...!$0#$b#*Goldie ducks behind a fake plant.*$5",
-        "Wed": "...$2#$b#*Goldie swims around in circles. She looks restless.*$1",
-        "Thu": "...$0#$b#*Goldie swims up to the glass and blows you a kiss.*$4",
-        "Fri": "...$3#$b#*Goldie flips out of the water.*$0",
-        "Sat": "...$2#$b#*Goldie seems excited to see you.*$3",
-        "Sun": "...$6#$b#*Goldie looks sleepy.*$6"
-      }
-    },
-    {
       "LogName": "FishMuseum <Language> Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",
@@ -63,56 +22,7 @@
         "HasMod |contains=Hana.GenderNeutralityMod": false
       }
     },
-    {
-      "LogName": "Willy <Language> Legendary Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Willy",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Legend": "Wow that 'Legend' is really something aye?$0#$b#I saw it at the Aquarium the other day!$1",
-        "AquariumDonated:Crimsonfish": "Have you seen the 'Crimsonfish' at the Aquarium?$0#$b#The Curator at the Aquarium told me it was caught at the pier next to my shop!$1",
-        "AquariumDonated:Angler": "I saw the 'Angler' at the Aquarium, I'm told it was caught here in Pelican Town!$0",
-        "AquariumDonated:MutantCarp": "That 'Mutant Carp' at the Aquarium is a real monster, have you seen it?$0",
-        "AquariumDonated:Glacierfish": "Have you been to the Aquarium lately?$0#$b#I saw they have the 'Glacierfish' on display now, what a beauty!$1",
-        "AquariumDonated:Pufferchick": "I snug down to the basement of the Aquarium, to take a peek at the 'Pufferchick'.$0#$b#It sure is a strange creature.$0",
-        "AquariumCompletedCT": "Can you believe the Aquarium is all done?$0#$b#What a thing!$1"
-      }
-    },
-    // 1.1.0
-    {
-      "LogName": "Abigail Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Abigail",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Pufferfish": "Have you seen the 'Pufferfish' at the Aquarium?$0#$b#I love that thing!$1"
-      }
-    },
-    {
-      "LogName": "Penny Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Penny",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Sandfish": "I took Jas and Vincent on a trip to the Aquarium recently.$0#$b#It was a great education trip for the children. But I especially liked the 'Sandfish'. It was so cute!$1"
-      }
-    },
-    {
-      "LogName": "Sebastian Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Sebastian",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Frog": "Have you been to the Aquarium lately?$0#$b#I saw they have terrarium with a 'Frog', it looked lonely so I donated one of my pet frogs...$7#$b#So it could have a friend.$1"
-      },
-      "When": {
-        "HasMod": "FlashShifter.StardewValleyExpandedCP"
-      }
-    },
-    {
-      "LogName": "Wizard Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Wizard",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:SuperCucumber": "I saw that the Aquarium have a 'Super Cucumber' on display now.$0#$b#I believe it to be a peculiar type of the regular 'Sea Cucumber', it might possess arcane properties...$0#$b#%The Wizard seems lost in thought."
-      }
-    },
+
     // 1.3.0
     {
       "LogName": "MNF Koi Room <Language> Events",

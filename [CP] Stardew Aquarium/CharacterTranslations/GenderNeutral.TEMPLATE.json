@@ -1,16 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Gender Neutral Curator <Language> Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "How are you today @? I hope things are going well in town.",
-        "Thu": "Hello @!#$b#I'm chuffed to bits that you're helping me with my project.$1",
-        "Fri": "%The Curator is reading a newspaper.#$b#Ah, good day young @.#$b#Just catching up on the latest news. Did you know there's been sightings of mermaids off the Cerulean coast?$3"
-      }
-    },
-    {
       "LogName": "Gender Neutral FishMuseum <Language> Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",

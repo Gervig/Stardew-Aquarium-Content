@@ -1,16 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Gender Neutral Curator ko-KR Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "오늘 하루는 어땠나, @? 시내에서 일이 잘 풀렸으면 좋겠네.",
-        "Thu": "안녕, @!#$b#자네가 내 프로젝트를 도와준다니 정말 기뻐.$1",
-        "Fri": "%큐레이터는 신문을 읽고있다.#$b#아, @. 좋은 하루 보내고 있나?#$b#최근 소식을 읽고 있었어. 세룰레아 해안에서 인어공주가 목격됐다는 것 봤나?$3"
-      }
-    },
-    {
       "LogName": "Gender Neutral FishMuseum ko-KR Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",

@@ -1,47 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Edit NPC display names",
-      "Action": "EditData",
-      "Target": "Data/Characters",
-      "Fields": {
-        "Curator": {
-          "DisplayName": "Müdür"
-        },
-        "Goldie": {
-          "DisplayName": "Goldie"
-        }
-      }
-    },
-    {
-      "LogName": "Curator Turkish Dialogue", //BİTTİ
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "Bugün nasılsın evlat? Umarım kasabada işler iyi gidiyordur.^Bugün nasılsın kızım? Umarım kasabada işler iyi gidiyordur.",
-        "Tue": "Ne iyi zamanlama! Bir demlik çay yapmıştım. Bir fincan alır mısın? [614]$3",
-        "Wed": "Eski dostum Willy nasıl? Onu tekrar gördüğünde İhtiyar Henry'nin selamını söyle!",
-        "Thu": "Merhaba evlat!^Merhaba kızım!#$b#Projemde bana yardımcı olduğun için o kadar mutluyum ki.$1",
-        "Fri": "%Müdür bir gazete okuyor.#$b#Ah, iyi günler evlat.^İyi günler kızım.#$b#Sadece en son haberlere bakıyordum. Gökmavisi kıyısında denizkızlarının görüldüğünü biliyor muydun?$3",
-        "Sat": "Gençlik günlerimde, bayağı iyi bir balıkçıydım bilirsin.$3#$b#Ah, bazı güzel avlar yakaladım!#$b#Birkaçını da anlattım, olay bu olunca!$1",
-        "Sun": "Tatlı Goldie'ye 'Selam' demeyi unutma. İlgiye bayılır.#$b#Japon balıklarının 43 yıla kadar yaşayabildiklerini biliyor muydun, ve çok iyi hafızaya sahip olabildiklerini?$1"
-      }
-    },
-    {
-      "LogName": "Goldie Turkish Dialogue", //BİTTİ
-      "Target": "Characters/Dialogue/Goldie",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "...$0#$b#*Goldie seni dikkatlice inceliyor, sanki yüzünü hatırlamaya çalışıyormuş gibi.*$1",
-        "Tue": "...$2#$b#...!$0#$b#*Goldie yapay bir bitkinin arkasına kaçıyor.*$5",
-        "Wed": "...$2#$b#*Goldie daireler çizerek yüzüyor. Kıpır kıpır gibi.*$1",
-        "Thu": "...$0#$b#*Goldie cama doğru yüzüyor ve sana bir öpücük uçuruyor.*$4",
-        "Fri": "...$3#$b#*Goldie suyun dışına zıplıyor.*$0",
-        "Sat": "...$2#$b#*Goldie seni gördüğüne heyecanlı gibi.*$3",
-        "Sun": "...$6#$b#*Goldie uykulu görünüyor.*$6"
-      }
-    },
-    {
       "LogName": "FishMuseum Turkish Events", //BİTTİ
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",
@@ -63,56 +22,7 @@
         "HasMod |contains=Hana.GenderNeutralityMod": false
       }
     },
-    {
-      "LogName": "Willy Turkish Legendary Fish Conversation Topics", //BİTTİ
-      "Target": "Characters/Dialogue/Willy",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Legend": "Vay şu 'Efsane' gerçekten bir şey, değil mi?$0#$b#Geçen gün onu Akvaryum'da gördüm!$1",
-        "AquariumDonated:Crimsonfish": "Akvaryum'da şu 'Kızılbalık'ı gördün mü?$0#$b#Akvaryum'daki Müdür bana onun dükkanımın hemen yanındaki iskeleden yakalandığını söyledi!$1",
-        "AquariumDonated:Angler": "Akvaryum'da 'Fener Balığı'nı gördüm, bana burada Pelikan Kasabası'nda yakalandığını söylediler!$0",
-        "AquariumDonated:MutantCarp": "Şu Akvaryum'daki 'Türeşik Sazanbalığı' gerçek bir canavar, onu gördün mü?$0",
-        "AquariumDonated:Glacierfish": "Şu aralar Akvaryum'a uğradın mı?$0#$b#Şimdi sergilerinde 'Buzulbalık' da olduğunu gördüm, ne güzellik ama!$1",
-        "AquariumDonated:Pufferchick": "Akvaryum'un bodrumuna 'Balonbalığı'na bir göz atmak için girdim.$0#$b#Çok garip bir yaratık.$0",
-        "AquariumCompletedCT": "Akvaryum'un tamamen dolduğuna inanabiliyor musun?$0#$b#Ne büyük iş!$1"
-      }
-    },
-    // 1.1.0
-    {
-      "LogName": "Abigail Fish Conversation Topics", //BİTTİ
-      "Target": "Characters/Dialogue/Abigail",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Pufferfish": "Akvaryum'da 'Balonbalığı'nı gördün mü?$0#$b#O şeye bayıldım!$1"
-      }
-    },
-    {
-      "LogName": "Penny Fish Conversation Topics", //BİTTİ
-      "Target": "Characters/Dialogue/Penny",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Sandfish": "Kısa süre önce Jas ve Vincent'ı Akvaryum'a geziye götürdüm.$0#$b#Çocuklar için harika ve eğitici bir gezi oldu. Ama özellikle 'Kumbalığı'nı sevdim. Çok tatlıydı!$1"
-      }
-    },
-    {
-      "LogName": "Sebastian Fish Conversation Topics", //BİTTİ
-      "Target": "Characters/Dialogue/Sebastian",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Frog": "Şu aralar Akvaryum'a uğradın mı?$0#$b#İçinde bir 'Kurbağa' olan bir teraryumları olduğunu gördüm, yalnız görünüyordu o yüzden ben de evcil kurbağalarımdan birini bağışladım...$7#$b#Böylece bir arkadaşı oldu.$1"
-      },
-      "When": {
-        "HasMod": "FlashShifter.StardewValleyExpandedCP"
-      }
-    },
-    {
-      "LogName": "Wizard Fish Conversation Topics", //BİTTİ
-      "Target": "Characters/Dialogue/Wizard",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:SuperCucumber": "Akvaryum'un şimdi sergide bir 'Büyük Denizhıyarı'nın olduğunu gördüm.$0#$b#Sıradan 'Denizhıyarı'nın özel bir türü olabileceğine inanıyorum, büyülü özellikler gösterebilir...$0#$b#%Büyücü düşünmeye dalmış gibi."
-      }
-    },
+
     // 1.3.0
     {
       "LogName": "MNF Koi Room Turkish Events", //BİTTİ

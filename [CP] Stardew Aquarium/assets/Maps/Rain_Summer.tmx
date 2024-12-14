@@ -24832,7 +24832,7 @@
  <objectgroup id="4" name="Buildings">
   <object id="1067" name="TileData" x="752" y="144" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Introvert"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Introvert"/>
    </properties>
   </object>
   <object id="1069" name="TileData" x="240" y="160" width="16" height="16">
@@ -24847,7 +24847,7 @@
   </object>
   <object id="1074" name="TileData" x="384" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString OutsideSign"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_OutsideSign"/>
    </properties>
   </object>
   <object id="1075" name="TileData" x="416" y="144" width="16" height="16">

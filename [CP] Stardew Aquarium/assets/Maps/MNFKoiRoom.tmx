@@ -11042,32 +11042,32 @@
   </object>
   <object id="15" name="TileData" x="192" y="112" width="48" height="16">
    <properties>
-    <property name="Action" value="AquariumString WaterfallCave"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_WaterfallCave"/>
    </properties>
   </object>
   <object id="16" name="TileData" x="368" y="352" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PrettyFlower"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PrettyFlower"/>
    </properties>
   </object>
   <object id="18" name="TileData" x="368" y="320" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PrettyFlower"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PrettyFlower"/>
    </properties>
   </object>
   <object id="22" name="TileData" x="48" y="320" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PrettyFlower"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PrettyFlower"/>
    </properties>
   </object>
   <object id="23" name="TileData" x="48" y="368" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PrettyFlower"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PrettyFlower"/>
    </properties>
   </object>
   <object id="25" name="TileData" x="240" y="496" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PrettyFlower"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PrettyFlower"/>
    </properties>
   </object>
  </objectgroup>

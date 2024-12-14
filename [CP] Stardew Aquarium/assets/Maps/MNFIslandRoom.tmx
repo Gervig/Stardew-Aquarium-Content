@@ -1906,17 +1906,17 @@
   </object>
   <object id="4" name="TileData" x="80" y="544" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString IslandBag"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_IslandBag"/>
    </properties>
   </object>
   <object id="5" name="TileData" x="96" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Cheater"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Cheater"/>
    </properties>
   </object>
   <object id="6" name="TileData" x="112" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Cheater"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Cheater"/>
    </properties>
   </object>
  </objectgroup>

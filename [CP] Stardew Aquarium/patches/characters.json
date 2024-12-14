@@ -32,7 +32,7 @@
           "Home": [
             {
               "ID": "Default",
-              "Location": "Gervig91.StardewAquariumCP_CuratorBedroom",
+              "Location": "{{ModId}}_CuratorBedroom",
               "Tile": { "X": 6, "Y": 7 },
               "Direction": "Down"
             }
@@ -52,7 +52,7 @@
           "Home": [
             {
               "ID": "Default",
-              "Location": "Gervig91.StardewAquariumCP_FishMuseum",
+              "Location": "{{ModId}}_FishMuseum",
               "Tile": { "X": 15, "Y": 46 },
               "Direction": "Down"
             }
@@ -144,7 +144,7 @@
     {
       "LogName": "Load Events",
       "Action": "Load",
-      "Target": "Data/Events/Gervig91.StardewAquariumCP_FishMuseum, Data/Events/Gervig91.StardewAquariumCP_BigRoom, Data/Events/Gervig91.StardewAquariumCP_CuratorBedroom, Data/Events/Gervig91.StardewAquariumCP_ExteriorMuseum, Data/Events/Gervig91.StardewAquariumCP_AquariumBasement, Data/Events/Gervig91.StardewAquariumCP_KayaRoom, Data/Events/Gervig91.StardewAquariumCP_NotYouAgainRoom, Data/Events/Gervig91.StardewAquariumCP_RSVRoom, Data/Events/Gervig91.StardewAquariumCP_AquariumESRoom",
+      "Target": "Data/Events/{{ModId}}_FishMuseum, Data/Events/{{ModId}}_BigRoom, Data/Events/{{ModId}}_CuratorBedroom, Data/Events/{{ModId}}_ExteriorMuseum, Data/Events/{{ModId}}_AquariumBasement, Data/Events/{{ModId}}_KayaRoom, Data/Events/{{ModId}}_NotYouAgainRoom, Data/Events/{{ModId}}_RSVRoom, Data/Events/{{ModId}}_AquariumESRoom",
       "FromFile": "assets/Events/{{TargetWithoutPath}}.json",
       "When": {
         "HasFile:{{FromFile}}": true
@@ -153,7 +153,7 @@
     {
       "LogName": "Load MNF Events",
       "Action": "Load",
-      "Target": "Data/Events/Gervig91.StardewAquariumCP_MNFIslandRoom, Data/Events/Gervig91.StardewAquariumCP_MNFKoiRoom, Data/Events/Gervig91.StardewAquariumCP_MNFKoiRoom, Data/Events/Gervig91.StardewAquariumCP_MNFRoom, Data/Events/Gervig91.StardewAquariumCP_SpiritOasis",
+      "Target": "Data/Events/{{ModId}}_MNFIslandRoom, Data/Events/{{ModId}}_MNFKoiRoom, Data/Events/{{ModId}}_MNFKoiRoom, Data/Events/{{ModId}}_MNFRoom, Data/Events/{{ModId}}_SpiritOasis",
       "FromFile": "assets/Events/{{TargetWithoutPath}}.json",
       "When": {
         "HasFile:{{FromFile}}": true,

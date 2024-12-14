@@ -1,59 +1,4 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "Yıldızçiyi Akvaryumu'na hoşgeldin! Şimdi tamamlanmış bir koleksiyona eriştik. Ve hepsi senin sayende!",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "Bağışlamak için balık seç",
-  "DonationQuestion": "Yıldızçiyi Akvaryumu'na hoşgeldin! Bugün bir balık bağışlamak ister misin?",
-  "OptionYes": "Evet",
-  "OptionNo": "Hayır",
-  "More": "Sonraki",
-  "Exit": "Çıkış",
-  "DeclineToDonate": "Eğer fikrini değiştirirsen istediğin zaman geri gelebilirsin!",
-  "NothingToDonate": "Yıldızçiyi Akvaryumu'na hoşgeldin! Olur da bizde olmayan bir tür bulursan ve bağış yapmak istersen memnun oluruz.",
-  "MenuCloseFishDonated": "Katkın için çok teşekkürler! Bir dakika içinde hemen balığın yeri hazırlanmış olacak!",
-  "MenuCloseNoFishDonated": "Lütfen istediğin her zaman geri gel.",
-  "Donate": "Bağışla: ",
-  "DonateDescription": "Alttaki düğmeye tıklaman balığı bağışlayacak ve envanterinden kaldıracak.",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0} Akvaryum'a {1} bağışladı.",
-  "AchievementUnlockedMP": "Yıldızçiyi Akvaryumu tamamlandı!",
-
-  //collections menu title
-  "CollectionsMenu": "Yıldızçiyi Akvaryumu Koleksiyonu",
-
-  //tank messages
-  "WhichFishInfo": "Hangi balık hakkında daha fazla bilgi edinmek istersin?",
-  "EmptyTank": "Sadece boş bir havuz...",
-
-  //dialogue boxes
-  "Ice": "Bunca buz... şu makineyle havuzu soğuk tutmak için kullanılıyor.",
-  "IceMachine": "Bu makine tankı çok düşük sıcaklıkların altında soğuk tutuyor.",
-  "Pressure": "Bu makine bu balık havuzunun basıncını yönetmek için kullanılıyor.",
-  "Depth": "Bu bir derinlik ölçerin çok isabetli bir temsili, ama gerçek değil.",
-  "PanelCool": "Bu panelin üstünde birsürü düğme var, dokunmamak daha iyi.",
-  "Lever": "Üzgünüm ama bu kol seni hiçbir yere götürmeyecek.",
-  "Bench": "Şu banklar yepyeni görünüyor...",
-  "LegendaryBook": "Efsanevi Balıklar ile ilgili bir Balıkçı Rehberi.",
-  "MinesBook": "Madenler : Ne tür balıklar burada yaşayabilir?",
-  "BaitBook": "Yem ve doğru kullanımı.",
-  "Dropped": "Görünüşe göre birisi kitaplara karşı duyarsızmış...",
-  "PetBook": "Balık Ansiklopedisi: 1. Cilt.",
-  "Dwarf": "Bu sana birisini hatırlatıyor... Ama kimdir çıkaramıyorsun...",
-  "Introvert": "Neden burada saklandığımı mı soruyorsun? İçine kapanık biriyim.",
-  "StayHydratedBois": "*içme sesleri*",
-  "OutsideSign": "Yıldızçiyi Akvaryumu'na hoşgeldiniz! Ziyaretinizin keyfini çıkarın.",
-  "SewerTP": "Bu ızgaradan aşağıya gitmek sizi lağıma, sadece türeşik böcek sığınağı isminde tehlikeli bir yerde bulunabilen özel bir balığı tuttuğumuz yere götürecek.",
-  "SwampTP": "Eğer bu büyülü çembere basarsanız bataklığın izole edilmiş bir kısmına, 'boşlukla birleşmiş' türlerimizin yaşayabileceği yere ışınlanacaksınız.",
-  "SVETP": "Bazı özel balıklardan oluşan sergimizi görmek için bu kapıya doğru adım atın.",
-  "ComingSoon": "Yakında!",
-  "SVEBookOpen": "Bu bir yemek kitabı. Bir Tereyağı Balığı hakkında bir şeyden bahsediyor...",
-  "SVEBook1": "Canavar Listesinde görülmeli: Apophis",
-  "SVEBook2": "Crimson Kırgıbayırları: Derinlemesine bir bakış.",
-  "SVEBook3": "Kale Köyü'nün Sırrı",
-  "Shopkeeperecksdeehahafunny": "Dondurmacı Adam: Hey buraya gelemezsin!",
-
   //fish descriptions
   "Tank_Pufferfish": "Balonbalığı dünyadaki en zehirli balıklardan biridir. Yavaş hareket eden bir balık, ancak özel bir savunma mekanizmasına sahiptir: Yemek olmaktan kaçınmak için karnını suyla doldurabilir.",
   "Tank_Anchovy": "Hamsi çoğu avcı için normal bir av olan küçük süzücü bir balıktır.",
@@ -125,7 +70,6 @@
   "Tank_Butterfish": "Tereyağıbalığı bir tatlısu balığıdır, mevsime göre Yıldızçiyi Vadisi'nde farklı sularda bulunabilir.",
 
   //1.1.0 fish descriptions
-
   "Tank_DottedAbalone": "Noktalı Denizkulağı bir grup yumuşakçaya verilen bir isimdir. 'Kulakkabuğu', 'Koyunbalığı', 'Koyunkabuğu' gibi başka isimlerle de bilinirler.",
   "Tank_Scallop": "Tarak çok geniş bir yumuşakça çeşitliliğine verilen bir isimdir. İstiridyeler olarak adlandırılan diğer bir grupla yakın akrabadırlar.",
   "Tank_DewdropFish": "Çiydamlası Balığı, su damlası veya daha doğrusu çiy damlası şekli bu balığa özgün ismini veriyor.",
@@ -136,12 +80,7 @@
   "Tank_KingSalmon": "Kral Somonu, bu dev balık somonun en büyük türüdür. Çoğu balıkçı için çok değerli bir balıktır.",
   "Tank_Frog": "Kurbağalar geniş ve çeşitli bir amfibyan grubuna aittir. Ses tellerini kullanarak, kurbağalar çeşitli vıraklama sesleri çıkarabilir.",
 
-  //1.1.0 dialogue boxes
-
-  "LASV_TP": "Bu sihirli parıltılara basmak seni yeni büyülü bir dünyaya ışınlayacak!",
-
   //1.2.0 Fish descriptions
-
   "Tank_SonOfCrimsonfish": "Bu genç Kızılbalık gösterişli bir kuyruğa sahip, ancak basbayağı geçici.",
   "Tank_RadioactiveCarp": "Bu balık radyoaktif. Ancak endişelenme, bu havuzda güvenli bir şekilde tutuluyor.",
   "Tank_Ms.Angler": "Bu fener balığı makyaj yapmış gibi görünüyor...",
@@ -151,25 +90,7 @@
   "Tank_BlueDiscus": "Mavi Diskus bir çiklit türüdür, sıcaklık değişimlerine çok duyarlıdır ve ılık suları tercih eder.",
   "Tank_Lionfish": "Aslanbalığı veya bilindiği başka isimlerle 'zebrabalığı' veya 'ateşbalığı' zehirli bir deniz balığıdır. Küçük balıklar ve yumuşakçalarla beslenen etkili bir yırtıcıdır. Bazı alanlarda bazı Aslanbalıkları istilacı bir tür kabul edilir. Şuanda Aslanbalığı'nın 12 tane bilinen türü bulunmaktadır.",
 
-  //1.3.0 dialogue boxes
-
-  "WaterfallCave": "Bu sadece şelalenin arkasındaki mecburi mağara. Burada görecek bir şey yok, işine bak.",
-  "KoiRoom": "Kapının yanındaki levhada yazıyor ki: Koi Havuzu",
-  "PrettyFlower": "Durup çiçekleri kokluyorsun.",
-  "Knight": "Zırhın içine bakıyorsun. Evde kimse yok.",
-  "Sword": "Kılıç çok kör. Muhtemelen yalnızca süs.",
-  "MNFBook1": "Denizkızı Adası tur rehber kitabı.",
-  "MNFBook2": "Kedi Balçıklar, Ejderhalar ve diğer büyülü yaratıklar.",
-  "MNFBook3": "Büyülü Ghibli Şehri.",
-  "MNFBook4": "Bir inşaat kataloğu. Akvaryumlar ve nasıl inşa edildikleri.",
-  "Tea": "Birisi masanın üstünde sıcak çay fincanını bırakmış. Hala sıcak.",
-  "Boat": "Birsürü deliği olan eski bir tekne.",
-  "Cactus": "Dikkatlice yetişip kaktüse dokunuyorsun. Şansına gerçek değil.",
-  "Vase": "Güzel eğimli bir vazo.",
-  "Coconut": "Ağacı sallamaya çalışıyorsun. Ancak hiçbir şey olmuyor... Ne bekliyordun, bir hindistan cevizinin düşmesini mi?",
-
   //1.3.0 MNF fish descriptions
-
   "Tank_MNF.MoreNewFish_glassfish": "Cam Balığı olağanüstü şeffaf bir vücuda sahiptir; kabuklularla, halkalı solucanlarla ve diğer omurgasızlarla beslenir. Genellikle daha büyük balıkların yiyeceğidir.",
   "Tank_MNF.MoreNewFish_coelacanth": "Kolekant şuanda sadece 2 yaşayan türe sahip bir balık grubudur. Bu grubun uzun zaman boyunca neslinin tükendiği sanılıyordu ancak daha sonra öyle olmadığı keşfedildi.",
   "Tank_MNF.MoreNewFish_cavefish": "Mağara Balığı, mağaralarda yaşamaya adapte olmuş balıklar için genel bir terimdir. Troglomorfizm olarak bilinen alışılmadık adaptasyonlara sahiptirler. Devamlı karanlıkta yaşayan hayvanlar için adaptasyonlar genellikle pigment, görüş kaybını veya muhtemel körlüğü içerir.",
@@ -294,29 +215,7 @@
   "Tank_MNF.MoreNewFish_tui": "Ay Ruhu Tui, Ruh Vahası'nı yaratmak için ruh dünyasından geçti. Beyaz bir Koi balığının formuna büründü. Okyanus Ruhu'yla bağları koparsa dünyanın dengesi bozulur, iki balığı da bu havuza döndürmek dengeyi yerine koyacak.",
   "Tank_MNF.MoreNewFish_la": "Okyanus Ruhu La, Ruh Vahası'nı yaratmak için ruh dünyasından geçti. Siyah bir Koi balığının formuna büründü. Ay Ruhu'yla bağları koparsa dünyanın dengesi bozulur, iki balığı da bu havuza döndürmek dengeyi yerine koyacak.",
 
-  //1.4.0 dialogue boxes
-
-  "RSVRoom": "Tepeyanı Köyü'nden gelen balıklarımızı ve diğer nadir örnekleri görmek için bu kapının ardına bakın.",
-  "RSVBook1": "Yıldızçiyi Balıkçılık Dergisi 13#...Ninni Sazanı, güzün nadir avı.",
-  "RSVBook2": "Yıldızçiyi Balıkçılık Dergisi 7#...Bıçakkuyruklu Mersinbalığı, Tepeyanı Köyü'nün nadir yaz mersinbalığı.",
-  "RSVBook3": "Yıldızçiyi Balıkçılık Dergisi 9#...Kardiya Septal Denizanası, denizde yaşayan nadir bir denizanası.",
-  "RSVBook4": "Yıldızçiyi Balıkçılık Dergisi 2#...Crimson Dikenli Deniztarağı, baharda bulunabileceği söylenen denizde yaşayan ender bir kabuklu.",
-  "RSVBook5": "Yıldızçiyi Balıkçılık Dergisi 10#...Perimasalı Aslanbalığı, perimasalı mı gerçek mi?^^Yıldızçiyi yakınındaki okyanus sularında mevsimin 2. çarşambasında görüldüğü söylenir.",
-  "RSVBook6": "Yıldızçiyi Balıkçılık Dergisi 3#...Onarıcı Yılanbalığı, 'Tepe'de' baharda ve yazın bulunan nadir bir yılanbalığı.",
-  "RSVBook7": "Yıldızçiyi Balıkçılık Dergisi 1#...Altın Gül Yüzgeçli, bir okuyucu bu ender balığı mevsimin son cumartesi günü 'Tepe'de' yakaladığını yazıyor.",
-  "RSVBook8": "Yıldızçiyi Balıkçılık Dergisi 69#...Pelerinli Ağaç Kurbağası, amfibyan mı balık mı? Amfibyan!^^...Güzün 'Tepe'de' haftasonu bulunmuş.",
-  "RSVBook9": "Yıldızçiyi Balıkçılık Dergisi 5#...Hasatçı Levrek, Tepeyanı Köyü'nün nadir bahar levreği.",
-  "RSVBook10": "Yıldızçiyi Balıkçılık Dergisi 1#...Çakıl Sırtlı Yengeç, Tepeyanı Köyü'nün nadir yaz kabuklusu.",
-
-  "SmallPlant": "Daha yeni filiz vermeye başlamış küçük bir bitki, kısa süre önce sulanmış.",
-  "CuratorBedroom": "Bu Müdür'ün yatak odası, şuanda kilitli.",
-  "MNFIslandRoom": "Kapının yanındaki levhada yazıyor ki : Orman Odası",
-  "IslandBag": "Çantayı açıyorsun...#......#.........#İçi boş.",
-  "Cheater": "İşletildin.",
-  "PearlFish": "İnci Balığı daha küçük kabuklularla beslenen pembe bir balıktır, bazen arkasında ismini aldığı inciler gibi sindirilemeyen parçalar bırakır.",
-
   //1.4.0 Fish Descriptions
-
   "Tank_PearlFish": "Bu güzel pembe balık küçük kabuklularla beslenir, bazen arkasında ismini aldığı inciler gibi sindirilemeyen parçalar bırakır.",
   // RSV Fish
   "Tank_PebbleBackCrab": "Çakıl Sırtlı Yengeç ender bir kabuklu türüdür. Kabuklarını süslemek için çakıltaşları ve diğer mineralleri toplama davranışları için isimlerini almışlardır. Bilinmeyen sebeplerden ender ve pahalı mineraller ve taşlarla süslenmeyi tercih ediyorlar, bu da onları biraz kar elde etmeye çalışan balıkçılar için ideal hedefler haline getiriyor.",
@@ -336,131 +235,5 @@
   // MNF
   "Tank_MNF.MoreNewFish_clown_triggerfish": "Palyaço Tetikbalığı veya bilindiği başka bir isimle 'Büyükbenekli Tetikbalığı', tetikbalığı ailesine ait bir deniz balığıdır. Çoğu Tetikbalığı gibi agresif davranır ve bölgesini koruyacaktır.",
   "Tank_MNF.MoreNewFish_bonnethead": "Kürekkafalı Köpekbalığı veya bilindiği başka bir isimle 'Kaput Köpekbalığı', çekiçbaşlı köpekbalığının küçük bir türüdür. Ağırlıklı olarak kabuklularla beslenen hareketli bir tropik köpekbalığıdır. Dişiler erkeklerden daha büyüktür.",
-  "Tank_MNF.MoreNewFish_black_ghost_knifefish": "Siyah Hayalet Bıçakbalığı, Hayalet Bıçakbalığı isminde bir ışın yüzgeçli balık ailesine ait olan tropik bir tatlısu balığıdır. Bu tür hem iletişim hem de elektrolokasyon için kullanılabilecek zayıl elektrik boşaltımları yapabilir.",
-
-  //npc dialogue such long
-
-  "SPRINGNPC_1": "Turist: Hediye dükkanından ne almalıyım?",
-  "SPRINGNPC_2": "Turist: Selam, Akvaryum'a ilk defa mı geliyorsun?",
-  "SPRINGNPC_3": "Kadın seni farketmiyor, meşgul.",
-  "SPRINGNPC_4": "Gözlüklü adam sana kendinden emin bir şekilde gülümsüyor.",
-  "SPRINGNPC_5": "Turist: Suyun içinde biraz balık görebiliyorum!",
-  "SPRINGNPC_6": "Turist: Arkadaşım buraya en son geldiğinde bir yunus gördüğünü söyledi.",
-  "SPRINGNPC_7": "Turist: Her bahar ve yaz buraya gelirim, bu sahili seviyorum.",
-  "SPRINGNPC_8": "Turist: Eğer yüzmeye gitmek istiyorsan, sahilin güney tarafını dene.",
-  "SPRINGNPC_9": "Turist: Selam, ben sadece arkadaşlarımı bekliyorum.",
-  "SPRINGNPC_10": "Turist: Merhaba, kumsalın tadını çıkarmaya mı geldin?",
-  "SPRINGNPC_11": "Turist: Bütün bu yiyeceklere bak!",
-  "SPRINGNPC_12": "Turist: Buraya müzik için geliyorum.",
-  "SPRINGNPC_13": "Turist: Üzgünüm seni tanımıyorum.",
-  "SPRINGNPC_14": "Turist: N'aber?",
-  "SPRINGNPC_15": "Turist: Ah selam, sadece bu gelgit havuzuna bakıyordum.",
-  "SPRINGNPC_16": "Turist: Bu yemek gerçekten iyi.",
-  "SPRINGNPC_17": "Turist: Gerçekten susadım.",
-  "SPRINGNPC_18": "Turist: Bunu denedin mi? Kötü değil.",
-  "SPRINGNPC_19": "Turist: Selam, gel bir ısırık al?",
-  "SPRINGNPC_20": "Turist: İlk neyi denemeliyim?",
-  "SPRINGNPC_21": "Turist: Şurada tıkınıp duran bütün şu insanlara bak.",
-  "SPRINGNPC_22": "Turist: Suya girmek için cesaretimi toplamaya çalışıyorum.",
-  "SPRINGNPC_23": "Turist: Bugün su güzel, denemelisin.",
-  "SPRINGNPC_24": "Turist: Selam, yüzmeye mi gidiyorsun?",
-  "SPRINGNPC_25": "Turist: Yüzmeye gitmek istiyorum, ama su saçımı mahvedecek.",
-  "SPRINGNPC_26": "Turist: Sahili baharda seviyorum, ne çok sıcak ne çok soğuk.",
-  "SPRINGNPC_27": "Turist: Güneş banyosunu denemeliyim, güzelce bronzlaşabilirim.",
-  "SPRINGNPC_28": "Turist: Hmm? Ah düşünmeye dalmışım.",
-  "SPRINGNPC_29": "Turist: Yüzmeye gitmek ister misiniz? Renkli sınırın diğer tarafındaki alanı kullanın.",
-  "SPRINGNPC_30": "Turist: Merhaba, gününüz iyi geçiyor mu?",
-  "SPRINGNPC_31": "Turist: Akvaryumu seviyorum, ama bu kumsal da güzel.",
-  "SPRINGNPC_32": "Turist: Selam, bugün hava güzel. Sizce de öyle değil mi?",
-
-  "NPCSUMMER_1": "Gözlüklü adam sana kendinden emin bir şekilde gülümsüyor.",
-  "NPCSUMMER_2": "Turist: Yeni bir bikini üstü almalı mıyım?",
-  "NPCSUMMER_3": "Turist: Hayır olamaz! Cüzdanımı getirmeyi unutmuşum.",
-  "NPCSUMMER_4": "Turist: Ne sevimli bir balık akvaryumu.",
-  "NPCSUMMER_5": "Turist: Akvaryum'da sergide ne balıklar var merak ediyorum.",
-  "NPCSUMMER_6": "Turist: Selam, Akvaryum'a ilk defa mı geliyorsun?",
-  "NPCSUMMER_7": "Turist: Aşağıda kumsalda dondurma alabileceğini biliyor muydun?",
-  "NPCSUMMER_8": "Kadın: Akvaryum'daki balıklara bakmaya gitmek ister misin, Simon?",
-  "NPCSUMMER_9": "Simon seni farketmek için lolipopunu yalamakla fazla meşgul.",
-  "NPCSUMMER_10": "Turist: Her bahar ve yaz buraya gelirim, bu sahili seviyorum.",
-  "NPCSUMMER_11": "Turist: İskeledeki manzara senenin bu zamanı gerçekten güzel.",
-  "NPCSUMMER_12": "Turist: Suda bir tavuk gördüğüme yemin edebilirim, herhalde yalnızca bir balonbalığıydı.",
-  "NPCSUMMER_13": "Turist: Sana yardımcı olabilir miyim?",
-  "NPCSUMMER_14": "Turist: Ah merhaba tatlım. Bugün nasılsın?",
-  "NPCSUMMER_15": "Turist: Canım çok fena dondurma çekiyor.",
-  "NPCSUMMER_16": "Turist: İskeledeki şu kadın şaşırmış görünüyor.",
-  "NPCSUMMER_17": "Palyaço: Bir balon numarası görmek ister misin?",
-  "NPCSUMMER_18": "Turist: Bir sahilde bir palyaço ne yapıyor?",
-  "NPCSUMMER_19": "Turist: Selam, ben sadece arkadaşlarımı bekliyorum.",
-  "NPCSUMMER_20": "Turist: Buradan günbatımını seyretmeyi seviyorum.",
-  "NPCSUMMER_21": "Turist: Okyanus bugün güzel görünüyor.",
-  "NPCSUMMER_22": "Adam: Üff! Bugün hava çok sıcak.",
-  "NPCSUMMER_23": "Turist: Yazın suyun renklerine bayılıyorum.",
-  "NPCSUMMER_24": "Turist: Eğer güneşlenmeye gidersen, güneş kremi sürmeyi unutma.",
-  "NPCSUMMER_25": "Turist: Yüzmeye gitmek ister misiniz? Renkli sınırın diğer tarafındaki alanı kullanın.",
-  "NPCSUMMER_26": "Turist: Yüzmeye gitmek serinelemenin harika bir yolu.",
-  "NPCSUMMER_27": "Turist: Yüzme maskemi getirmeliydim.",
-  "NPCSUMMER_28": "Turist: Yüzmeye gitmiyorum, saçımı mahveder su.",
-  "NPCSUMMER_29": "Turist: Eğer çok bunaldıysan duya atlamayı denemelisin.",
-  "NPCSUMMER_30": "Turist: Selam, yüzmeye mi gidiyorsun?",
-  "NPCSUMMER_31": "Turist: Suya girmek için cesaretimi toplamaya çalışıyorum.",
-  "NPCSUMMER_32": "Turist: Acaba bu kumsalda hiç denizkabuğu var mıdır merak ediyorum.",
-  "NPCSUMMER_33": "Adam kestiriyor, onu muhtemelen rahatsız etmemelisin.",
-  "NPCSUMMER_34": "Turist: Sanırım bir yengeç gördüm.",
-  "NPCSUMMER_35": "Turist: Merhaba, havanın keyfini mi çıkarıyorsun?",
-  "NPCSUMMER_36": "Turist: Şu gelgit havuzlarında birsürü denizyıldızı var.",
-  "NPCSUMMER_37": "Turist: Ne istiyorsun?",
-  "NPCSUMMER_38": "Turist: Ah saçımı mı beğendin? Teşekkür ederim!",
-  "NPCSUMMER_39": "Turist: Şu gelgit havuzlarında çok fazla hayat var.",
-  "NPCSUMMER_40": "Turist: Hey!",
-  "NPCSUMMER_41": "Turist: N'aber abi?",
-  "NPCSUMMER_42": "Adam: Kumsalda birsürü güzel fotoğraf çekebilirsin.",
-  "NPCSUMMER_43": "Turist: Şuradaki o adam az önce resmimi çekti.",
-  "NPCSUMMER_44": "Kadın seni farketmek için yemekle fazla meşgul.",
-  "NPCSUMMER_45": "Turist: Artık yiyemem.",
-  "NPCSUMMER_46": "Turist: Merhaba, aç mısın?",
-  "NPCSUMMER_47": "Turist: Böğürtlen Kobler! En sevdiğim.",
-  "NPCSUMMER_48": "Turist: Umarım bunun hiçbir yerinde sitrus yoktur. Görüyorsun alerjim var.",
-  "NPCSUMMER_49": "Turist: Bu lahana salatası mı? Lahana salatasına bayılırım.",
-  "NPCSUMMER_50": "Turist: Bu et leziz.",
-  "NPCSUMMER_51": "Turist: Acaba bu mezelerde neler var, lezzetliler!",
-  "NPCSUMMER_52": "Turist: Ne?! Birisi tabağımdaki yemeği yemiş. Ah bekle, o bendim.",
-  "NPCSUMMER_53": "Turist: Çok fazla yemek var!",
-  "NPCSUMMER_54": "Turist: Bak Karides Kokteyli'miz var, ne hoş.",
-  "NPCSUMMER_55": "Turist: Hey, birbirimizi tanıyor muyuz?",
-  "NPCSUMMER_56": "Turist: Burada atıştırmalıklar satıyorlar, gerçekten ucuza.",
-  "NPCSUMMER_57": "Kadın seni görmezden geliyor",
-
-  "FALLNPC_1": "Kadın seni görmezden geliyor",
-  "FALLNPC_2": "Gözlüklü adam sana kendinden emin bir şekilde gülümsüyor.",
-  "FALLNPC_3": "Turist: Herkes nerede? Galiba güz pek ünlü bir kumsal mevsimi değil.",
-  "FALLNPC_4": "Turist: Bana sorarsan su yüzmek için senenin bu zamanında fazla soğuk.",
-  "FALLNPC_5": "Turist: Su birazcık soğuk, ama önemli değil.",
-  "FALLNPC_6": "Turist: Biraz serin gibi.",
-  "FALLNPC_7": "Turist: Hey dostum.",
-  "FALLNPC_8": "Turist: Selam, bugün nasılsın?",
-  "FALLNPC_9": "Turist: Kış gelmeden önce son güneş parçasını yakalamalıyım..",
-  "FALLNPC_10": "Turist: Bu şişelerin içinde ne var merak ediyorum.",
-  "FALLNPC_11": "Turist: Kobler adamdır.",
-  "FALLNPC_12": "Turist: Merhaba, aç mısın?",
-  "FALLNPC_13": "Turist: Eti denedin mi?",
-
-  "NPCWINTER_1": "Balıkçı: Burada gece idare eder bir 'Mürekkepbalığı' yakalayabilirsin.",
-  "NPCWINTER_2": "Balıkçı kendi kendine bir deniz şarkısı mırıldanıyor",
-  "NPCWINTER_3": "Balıkçı: Biraz balık tutmaya mı geldin?",
-  "NPCWINTER_4": "Balıkçı: Hmm? Ah merhaba, sıkı sınırlar hepsi bu.",
-  "NPCWINTER_5": "Kadın: Şu kartopunu yere bırak Simon.",
-  "NPCWINTER_6": "Simon'ın yüzünde haylaz bir gülümseme var.",
-
-  //achievement
-  "AchievementName": "Balıklarla Beraber Uyku!",
-  "AchievementDescription": "Yıldızçiyi Akvaryumu'na her balıktan birer tane bağışlandı.",
-  "AchievementCongratulations": "Başardın... Tebrikler! Yarın Akvaryum'u ağzına kadar dolu görmek için geri gel!",
-
-  //ehehehe
-  "PufferchickDonated": "Tezgahın arkasında bir şeyin tıkırdadığını duyuyorsun...",
-
-  //mail
-  "AquariumOpenLandslide": "Sevgili @,^^Dün gece kayma temizlendiğinde kimsenin yaralanmadığını duyunca rahatladım. Ancak bunun sonrasında Pelikan Kasabası'na giden trenin tekrar kullanılabilir olduğunu duydum.^Dolayısıyla yepyeni Yıldızçiyi Akvaryumu'nun açıldığını duyurmaktan gurur duyuyorum!^Arkadaşım Willy çok iyi bir balıkçı olduğunu söylüyor, herhalde yakalayabileceğin bazı örnekleri bağışlamayı düşünürsün.^^Saygılarımla, Yıldızçiyi Akvaryumu Müdürü.",
-  "AquariumOPenLater": "Merhaba @!^^Yepyeni Yıldızçiyi Akvaryumu'nun açıldığını duyurmaktan gurur duyuyorum!^Arkadaşım Willy çok iyi bir balıkçı olduğunu söylüyor, herhalde yakalayabileceğin bazı örnekleri bağışlamayı düşünürsün.^^Saygılarımla, Yıldızçiyi Akvaryumu Müdürü."
+  "Tank_MNF.MoreNewFish_black_ghost_knifefish": "Siyah Hayalet Bıçakbalığı, Hayalet Bıçakbalığı isminde bir ışın yüzgeçli balık ailesine ait olan tropik bir tatlısu balığıdır. Bu tür hem iletişim hem de elektrolokasyon için kullanılabilecek zayıl elektrik boşaltımları yapabilir."
 }

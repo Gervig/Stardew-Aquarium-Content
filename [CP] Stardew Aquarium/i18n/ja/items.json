@@ -1,0 +1,11 @@
+{
+  "Decor": "Decor", // used as the override category name for one item.
+  "pufferchick-shirt-name": "ニワトリフグTシャツ",
+  "pufferchick-shirt-description": "Tシャツを集めるのはもうこりごりだ。",
+
+  "legendary-bait-name": "伝説の釣りエサ",
+  "legendary-bait-description": "非常に珍しい魚を惹き付けます…",
+
+  "pufferchick-name": "ニワトリフグ",
+  "pufferchick-description": "半分はニワトリ、半分はフグ。"
+}

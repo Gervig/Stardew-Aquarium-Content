@@ -1,0 +1,11 @@
+{
+  "Decor": "Decor", // used as the override category name for one item.
+  "pufferchick-shirt-name": "Camiseta de Globo-Pollo",
+  "pufferchick-shirt-description": "He estado allí, he hecho eso, y ya tengo la camiseta.",
+
+  "legendary-bait-name": "Legendary Bait", // new!
+  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+
+  "pufferchick-name": "Globo-Pollo",
+  "pufferchick-description": "Mitad pollo, mitad Pez Globo."
+}

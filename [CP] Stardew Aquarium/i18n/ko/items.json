@@ -1,0 +1,11 @@
+{
+  "Decor": "Decor", // used as the override category name for one item.
+  "pufferchick-shirt-name": "복어닭 셔츠",
+  "pufferchick-shirt-description": "아쿠아리움에 갔노라, 물고기를 모았노라, 티셔츠를 얻었노라.",
+
+  "legendary-bait-name": "Legendary Bait", // new!
+  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+
+  "pufferchick-name": "복어닭",
+  "pufferchick-description": "반은 복어고 반은 닭입니다."
+}

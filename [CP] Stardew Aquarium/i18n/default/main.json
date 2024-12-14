@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "Welcome to the Stardew Aquarium! We've now acquired a full collection. And it's all thanks to you!",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "Select fish to donate",
-  "DonationQuestion": "Welcome to the Stardew Aquarium! Would you like to donate a fish today?",
-  "OptionYes": "Yes",
-  "OptionNo": "No",
-  "More": "More",
-  "Exit": "Exit",
-  "DeclineToDonate": "You are free to return anytime if you change your mind!",
-  "NothingToDonate": "Welcome to the Stardew Aquarium! If you ever find a specimen we're missing, we'd be delighted if you would considering making a donation.",
-  "MenuCloseFishDonated": "Thank you so much for your contribution! Come back in a moment and I will have set it up!",
-  "MenuCloseNoFishDonated": "Please come back any time.",
-  "Donate": "Donate: ",
-  "DonateDescription": "Clicking the button below will donate this fish and remove it from your inventory",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0} has donated {1} to the Aquarium",
-  "AchievementUnlockedMP": "The Stardew Aquarium has been completed!",
-
-  //collections menu title
-  "CollectionsMenu": "Stardew Aquarium Collection",
-
   //tank messages
-  "WhichFishInfo": "Which fish would you like to know more about?",
   "EmptyTank": "Just an empty tank...",
 
   // items.
@@ -559,14 +534,6 @@
   "NPCWINTER_4": "Fisherman: Hmm? Oh hello, tight lines n' all that.",
   "NPCWINTER_5": "Lady: Put that snowball down Simon.",
   "NPCWINTER_6": "Simon has a mischievous smile on his face.",
-
-  //achievement
-  "AchievementName": "Sleeping with the Fishies!",
-  "AchievementDescription": "Donated one of every fish to the Stardew Aquarium.",
-  "AchievementCongratulations": "You did it... Congratulations ! Try coming back tomorrow to see the Aquarium at it's fullest!",
-
-  //ehehehe
-  "PufferchickDonated": "You heard something click behind the counter...",
 
   //mail
   "AquariumOpenLandslide": "Dear @,^^I am relieved to hear that no one got injured when the landslide was cleared last night. But due to this event I hear the railroad is now available again to Pelican Town.^Therefore I'm proud to announce that the brand new Stardew Aquarium is open for business!^My friend Willy tells me you’re quite the angler, perhaps you would consider donating some of the specimens you might catch.^^Best regards, The Curator of the Stardew Aquarium.",

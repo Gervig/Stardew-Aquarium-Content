@@ -1,30 +1,5 @@
 {
-  //Welcome message after the stardew aquarium has been completed
-  "AquariumWelcome": "スターデュー水族館へようこそ！これで完全なコレクションを取得しました。すべてあなたのおかげです！",
-
-  //Donation menu dialogue and options
-  "DonationMenuTitle": "寄付する魚を選択してください",
-  "DonationQuestion": "スターデュー水族館へようこそ！今日は魚を寄付しませんか？",
-  "OptionYes": "はい",
-  "OptionNo": "いいえ",
-  "More": "次へ",
-  "Exit": "閉じる",
-  "DeclineToDonate": "またのお越しをお待ちしています！",
-  "NothingToDonate": "スターデュー水族館へようこそ！ 新しい個体を見つけた際には、寄付をご検討いただければ幸いです。",
-  "MenuCloseFishDonated": "ご協力ありがとうございました！ すぐに設置してきますね！",
-  "MenuCloseNoFishDonated": "いつでもお待ちしています。",
-  "Donate": "寄付: ",
-  "DonateDescription": "下のボタンをクリックすると、この魚が寄付され、インベントリから除外されます",
-
-  //global messages in multiplayer
-  "FishDonatedMP": "{0}は{1}を水族館に寄付した",
-  "AchievementUnlockedMP": "スターデュー水族館が完成しました！",
-
-  //collections menu title
-  "CollectionsMenu": "スターデュー水族館コレクション",
-
   //tank messages
-  "WhichFishInfo": "どの魚についてもっと知りたいですか？",
   "EmptyTank": "空っぽの水槽です…",
 
   // items.
@@ -562,14 +537,6 @@
   "NPCWINTER_4": "釣り人：んー？ やぁこんにちは。釣れてるかい？",
   "NPCWINTER_5": "女性：サイモン、その雪玉を置きなさい。",
   "NPCWINTER_6": "サイモンはおちゃめな表情で笑っている。",
-
-  //achievement
-  "AchievementName": "魚と一緒におねんねだ！",
-  "AchievementDescription": "スターデュー水族館にすべての魚を寄付しました。",
-  "AchievementCongratulations": "やりきりました…すばらしい！ 水族館に戻って沢山の魚たちが泳いでいるのを見てみましょう！",
-
-  //ehehehe
-  "PufferchickDonated": "カウンターの向こうで何かがカチッという音がした…。",
 
   //mail
   "AquariumOpenLandslide": "@様へ^^昨晩のがけ崩れでは誰にもケガがなかったと聞いて安心しました。またそれが除去作業で解消された事によって、ペリカンタウンからの鉄道が再び利用できるようになったと聞き及んでいます。^つきましては、当スターデュー水族館が新たにオープンした事をお知らせいたします！^友人のウィリーから聞いた話によると、あなたは相当な実力の釣り人なんだそうですね。もしよければ、釣り上げた魚介類を当館展示の標本として寄付をご検討していただきたく思います。^^よろしくお願いします。スターデュー水族館 館長",

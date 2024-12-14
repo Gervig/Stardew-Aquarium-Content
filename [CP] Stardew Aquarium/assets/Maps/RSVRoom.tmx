@@ -7971,62 +7971,62 @@
   </object>
   <object id="13" name="TileData" x="32" y="352" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SmallPlant"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SmallPlant"/>
    </properties>
   </object>
   <object id="14" name="TileData" x="16" y="224" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Dropped"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Dropped"/>
    </properties>
   </object>
   <object id="22" name="TileData" x="16" y="288" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVBook5"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook5"/>
    </properties>
   </object>
   <object id="25" name="TileData" x="16" y="272" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVBook4"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook4"/>
    </properties>
   </object>
   <object id="26" name="TileData" x="16" y="256" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVBook3"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook3"/>
    </properties>
   </object>
   <object id="27" name="TileData" x="16" y="176" width="16" height="32">
    <properties>
-    <property name="Action" value="AquariumString RSVBook1"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook1"/>
    </properties>
   </object>
   <object id="28" name="TileData" x="32" y="176" width="16" height="32">
    <properties>
-    <property name="Action" value="AquariumString RSVBook2"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook2"/>
    </properties>
   </object>
   <object id="29" name="TileData" x="592" y="176" width="16" height="32">
    <properties>
-    <property name="Action" value="AquariumString RSVBook6"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook6"/>
    </properties>
   </object>
   <object id="31" name="TileData" x="608" y="176" width="16" height="32">
    <properties>
-    <property name="Action" value="AquariumString RSVBook7"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook7"/>
    </properties>
   </object>
   <object id="32" name="TileData" x="608" y="256" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVBook8"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook8"/>
    </properties>
   </object>
   <object id="35" name="TileData" x="608" y="272" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVBook9"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook9"/>
    </properties>
   </object>
   <object id="36" name="TileData" x="608" y="288" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVBook10"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVBook10"/>
    </properties>
   </object>
   <object id="38" name="TileData" x="288" y="208" width="16" height="16">

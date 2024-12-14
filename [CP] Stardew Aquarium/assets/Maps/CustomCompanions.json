@@ -528,22 +528,22 @@
         {
           "Position": { "X": 43, "Y": 12 },
           "Layer": "Buildings",
-          "SetProperties": {"Action": "AquariumString NPCSUMMER_8"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCSUMMER_8"}
         },
         {
           "Position": { "X": 44, "Y": 12 },
           "Layer": "Buildings",
-          "SetProperties": {"Action": "AquariumString NPCSUMMER_9"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCSUMMER_9"}
         },
         {
           "Position": { "X": 46, "Y": 24 },
           "Layer": "Buildings",
-          "SetProperties": {"Action": "AquariumString NPCSUMMER_17"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCSUMMER_17"}
         },
         {
           "Position": { "X": 22, "Y": 47 },
           "Layer": "Buildings",
-          "SetProperties": {"Action": "AquariumString NPCSUMMER_33"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCSUMMER_33"}
         }
       ],
       "When": {
@@ -602,32 +602,32 @@
         {
           "Position": { "X": 72, "Y": 21 },
           "Layer": "Buildings",
-          "SetProperties": {"AquariumString": "NPCWINTER_1"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCWINTER_1"}
         },
         {
           "Position": { "X": 39, "Y": 38 },
           "Layer": "Buildings",
-          "SetProperties": {"AquariumString": "NPCWINTER_5"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCWINTER_5"}
         },
         {
           "Position": { "X": 40, "Y": 38 },
           "Layer": "Buildings",
-          "SetProperties": {"AquariumString": "NPCWINTER_6"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCWINTER_6"}
         },
         {
           "Position": { "X": 11, "Y": 47 },
           "Layer": "Buildings",
-          "SetProperties": {"AquariumString": "NPCWINTER_4"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCWINTER_4"}
         },
         {
           "Position": { "X": 38, "Y": 59 },
           "Layer": "Buildings",
-          "SetProperties": {"AquariumString": "NPCWINTER_3"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCWINTER_3"}
         },
         {
           "Position": { "X": 63, "Y": 55 },
           "Layer": "Buildings",
-          "SetProperties": {"AquariumString": "NPCWINTER_2"}
+          "SetProperties": {"Action": "Message {{ModId}}_NPCWINTER_2"}
         }
       ],
       "When": {

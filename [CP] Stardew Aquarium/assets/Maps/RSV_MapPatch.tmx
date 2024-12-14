@@ -268,7 +268,7 @@
   </object>
   <object id="136" name="TileData" x="64" y="48" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString RSVRoom"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_RSVRoom"/>
    </properties>
   </object>
  </objectgroup>

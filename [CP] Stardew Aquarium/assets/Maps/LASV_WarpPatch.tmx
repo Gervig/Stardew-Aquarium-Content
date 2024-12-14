@@ -114,7 +114,7 @@
  <objectgroup id="13" name="Buildings">
   <object id="2" name="TileData" x="16" y="16" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString LASV_TP"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_LASV_TP"/>
    </properties>
   </object>
  </objectgroup>

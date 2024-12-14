@@ -502,7 +502,7 @@
           "Position": { "X": 29, "Y": 11 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString SA.Riddle1.Clue2"
+            "Action": "Message {{ModId}}_SA.Riddle1.Clue2"
           }
         }
       ],
@@ -639,7 +639,7 @@
           "Position": { "X": 10, "Y": 14 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString SA.StatueUnveiled.MapString"
+            "Action": "Message {{ModId}}_SA.StatueUnveiled.MapString"
           }
         },
       ],
@@ -793,7 +793,7 @@
           "Position": { "X": 16, "Y": 45 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString CuratorBedroom"
+            "Action": "Message {{ModId}}_CuratorBedroom"
           }
         }
       ]
@@ -933,112 +933,112 @@
           "Position": { "X": 23, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 24, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 25, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 26, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 27, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 28, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 29, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 30, "Y": 25},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 23, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 24, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 25, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 26, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 27, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 28, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 29, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 30, "Y": 26},
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         }
       ],
@@ -1057,42 +1057,42 @@
           "Position": { "X": 19, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 20, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 21, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 22, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 23, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 24, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         }
       ],
@@ -1111,42 +1111,42 @@
           "Position": { "X": 11, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 12, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 13, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 14, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 15, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         },
         {
           "Position": { "X": 16, "Y": 5 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGoldfish"
+            "Action": "Message {{ModId}}_KAYAGoldfish"
           }
         }
       ],
@@ -1165,98 +1165,98 @@
           "Position": { "X": 6, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 7, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 8, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 9, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 10, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 11, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 12, "Y": 25 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 6, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 7, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 8, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 9, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 10, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 11, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         },
         {
           "Position": { "X": 12, "Y": 26 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYABetta"
+            "Action": "Message {{ModId}}_KAYABetta"
           }
         }
       ],
@@ -1275,7 +1275,7 @@
           "Position": { "X": 14, "Y": 20 },
           "Layer": "Buildings",
           "SetProperties": {
-            "Action": "AquariumString KAYAGuppy"
+            "Action": "Message {{ModId}}_KAYAGuppy"
           }
         }
       ],

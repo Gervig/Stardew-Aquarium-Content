@@ -22842,7 +22842,7 @@
  <objectgroup id="4" name="Buildings">
   <object id="1109" name="TileData" x="688" y="608" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Gnomed"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Gnomed"/>
    </properties>
   </object>
   <object id="1110" name="TileData" x="240" y="160" width="16" height="16">
@@ -22857,37 +22857,37 @@
   </object>
   <object id="1113" name="TileData" x="384" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString OutsideSign"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_OutsideSign"/>
    </properties>
   </object>
   <object id="1114" name="TileData" x="1152" y="336" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString NPCWINTER_1"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_NPCWINTER_1"/>
    </properties>
   </object>
   <object id="1115" name="TileData" x="1008" y="880" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString NPCWINTER_2"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_NPCWINTER_2"/>
    </properties>
   </object>
   <object id="1116" name="TileData" x="608" y="944" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString NPCWINTER_3"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_NPCWINTER_3"/>
    </properties>
   </object>
   <object id="1117" name="TileData" x="176" y="752" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString NPCWINTER_4"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_NPCWINTER_4"/>
    </properties>
   </object>
   <object id="1118" name="TileData" x="624" y="608" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString NPCWINTER_5"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_NPCWINTER_5"/>
    </properties>
   </object>
   <object id="1119" name="TileData" x="640" y="608" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString NPCWINTER_6"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_NPCWINTER_6"/>
    </properties>
   </object>
   <object id="1129" name="TileData" x="416" y="144" width="16" height="16">

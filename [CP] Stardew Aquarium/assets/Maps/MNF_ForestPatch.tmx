@@ -1038,7 +1038,7 @@
   </object>
   <object id="136" name="TileData" x="48" y="64" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString KoiRoom"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_KoiRoom"/>
    </properties>
   </object>
   <object id="137" name="TileData" x="64" y="80" width="16" height="16">

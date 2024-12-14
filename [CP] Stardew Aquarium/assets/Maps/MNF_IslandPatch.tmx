@@ -47,7 +47,7 @@
  <objectgroup id="4" name="Buildings">
   <object id="139" name="TileData" x="0" y="16" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString MNFIslandRoom"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_MNFIslandRoom"/>
    </properties>
   </object>
   <object id="141" name="TileData" x="16" y="16" width="16" height="16">
@@ -57,7 +57,7 @@
   </object>
   <object id="142" name="TileData" x="0" y="0" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString MNFIslandRoom"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_MNFIslandRoom"/>
    </properties>
   </object>
  </objectgroup>

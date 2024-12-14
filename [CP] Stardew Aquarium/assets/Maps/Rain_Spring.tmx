@@ -25794,7 +25794,7 @@
   </object>
   <object id="1075" name="TileData" x="384" y="176" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString OutsideSign"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_OutsideSign"/>
    </properties>
   </object>
   <object id="1084" name="TileData" x="416" y="144" width="16" height="16">

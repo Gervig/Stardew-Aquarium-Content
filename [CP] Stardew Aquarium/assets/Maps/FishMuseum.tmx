@@ -17228,17 +17228,17 @@
   </object>
   <object id="55" name="TileData" x="224" y="496" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString LegendaryBook"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_LegendaryBook"/>
    </properties>
   </object>
   <object id="56" name="TileData" x="224" y="480" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString MinesBook"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_MinesBook"/>
    </properties>
   </object>
   <object id="57" name="TileData" x="224" y="464" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString BaitBook"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_BaitBook"/>
    </properties>
   </object>
   <object id="64" name="TileData" x="240" y="768" width="16" height="16">
@@ -17248,32 +17248,32 @@
   </object>
   <object id="75" name="TileData" x="496" y="464" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString IceMachine"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_IceMachine"/>
    </properties>
   </object>
   <object id="77" name="TileData" x="608" y="464" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Pressure"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Pressure"/>
    </properties>
   </object>
   <object id="78" name="TileData" x="656" y="480" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Depth"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Depth"/>
    </properties>
   </object>
   <object id="79" name="TileData" x="720" y="480" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Lever"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Lever"/>
    </properties>
   </object>
   <object id="80" name="TileData" x="688" y="480" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PanelCool"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PanelCool"/>
    </properties>
   </object>
   <object id="82" name="TileData" x="480" y="464" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Ice"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Ice"/>
    </properties>
   </object>
   <object id="89" name="TileData" x="320" y="416" width="16" height="16">
@@ -17358,27 +17358,27 @@
   </object>
   <object id="116" name="TileData" x="368" y="736" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PetBook"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PetBook"/>
    </properties>
   </object>
   <object id="117" name="TileData" x="384" y="752" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Dropped"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Dropped"/>
    </properties>
   </object>
   <object id="118" name="TileData" x="224" y="304" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Dwarf"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Dwarf"/>
    </properties>
   </object>
   <object id="125" name="TileData" x="128" y="640" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SewerTP"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SewerTP"/>
    </properties>
   </object>
   <object id="127" name="TileData" x="176" y="640" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString SwampTP"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_SwampTP"/>
    </properties>
   </object>
   <object id="128" name="TileData" x="112" y="640" width="16" height="16">
@@ -17393,12 +17393,12 @@
   </object>
   <object id="138" name="TileData" x="464" y="464" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Ice"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Ice"/>
    </properties>
   </object>
   <object id="139" name="TileData" x="672" y="480" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString PanelCool"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_PanelCool"/>
    </properties>
   </object>
   <object id="145" name="TileData" x="704" y="320" width="16" height="16">
@@ -17693,7 +17693,7 @@
   </object>
   <object id="228" name="TileData" x="272" y="752" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumString Hatch"/>
+    <property name="Action" value="Message Gervig91.StardewAquariumCP_Hatch"/>
    </properties>
   </object>
   <object id="229" name="TileData" x="336" y="736" width="16" height="16">

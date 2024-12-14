@@ -1,3 +1,8 @@
+/*
+
+These entries are referenced from map tile properties, like `Message {{ModId}}_Boat`.
+
+*/
 {
   "$schema": "https://smapi.io/schemas/content-patcher.json",
 

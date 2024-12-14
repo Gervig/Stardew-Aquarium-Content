@@ -1,0 +1,11 @@
+{
+  "Decor": "Decor", // used as the override category name for one item.
+  "pufferchick-shirt-name": "Camiseta de Galiacu",
+  "pufferchick-shirt-description": "Galiacu!",
+
+  "legendary-bait-name": "Legendary Bait", // new!
+  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+
+  "pufferchick-name": "Galiacu",
+  "pufferchick-description": "Meio frango, meio baiacu."
+}

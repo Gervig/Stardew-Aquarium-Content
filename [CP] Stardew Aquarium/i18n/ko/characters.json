@@ -1,4 +1,41 @@
 {
+  "curator.name": "큐레이터",
+  "curator.dialogue.Mon": "오늘 하루는 어땠나, 젊은이? 시내에서 일이 잘 풀렸으면 좋겠네.^오늘 하루는 어땠나, 아가씨? 시내에서 일이 잘 풀렸으면 좋겠네.",
+  "curator.dialogue.Tue": "딱 맞춰서 도착했군! 마침 티타임이야. 한 잔 들겠나? [614]$3",
+  "curator.dialogue.Wed": "내 오래된 친구 윌리는 잘 지내나 몰라! 다음에 그를 만나면, 오래된 친구 헨리가 안부를 묻는다고 전해주게!",
+  "curator.dialogue.Thu": "안녕, 젊은이!^안녕, 아가씨!#$b#자네가 내 프로젝트를 도와준다니 정말 기뻐.$1",
+  "curator.dialogue.Fri": "%큐레이터는 신문을 읽고있다.#$b#아, 좋은 하루 보내고 있나, 젊으니.^아, 좋은 하루 보내고 있나, 아가씨.#$b#최근 소식을 읽고 있었어. 세룰레아 해안에서 인어공주가 목격됐다는 것 봤나?$3",
+  "curator.dialogue.Sat": "소싯적 나도 꽤 강태공이었다네.$3#$b#내가 후퍼스를 좀 잡았지!#$b#놀러오면 옛 이야기를 좀 해주지!$1",
+  "curator.dialogue.Sun": "우리 귀여운 골디에게도 인사하는 것을 잊지 말아주게. 그 아인 관심받는걸 좋아하거든.#$b#자넨 금붕어가 43년까지 살 수 있고, 아주 좋은 추억을 가질 수 있다는 것을 알고있나?$1",
+  "curator.dialogue.genderNeutral.Mon": "오늘 하루는 어땠나, @? 시내에서 일이 잘 풀렸으면 좋겠네.",
+  "curator.dialogue.genderNeutral.Thu": "안녕, @!#$b#자네가 내 프로젝트를 도와준다니 정말 기뻐.$1",
+  "curator.dialogue.genderNeutral.Fri": "%큐레이터는 신문을 읽고있다.#$b#아, @. 좋은 하루 보내고 있나?#$b#최근 소식을 읽고 있었어. 세룰레아 해안에서 인어공주가 목격됐다는 것 봤나?$3",
+
+  "goldie.name": "골디",
+  "goldie.dialogue.Mon": "...$0#$b#*골디는 당신을 유심히 바라보며, 얼굴을 기억해내려고 애쓰는 듯하다.*$1",
+  "goldie.dialogue.Tue": "...$2#$b#...!$0#$b#*골디는 가짜 수초 뒤에 숨었다.*$5",
+  "goldie.dialogue.Wed": "...$2#$b#*골디가 원을 그리며 헤엄친다. 안절부절 못하는 것 같다.*$1",
+  "goldie.dialogue.Thu": "...$0#$b#*골디는 수면까지 헤엄쳐 올라와 키스를 날린다.*$4",
+  "goldie.dialogue.Fri": "...$3#$b#*골디가 수면에서 공중제비를 했다.*$0",
+  "goldie.dialogue.Sat": "...$2#$b#*골디는 당신을 만나 반가워 보인다.*$3",
+  "goldie.dialogue.Sun": "...$6#$b#*골디는 졸려보인다.*$6",
+
+  "abigail.dialogue.AquariumDonated:Pufferfish": "너 아쿠아리움에서 '복어닭'이란 거 봤어?$0#$b#나 그거 진짜 맘에 들더라!$1",
+
+  "penny.dialogue.AquariumDonated:Sandfish": "얼마전에 제스와 빈센트를 데리고 아쿠아리움에 현장학습을 갔어요.$0#$b#교육적이고, 아이들에겐 정말 귀중한 경험이에요. 전 '도루묵'이 특히 좋더라고요. 샌드피쉬라고도 하는데, 귀엽지 않나요?$1",
+
+  "sebastian.dialogue.AquariumDonated:Frog": "최근에 아쿠아리움에 가봤어?$0#$b#거기에 개구리 테라리움이 있더라. 거기 개구리가 외로워 보여서 내 개구리 중 하나를 기증했어...$7#$b#친구가 생겼으니 이제 외롭지 않을거야.$1",
+
+  "willy.dialogue.AquariumDonated:Legend": "이야, '전설의 물고기'가 진짜 존재한다니?$0#$b#일전에 아쿠아리움에서 봤어!$1",
+  "willy.dialogue.AquariumDonated:Crimsonfish": "아쿠아리움에서 '크림슨피쉬' 본 적 있어?$0#$b#큐레이터 말로는 우리 가게 옆 부두에서 잡혔다는데!$1",
+  "willy.dialogue.AquariumDonated:Angler": "아쿠아리움에서 '아귀'를 봤는데, 여기 펠리컨 타운에서 잡힌 거라고 말했지!$0",
+  "willy.dialogue.AquariumDonated:MutantCarp": "아쿠아리움에서 '돌연변이 잉어'를 봤는데 진짜 괴물같더라. 너도 봤어?$0",
+  "willy.dialogue.AquariumDonated:Glacierfish": "최근에 아쿠아리움 가봤어?$0#$b#'빙하고기'가 전시된 걸 봤는데 정말 아름답더라!$1",
+  "willy.dialogue.AquariumDonated:Pufferchick": "아쿠아리움 지하에 숨어들어가서 내가 뭘 본 줄 알아? '복어닭'이 있었어.$0#$b#정말 이상한 생물이었어.$0",
+  "willy.dialogue.AquariumCompletedCT": "아쿠아리움이 완성되었다는게 믿겨져?$0#$b#세상에 이런 일이!$1",
+
+  "wizard.dialogue.AquariumDonated:SuperCucumber": "아쿠아리움에 '슈퍼 해삼'을 전시해 놨더군.$0#$b#그건 해삼의 독특한 아종이야. 불가사의한 성질을 띄고 있지...$0#$b#%마법사는 생각에 잠긴 듯하다.",
+
   "SPRINGNPC_1": "관광객: 선물가게에서 무엇을 사야 할까?",
   "SPRINGNPC_2": "관광객: 안녕, 아쿠아리움은 처음이니?",
   "SPRINGNPC_3": "그녀는 바빠보인다.",

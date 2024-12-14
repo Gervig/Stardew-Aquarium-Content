@@ -1,47 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Edit NPC display names",
-      "Action": "EditData",
-      "Target": "Data/Characters",
-      "Fields": {
-        "Curator": {
-          "DisplayName": "Куратор"
-        },
-        "Goldie": {
-          "DisplayName": "Голди"
-        }
-      }
-    },
-    {
-      "LogName": "Curator Russian Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "Как ты сегодня, парень? Надеюсь, в городе дела идут хорошо.^Как ты сегодня, дорогая? Надеюсь, в городе дела идут хорошо.",
-        "Tue": "Какой прекрасный день! Я только что заварил чай. Не желаешь попробовать? [614]$3",
-        "Wed": "А как поживает мой старый друг Вилли? В следующий раз, когда ты его увидишь, передай ему привет от меня!",
-        "Thu": "Привет, парень!^Привет,дорогая#$b#Я очень рад, что ты помогаешь мне с моим проектом.$1",
-        "Fri": "%Генри читает газету.#$b#Ах, добрый день, молодой человек.^Доброго времени суток, юная дама.#$b#Просто читаю последние новости. Тут говорится, что у побережья Церулеана были замечены русалки.$3",
-        "Sat": "В молодые годы я был настоящим рыбаком.$3#$b#Ох, помню как смог поймать несколько огромных рыб!#$b#До сих пор их вспоминаю.$1",
-        "Sun": "Не забудьте поздороваться с Голди. Она любит внимание.#$b#Кстати факт: золотые рыбки могут жить до 43 лет и имеют очень хорошую память.$1"
-      }
-    },
-    {
-      "LogName": "Goldie Russian Dialogue",
-      "Target": "Characters/Dialogue/Goldie",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "...$0#$b#*Голди пристально изучает Вас, как будто пытается вспомнить ваше лицо*$1",
-        "Tue": "...$2#$b#...!$0#$b#*Голди прячется за искусственным растением*$5",
-        "Wed": "...$2#$b#*Голди плавает кругами. Она выглядит беспокойной*.$1",
-        "Thu": "...$0#$b#*Голди подплывает к стеклу и посылает Вам воздушный поцелуй*$4",
-        "Fri": "...$3#$b#*Голди выпрыгивает из воды*$0",
-        "Sat": "...$2#$b#*Голди, кажется, рада Вас видеть*$3",
-        "Sun": "...$6#$b#*Голди выглядит сонной*$6"
-      }
-    },
-    {
       "LogName": "FishMuseum Russian Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",
@@ -63,56 +22,7 @@
         "HasMod |contains=Hana.GenderNeutralityMod": false
       }
     },
-    {
-      "LogName": "Willy Russian Legendary Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Willy",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Legend": "Не думал,что «Легенда» и правда существует.$0#$b#Я просто видел её на днях в Аквариуме.$1",
-        "AquariumDonated:Crimsonfish": "Вы видели «Кримзонфиш» в Аквариуме?$0#$b#Куратор Аквариума сказал мне, что его поймали на пристани рядом с моим магазином!$1",
-        "AquariumDonated:Angler": "Я видел «Морского черта» в Аквариуме. Мне сказали, что его поймали здесь, в городе Пеликан!$0",
-        "AquariumDonated:MutantCarp": "Этот «Карп-мутант» в Аквариуме - настоящее чудовище, Вы его видели?$0",
-        "AquariumDonated:Glacierfish": "Вы посещали Аквариум в последнее время?$0#$b#Я видел, что у них сейчас выставлен «Лёдоруб», какая красота!$1",
-        "AquariumDonated:Pufferchick": "В подвале Аквариума есть рыба «Фугу-цыплёнок».$0#$b#Очень странное создание.$0",
-        "AquariumCompletedCT": "Вы можете поверить, что в Аквариуме уже есть все экземпляры?$0#$b#Просто удивительно!$1"
-      }
-    },
-    // 1.1.0
-    {
-      "LogName": "Abigail Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Abigail",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Pufferfish": "Видели Рыбу-фугу в аквариуме?$0#$b#Мне нравится эта рыбка!$1"
-      }
-    },
-    {
-      "LogName": "Penny Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Penny",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Sandfish": "Недавно я взяла Джас и Винсента на экскурсию в Аквариум.$0#$b#Это была отличная образовательная поездка для детей. Но особенно мне понравилась Песчаная рыба. Это было так мило!$1"
-      }
-    },
-    {
-      "LogName": "Sebastian Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Sebastian",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Frog": "Были в Аквариуме в последнее время?$0#$b#Я увидел, что у них есть террариум с Лягушкой, она выглядела одинокой, поэтому я пожертвовал одну из своих домашних лягушек...$7#$b#Чтобы у неё мог быть друг.$1"
-      },
-      "When": {
-        "HasMod": "FlashShifter.StardewValleyExpandedCP"
-      }
-    },
-    {
-      "LogName": "Wizard Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Wizard",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:SuperCucumber": "Я видел, что в Аквариуме сейчас выставлен Супер огурец.$0#$b#Я полагаю, что это своеобразный сорт обычного Морского огурца, он может обладать тайными свойствами...$0#$b#%Волшебник, кажется, погрузился в свои мысли."
-      }
-    },
+
     // 1.3.0
     {
       "LogName": "MNF Koi Room Russian Events",

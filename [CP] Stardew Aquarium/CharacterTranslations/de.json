@@ -1,47 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Edit NPC display names",
-      "Action": "EditData",
-      "Target": "Data/NPCDispositions",
-      "Fields": {
-        "Curator": {
-          "DisplayName": "Kurator"
-        },
-        "Goldie": {
-          "DisplayName": "Goldie"
-        }
-      }
-    },
-    {
-      "LogName": "Curator de-DE Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "Wie geht es dir heute mein Lieber? Ich hoffe, es läuft alles gut in der Stadt.^Wie geht es dir heute meine Liebe? Ich hoffe, es läuft alles gut in der Stadt.",
-        "Tue": "Du kommst gerade recht! Ich habe mir eben eine Kanne Tee gekocht. Lust auf eine Tasse? [614]$3",
-        "Wed": "Und wie geht's meinem alten Freund Willy? Wenn du ihn das nächste Mal siehst, sag ihm Hallo vom alten Henry!",
-        "Thu": "Hallo mein Lieber!^Hallo meine Liebe!#$b#Ich freue mich wahnsinnig, dass du mir bei meinem Projekt hilfst.$1",
-        "Fri": "%Der Kurator liest die Tageszeitung.#$b#Ah, guten Tag junger Mann.^Ah, guten Tag junge Frau.#$b#Ich habe gerade die neuesten Nachrichten gelesen. Wusstest du, dass an der Himmelblau-Küste Meerjungfrauen gesichtet wurden?$3",
-        "Sat": "In meiner Jugend war ich ein ganz passabler Angler, weißt du.$3#$b#Oh, Ich habe ein paar ganz schöne Brocken gefangen!#$b#Naja, vielleicht hab ich von ein paar auch nur erzählt!$1",
-        "Sun": "Vergiss nicht, der lieben Goldie 'Hallo' zu sagen. Sie liebt Aufmerksamkeit.#$b#Wusstest du, dass Goldfische bis zu 43 Jahre alt werden können, und dass sie ein sehr gutes Gedächtnis haben?$1"
-      }
-    },
-    {
-      "LogName": "Goldie de-DE Dialogue",
-      "Target": "Characters/Dialogue/Goldie",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "...$0#$b#*Goldie mustert dich aufmerksam, als wolle sie versuchen, sich an dein Gesicht zu erinnern.*$1",
-        "Tue": "...$2#$b#...!$0#$b#*Goldie versteckt sich hinter einer künstlichen Pflanze.*$5",
-        "Wed": "...$2#$b#*Goldie schwimmt im Kreis herum. Sie sieht rastlos aus.*$1",
-        "Thu": "...$0#$b#*Goldie schwimmt hoch zum Rand des Glases und wirft dir ein Küsschen zu.*$4",
-        "Fri": "...$3#$b#*Goldie springt in die Luft.*$0",
-        "Sat": "...$2#$b#*Goldie scheint sich zu freuen, dich zu sehen.*$3",
-        "Sun": "...$6#$b#*Goldie sieht schläfrig aus.*$6"
-      }
-    },
-    {
       "LogName": "FishMuseum de-DE Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",
@@ -63,56 +22,7 @@
         "HasMod |contains=Hana.GenderNeutralityMod": false
       }
     },
-    {
-      "LogName": "Willy de-De Legendary Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Willy",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Legend": "Wow, diese 'Legende' hat es wirklich in sich, oder?$0#$b#Ich habe sie neulich im Aquarium gesehen!$1",
-        "AquariumDonated:Crimsonfish": "Hast du den Purpurfisch im Aquarium gesehen?$0#$b#Der Kurator des Aquariums hat mir erzählt, dass er am Pier neben meinem Laden gefangen wurde!$1",
-        "AquariumDonated:Angler": "Ich habe den 'Angler' im Aquarium gesehen, mir wurde gesagt, er wurde hier in Pelikan gefangen!$0",
-        "AquariumDonated:MutantCarp": "Dieser 'Mutantenkarpfen' im Aquarium ist ein echtes Monster, hast du ihn gesehen?$0",
-        "AquariumDonated:Glacierfish": "Warst du in letzter Zeit im Aquarium?$0#$b#Ich habe gesehen, dass sie jetzt den 'Gletscherfisch' ausgestellt haben, was für eine Schönheit!$1",
-        "AquariumDonated:Pufferchick": "Ich habe mich in den Keller des Aquariums geschlichen, um einen Blick auf das 'Pufferküken' zu werfen.$0#$b#Es ist wirklich eine seltsame Kreatur.$0",
-        "AquariumCompletedCT": "Kannst du es fassen, dass das Aquarium fertig ist?$0#$b#Was für ein Ereignis!$1"
-      }
-    },
-    // 1.1.0
-    {
-      "LogName": "Abigail Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Abigail",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Pufferfish": "Hast du den 'Kugelfisch' im Aquarium gesehen?$0#$b#Ich liebe dieses Ding!$1"
-      }
-    },
-    {
-      "LogName": "Penny Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Penny",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Sandfish": "Vor kurzem habe ich mit Jas und Vincent einen Ausflug ins Aquarium gemacht. $0#$b#Es war ein sehr lehrreicher Ausflug für die Kinder. Aber besonders gut hat mir der 'Sandfisch' gefallen. Er war so niedlich!$1"
-      }
-    },
-    {
-      "LogName": "Sebastian Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Sebastian",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Frog": "Warst du in letzter Zeit im Aquarium?$0#$b#Ich habe gesehen, dass sie ein Terrarium mit einem 'Frosch' haben. Er sah einsam aus, also habe ich einen meiner Haustierfrösche gespendet...$7#$b#So konnte er einen Freund haben.$1"
-      },
-      "When": {
-        "HasMod": "FlashShifter.JA.SVE"
-      }
-    },
-    {
-      "LogName": "Wizard Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Wizard",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:SuperCucumber": "Ich habe gesehen, dass das Aquarium jetzt eine 'Supergurke' ausstellt.$0#$b#Ich glaube, dass es sich um eine besondere Art der normalen Seegurke handelt, die vielleicht geheimnisvolle Eigenschaften besitzt...$0#$b#%Der Zauberer scheint in Gedanken versunken zu sein."
-      }
-    },
+
     // 1.3.0
     {
       "LogName": "MNF Koi Room de-DE Events",

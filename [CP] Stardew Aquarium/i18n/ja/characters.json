@@ -1,4 +1,41 @@
 {
+  "curator.name": "館長",
+  "curator.dialogue.Mon": "お元気ですか？町ではうまくいってますかな。^お元気ですか？町ではうまくいってますかな。",
+  "curator.dialogue.Tue": "いいタイミングですね！今ちょうどお茶をいれていた所です。一杯どうです？ [614]$3",
+  "curator.dialogue.Wed": "そういえば旧友のウィリーは元気にしてますか？今度お会いしたら、おいぼれヘンリーがよろしくと言っていたと伝えておいてください！",
+  "curator.dialogue.Thu": "こんにちは！^こんにちはお嬢さん#$b#あなたが当プロジェクトに協力していただける事にとても感激しています。$1",
+  "curator.dialogue.Fri": "%館長は新聞を読んでいる。#$b#やぁ、どうもお兄さん。^やぁ、どうもお嬢さん。#$b#最新のニュースをお伝えしましょう。セルリアン海岸で人魚が目撃されているそうですがご存じですか？$3",
+  "curator.dialogue.Sat": "私も若い頃は釣りの腕前はかなりのものだったんですよ。$3#$b#それはもう沢山の大物を釣り上げたものです！#$b#それについては何度も言ってましたか！$1",
+  "curator.dialogue.Sun": "かわいいゴールディに「こんにちは」と挨拶を欠かさないでください。彼女はかまってもらうのが大好きなんです。#$b#金魚はなんと43年も長生きして、そして記憶力がとても良い事を知っていましたか？$1",
+  "curator.dialogue.genderNeutral.Mon": "お元気ですか？町ではうまくいってますかな。",
+  "curator.dialogue.genderNeutral.Thu": "こんにちは@さん！#$b#あなたが当プロジェクトに協力していただける事にとても感激しています。$1",
+  "curator.dialogue.genderNeutral.Fri": "%館長は新聞を読んでいる。#$b#やぁ@さん、どうも。#$b#最新のニュースをお伝えしましょう。セルリアン海岸で人魚が目撃されているそうですがご存じですか？$3",
+
+  "goldie.name": "ゴールディ",
+  "goldie.dialogue.Mon": "...$0#$b#(ゴールディはあなたの顔を覚えようとしているかのように、あなたをじっと観察しています。)$1",
+  "goldie.dialogue.Tue": "...$2#$b#...!$0#$b#(ゴールディは飾りの水草の後ろに隠れた。)$5",
+  "goldie.dialogue.Wed": "...$2#$b#(ゴールディはぐるぐると泳ぎ回っている。落ち着かないようだ。)$1",
+  "goldie.dialogue.Thu": "...$0#$b#(ゴールディは泳いでガラスに近寄ってあなたに向かってキスをした。)$4",
+  "goldie.dialogue.Fri": "...$3#$b#(ゴールディは水から飛び上がっている。)$0",
+  "goldie.dialogue.Sat": "...$2#$b#(ゴールディはあなたに会えてうれしそうだ。)$3",
+  "goldie.dialogue.Sun": "...$6#$b#(ゴールディは眠っているようだ。)$6",
+
+  "abigail.dialogue.AquariumDonated:Pufferfish": "水族館のフグを見たことある？$0#$b#わたし大好きなのよね！$1",
+
+  "penny.dialogue.AquariumDonated:Sandfish": "この前ジャスとヴィンセントを水族館に連れて行ったの。$0#$b#子供たちにとって良い学習遠足だったわ。私はスナゴチが好きになっちゃった。とってもかわいかったわ！$1",
+
+  "sebastian.dialogue.AquariumDonated:Frog": "最近水族館に行った事ある？$0#$b#水槽にカエルがいたんだけど、さみしそうだったから飼ってたカエルを1匹入れてあげたんだ…$7#$b#きっと友だちになれたよね。$1",
+
+  "willy.dialogue.AquariumDonated:Legend": "あのレジェンドって魚はすげーもんだな。$0#$b#この前水族館で見てきたんだよ！$1",
+  "willy.dialogue.AquariumDonated:Crimsonfish": "水族館のクリムゾンフィッシュは見たかい？$0#$b#館長から教えてもらったんだが、オレの店の隣の桟橋で釣れたもんなんだそうだ！$1",
+  "willy.dialogue.AquariumDonated:Angler": "水族館にいるツリビトアンコウはこのペリカンタウンで釣れたんだそうだよ！$0",
+  "willy.dialogue.AquariumDonated:MutantCarp": "水族館のあのミュータントゴイはまるでバケモンだな、見た事あるかい？$0",
+  "willy.dialogue.AquariumDonated:Glacierfish": "最近、水族館には行ったかい？$0#$b#展示されてるアイスフィッシュを見てきたんだが、まぁーキレイだったよ！$1",
+  "willy.dialogue.AquariumDonated:Pufferchick": "水族館の地下室にしのび込んでニワトリフグを見に行ってきたんだよ。$0#$b#あれは確かに変わった生き物だな。$0",
+  "willy.dialogue.AquariumCompletedCT": "水族館の展示物がすべて集まったんだって聞いたかい？$0#$b#すごい事だな！$1",
+
+  "wizard.dialogue.AquariumDonated:SuperCucumber": "水族館にスーパーナマコが展示されているのを見た。$0#$b#普通のナマコの亜種だとは思うが、何か奇怪な性質を持っている様に感じるのだ…$0#$b#%魔術師は考え込んでいるようだ。",
+
   "SPRINGNPC_1": "観光客：ギフトショップで何を買おう？",
   "SPRINGNPC_2": "観光客：こんにちは。水族館は初めて？",
   "SPRINGNPC_3": "あなたに気付いていない。忙しそうだ。",

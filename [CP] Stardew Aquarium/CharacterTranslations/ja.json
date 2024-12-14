@@ -1,47 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Edit NPC display names",
-      "Action": "EditData",
-      "Target": "Data/Characters",
-      "Fields": {
-        "Curator": {
-          "DisplayName": "館長"
-        },
-        "Goldie": {
-          "DisplayName": "ゴールディ"
-        }
-      }
-    },
-    {
-      "LogName": "Curator Japanese Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "お元気ですか？町ではうまくいってますかな。^お元気ですか？町ではうまくいってますかな。",
-        "Tue": "いいタイミングですね！今ちょうどお茶をいれていた所です。一杯どうです？ [614]$3",
-        "Wed": "そういえば旧友のウィリーは元気にしてますか？今度お会いしたら、おいぼれヘンリーがよろしくと言っていたと伝えておいてください！",
-        "Thu": "こんにちは！^こんにちはお嬢さん#$b#あなたが当プロジェクトに協力していただける事にとても感激しています。$1",
-        "Fri": "%館長は新聞を読んでいる。#$b#やぁ、どうもお兄さん。^やぁ、どうもお嬢さん。#$b#最新のニュースをお伝えしましょう。セルリアン海岸で人魚が目撃されているそうですがご存じですか？$3",
-        "Sat": "私も若い頃は釣りの腕前はかなりのものだったんですよ。$3#$b#それはもう沢山の大物を釣り上げたものです！#$b#それについては何度も言ってましたか！$1",
-        "Sun": "かわいいゴールディに「こんにちは」と挨拶を欠かさないでください。彼女はかまってもらうのが大好きなんです。#$b#金魚はなんと43年も長生きして、そして記憶力がとても良い事を知っていましたか？$1"
-      }
-    },
-    {
-      "LogName": "Goldie Japanese Dialogue",
-      "Target": "Characters/Dialogue/Goldie",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "...$0#$b#(ゴールディはあなたの顔を覚えようとしているかのように、あなたをじっと観察しています。)$1",
-        "Tue": "...$2#$b#...!$0#$b#(ゴールディは飾りの水草の後ろに隠れた。)$5",
-        "Wed": "...$2#$b#(ゴールディはぐるぐると泳ぎ回っている。落ち着かないようだ。)$1",
-        "Thu": "...$0#$b#(ゴールディは泳いでガラスに近寄ってあなたに向かってキスをした。)$4",
-        "Fri": "...$3#$b#(ゴールディは水から飛び上がっている。)$0",
-        "Sat": "...$2#$b#(ゴールディはあなたに会えてうれしそうだ。)$3",
-        "Sun": "...$6#$b#(ゴールディは眠っているようだ。)$6"
-      }
-    },
-    {
       "LogName": "FishMuseum Japanese Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",
@@ -63,56 +22,7 @@
         "HasMod |contains=Hana.GenderNeutralityMod": false
       }
     },
-    {
-      "LogName": "Willy Japanese Legendary Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Willy",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Legend": "あのレジェンドって魚はすげーもんだな。$0#$b#この前水族館で見てきたんだよ！$1",
-        "AquariumDonated:Crimsonfish": "水族館のクリムゾンフィッシュは見たかい？$0#$b#館長から教えてもらったんだが、オレの店の隣の桟橋で釣れたもんなんだそうだ！$1",
-        "AquariumDonated:Angler": "水族館にいるツリビトアンコウはこのペリカンタウンで釣れたんだそうだよ！$0",
-        "AquariumDonated:MutantCarp": "水族館のあのミュータントゴイはまるでバケモンだな、見た事あるかい？$0",
-        "AquariumDonated:Glacierfish": "最近、水族館には行ったかい？$0#$b#展示されてるアイスフィッシュを見てきたんだが、まぁーキレイだったよ！$1",
-        "AquariumDonated:Pufferchick": "水族館の地下室にしのび込んでニワトリフグを見に行ってきたんだよ。$0#$b#あれは確かに変わった生き物だな。$0",
-        "AquariumCompletedCT": "水族館の展示物がすべて集まったんだって聞いたかい？$0#$b#すごい事だな！$1"
-      }
-    },
-    // 1.1.0
-    {
-      "LogName": "Abigail Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Abigail",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Pufferfish": "水族館のフグを見たことある？$0#$b#わたし大好きなのよね！$1"
-      }
-    },
-    {
-      "LogName": "Penny Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Penny",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Sandfish": "この前ジャスとヴィンセントを水族館に連れて行ったの。$0#$b#子供たちにとって良い学習遠足だったわ。私はスナゴチが好きになっちゃった。とってもかわいかったわ！$1"
-      }
-    },
-    {
-      "LogName": "Sebastian Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Sebastian",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:Frog": "最近水族館に行った事ある？$0#$b#水槽にカエルがいたんだけど、さみしそうだったから飼ってたカエルを1匹入れてあげたんだ…$7#$b#きっと友だちになれたよね。$1"
-      },
-      "When": {
-        "HasMod": "FlashShifter.StardewValleyExpandedCP"
-      }
-    },
-    {
-      "LogName": "Wizard Fish Conversation Topics",
-      "Target": "Characters/Dialogue/Wizard",
-      "Action": "EditData",
-      "Entries": {
-        "AquariumDonated:SuperCucumber": "水族館にスーパーナマコが展示されているのを見た。$0#$b#普通のナマコの亜種だとは思うが、何か奇怪な性質を持っている様に感じるのだ…$0#$b#%魔術師は考え込んでいるようだ。"
-      }
-    },
+
     // 1.3.0
     {
       "LogName": "MNF Koi Room Japanese Events",

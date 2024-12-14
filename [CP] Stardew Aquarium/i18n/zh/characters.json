@@ -1,4 +1,41 @@
 {
+  "curator.name": "Curator",
+  "curator.dialogue.Mon": "你今天好吗，小伙子？我希望城里的事情进展顺利。^你今天好吗，姑娘？我希望城里的事情进展顺利。",
+  "curator.dialogue.Tue": "多么好的时机！我刚泡了一壶茶。想来一杯吗？[614]$3",
+  "curator.dialogue.Wed": "我老朋友威利怎么样了！下次见到他时，告诉他老亨利问候他！",
+  "curator.dialogue.Thu": "你好，小伙子！^你好，姑娘！#$b#我很高兴你能帮我完成我的项目。",
+  "curator.dialogue.Fri": "%馆长正在看报纸。#$b#啊，年轻人，好日子啊。^好日子啊，姑娘。#$b#只是在了解最新的消息。你知道吗，蔚蓝海岸附近有人看到美人鱼了吗？$3",
+  "curator.dialogue.Sat": "在我年轻的时候，我是个相当出色的钓手，你知道吗。$3#$b#哦，我抓到了一些大家伙！#$b#当然，我也说了一些谎话！$1",
+  "curator.dialogue.Sun": "别忘了跟可爱的戈尔迪打招呼。她喜欢受到关注。#$b#你知道吗，金鱼可以活到43岁，而且记忆力非常好。$1",
+  "curator.dialogue.genderNeutral.Mon": "你今天怎么样？@。我希望镇上一切顺利。",
+  "curator.dialogue.genderNeutral.Thu": "你好，@！#$b#很高兴你为我的项目提供了帮助。$1",
+  "curator.dialogue.genderNeutral.Fri": "%馆长正在看报纸。#$b#啊~ 美好的一天，年轻人！@。#$b#你赶上了最新的消息，你听说过在蔚蓝海岸附近有美人鱼的踪影吗？$3",
+
+  "goldie.name": "Goldie",
+  "goldie.dialogue.Mon": "...$0#$b#*戈尔迪专注地看着你，好像在试图记住你的脸。*$1",
+  "goldie.dialogue.Tue": "...$2#$b#...！$0#$b#*戈尔迪躲在一个假植物后面。*$5",
+  "goldie.dialogue.Wed": "...$2#$b#*戈尔迪在圈圈里游来游去，看起来很不安。*$1",
+  "goldie.dialogue.Thu": "...$0#$b#*戈尔迪游到玻璃前，向你吹了个吻。*$4",
+  "goldie.dialogue.Fri": "...$3#$b#*戈尔迪从水中翻了出来。*$0",
+  "goldie.dialogue.Sat": "...$2#$b#*戈尔迪看起来很兴奋地看着你。*$3",
+  "goldie.dialogue.Sun": "...$6#$b#*戈尔迪看起来很困。*$6",
+
+  "abigail.dialogue.AquariumDonated:Pufferfish": "你在水族馆看到过'河豚'吗？$0#$b#我喜欢那个东西！$1",
+
+  "penny.dialogue.AquariumDonated:Sandfish": "最近我带着贾斯和文森特去了水族馆。$0#$b#这对孩子们来说是一次很好的教育之旅。但我特别喜欢'沙鱼'。它太可爱了！$1",
+
+  "sebastian.dialogue.AquariumDonated:Frog": "你最近去过水族馆吗？$0#$b#我看到他们有一个有着'青蛙'的玻璃缸，它看起来很孤单，所以我捐赠了我的一只宠物青蛙...$7#$b#这样它就有了朋友。$1",
+
+  "willy.dialogue.AquariumDonated:Legend": "Wow，“传奇鱼”真的是某种...？$0#$b#前几天我在水族馆看到了！$1",
+  "willy.dialogue.AquariumDonated:Crimsonfish": "你在水族馆看到过“猩红鱼”吗？$0#$b#水族馆的馆长告诉我，它是在我商店旁边的码头被抓住的！$1",
+  "willy.dialogue.AquariumDonated:Angler": "我在水族馆看到了“琵琶鱼”，它是在鹈鹕镇被捕捞的！$0",
+  "willy.dialogue.AquariumDonated:MutantCarp": "水族馆里的“变种鲤鱼”真是个怪物，你见过吗？$0",
+  "willy.dialogue.AquariumDonated:Glacierfish": "你最近去过水族馆吗？$0#$b#我看到他们在展出“冰川鱼”，多美啊！$1",
+  "willy.dialogue.AquariumDonated:Pufferchick": "我在水族馆的地下室里窥视着“河豚鸡鱼”。$0#$b#真是一个奇怪的生物。$0",
+  "willy.dialogue.AquariumCompletedCT": "你能相信水族馆已经完成了吗？$0#$b#真是个奇迹！$1",
+
+  "wizard.dialogue.AquariumDonated:SuperCucumber": "我看到水族馆现在展示了一个'超级黄瓜'。$0#$b#我相信它是普通'海参'的一种奇特类型，可能具有神秘的属性...$0#$b#%巫师似乎陷入了沉思。",
+
   "SPRINGNPC_1": "游客：我应该从礼品店买些什么？",
   "SPRINGNPC_2": "游客：嗨，第一次来水族馆吗？",
   "SPRINGNPC_3": "这个女人没有注意到你，她很忙。",

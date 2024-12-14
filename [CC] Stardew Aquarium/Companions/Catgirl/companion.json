@@ -13,7 +13,7 @@
   "DirectionChangeChanceWhileMoving": 0.007,
   "DirectionChangeChanceWhileIdle": 0.1,
   "EnableBreathing": true,
-  "InspectionDialogue": "AquariumTourist_3",
+  "InspectionDialogue": "aquarium-tourist.dialogue.3",
 
   "UpAnimation": {
     "StartingFrame": 8,

@@ -13,7 +13,7 @@
   "DirectionChangeChanceWhileMoving": 0.007,
   "DirectionChangeChanceWhileIdle": 0.1,
   "EnableBreathing": true,
-  "InspectionDialogue": "SPRINGNPC_28",
+  "InspectionDialogue": "spring-npc.dialogue.28",
 
   "UpAnimation": {
     "StartingFrame": 8,

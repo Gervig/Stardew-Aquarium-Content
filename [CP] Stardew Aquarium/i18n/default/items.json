@@ -1,0 +1,11 @@
+{
+  "Decor": "Decor", // used as the override category name for one item.
+  "pufferchick-shirt-name": "Pufferchick Shirt",
+  "pufferchick-shirt-description": "Been there, done that, got the T-shirt.",
+
+  "legendary-bait-name": "Legendary Bait",
+  "legendary-bait-description": "Very rare fish are attracted to this...",
+
+  "pufferchick-name": "Pufferchick",
+  "pufferchick-description": "Half chicken, half pufferfish."
+}

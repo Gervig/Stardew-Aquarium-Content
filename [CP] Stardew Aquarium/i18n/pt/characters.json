@@ -1,52 +1,4 @@
 {
-  //tank messages
-  "EmptyTank": "Apenas um tanque vazio...",
-
-  // items.
-  "Decor": "Decor", // used as the override category name for one item.
-  "pufferchick-shirt-name": "Camiseta de Galiacu",
-  "pufferchick-shirt-description": "Galiacu!",
-
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
-
-  "pufferchick-name": "Galiacu",
-  "pufferchick-description": "Meio frango, meio baiacu.",
-
-  //dialogue boxes
-  "Ice": "Todo esse gelo... é usado para resfriar o tanque com aquela máquina.",
-  "IceMachine": "Esta máquina mantém o tanque resfriado em temperaturas muito baixas.",
-  "Pressure": "Esta máquina é usada para monitorar a pressão deste tanque de peixes.",
-  "Depth": "Esta é uma representação muito precisa de um medidor de profundidade, mas não é real.",
-  "PanelCool": "Este painel tem muitos botões, é melhor não tocar nele.",
-  "Lever": "Desculpe, mas essa alavanca não vai levar você a lugar nenhum.",
-  "Bench": "Esses bancos parecem novos...",
-  "LegendaryBook": "Guia do Pescador sobre os Peixes Lendários.",
-  "MinesBook": "As Minas: Que tipo de peixe pode viver lá?",
-  "BaitBook": "Isca e como usá-la direito.",
-  "Dropped": "Parece que alguém tem pouca empatia pelos livros...",
-  "PetBook": "Enciclopédia de peixes: Volume 1.",
-  "Dwarf": "Isso te lembra alguém... Mas você não pode dizer quem...",
-  "Introvert": "Por que estou me escondendo aqui, você pergunta? Eu sou introvertido.",
-  "StayHydratedBois": "*barulhos de bebida*",
-  "OutsideSign": "Bem-vindo ao Stardew Aquarium! Desfrute da sua visita.",
-  "SewerTP": "Ao descer esta grade, você chegará aos esgotos, onde mantemos um peixe especial que é encontrado apenas em um lugar perigoso chamado covil de insetos mutantes.",
-  "SwampTP": "Se você pisar neste círculo mágico, será transportado para uma parte isolada do pântano, onde mantemos espécimes especiais 'infundidos no vazio', como o salmão no vazio.",
-  "SVETP": "Passe por esta porta para ver nossa exibição de alguns peixes especiais.",
-  "ComingSoon": "Em breve!",
-  "SVEBookOpen": "Este é um livro de culinária. Ele menciona algo sobre um Butterfish...",
-  "SVEBook1": "Deve ver na Lista de Monstros: The Apophis",
-  "SVEBook2": "The Crimson Badlands: um olhar aprofundado.",
-  "SVEBook3": "O segredo da vila do castelo",
-  "Shopkeeperecksdeehahafunny": "Sorveteiro: Ei, você não pode voltar aqui!",
-
-  /*
-	//1.1.0 dialogue boxes
-
-	"LASV_TP": "Stepping into these magical sparkles, will teleport you to a new magical world!",
-	*/
-  //npc dialogue such long
-
   "SPRINGNPC_1": "Turista: O que devo comprar na loja?",
   "SPRINGNPC_2": "Turista: Olá, primeira vez visitando o Aquário?",
   "SPRINGNPC_3": "A mulher não te nota, ela está ocupada.",
@@ -157,9 +109,5 @@
   "NPCWINTER_3": "Pescador: Veio pescar, não é?",
   "NPCWINTER_4": "Pescador: Hmm? Oh, olá, linhas apertadas e tudo mais.",
   "NPCWINTER_5": "Moça: Coloque essa bola de neve no chão, Simon.",
-  "NPCWINTER_6": "Simon tem um sorriso travesso no rosto.",
-
-  //mail
-  "AquariumOpenLandslide": "Querido(a) @,^^Estou aliviado em saber que ninguém se feriu quando o deslizamento foi eliminado na noite passada. Mas, devido a esse evento, ouvi que a ferrovia agora está disponível novamente para Pelican Town.^Portanto, tenho o orgulho de anunciar que o novo Stardew Aquarium está aberto para negócios!^Meu amigo Willy me disse que você é um grande pescador, talvez você considerasse doar alguns dos espécimes que possa pescar.^^Atenciosamente, O Curador do Stardew Aquarium.",
-  "AquariumOPenLater": "Olá @!^^Tenho o orgulho de anunciar que o novo Stardew Aquarium está aberto para negócios!^Meu amigo Willy me disse que você é um grande pescador, talvez você considerasse doar alguns dos espécimes que possa pescar.^^Atenciosamente, O Curador do Stardew Aquarium."
+  "NPCWINTER_6": "Simon tem um sorriso travesso no rosto."
 }

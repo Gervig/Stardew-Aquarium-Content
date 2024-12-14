@@ -1,52 +1,4 @@
 {
-  //tank messages
-  "EmptyTank": "Juste un aquarium vide...",
-
-  // items.
-  "Decor": "Decor", // used as the override category name for one item.
-  "pufferchick-shirt-name": "PT-Shirt de Poulet-Globe",
-  "pufferchick-shirt-description": "J'étais là-bas, j'ai fait ça, j'ai eu le T-Shirt.",
-
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
-
-  "pufferchick-name": "Poulet-Globe",
-  "pufferchick-description": "Moitié poulet, moitié poisson-globe",
-
-  //dialogue boxes
-  "Ice": "Toute cette glace... elle est utilisée pour garder l'aquarium frais avec cette machine.",
-  "IceMachine": "Cette machine gârde l'aquarium en dessous de températures très basses.",
-  "Pressure": "Cette machine est utilisée pour surveiller la pressure de l'eau de cet aquarium.",
-  "Depth": "Ceci est une très bonne immitation d'un profondimètre, mais il n'est pas réel.",
-  "PanelCool": "Ce panneau a beaucoup de boutons, il vaudrait mieux de ne pas les toucher.",
-  "Lever": "Désolé, mais ce levier ne te conduira nulle part.orry but that lever won't get you anywhere.",
-  "Bench": "Ces bancs ont l'air tout neufs...",
-  "LegendaryBook": "Un guide de pêcheurs pour les Poissons Légendaires.",
-  "MinesBook": "Les Mines : Quel genre de poissons pouraient vivrent à l'intérieur ?",
-  "BaitBook": "Les différents appâts et comment les utiliser.",
-  "Dropped": "On dirait bien que quelqu'un n'as pas d'empathie pour les livres...",
-  "PetBook": "Encyclopédie des Poissons: Volume 1.",
-  "Dwarf": "Ceci vous rappelle de quelqu'un... Mais vous ne voyez pas qui...",
-  "Introvert": "Pourquoi est-ce-que je me cache içi, tu me demandes? Je suis introverti.",
-  "StayHydratedBois": "*sons de buvade*",
-  "OutsideSign": "Bienvenue à l'Aquarium Stardew! Profitez de votre visite.",
-  "SewerTP": "Si vous descendez par cette bouche d'égout, vous vous retrouverez dans les égouts ou nous gardons un poisson spécial qui est seulement trouvé dans un endroit dangereux appelé le Repaire des Insectes Mutants.",
-  "SwampTP": "Si vous montez sur ce cercle magique, vous serez transportés vers une partie isolée du marais, ou l'on garde des spécimens spéciaux qui sont infusés avec de 'l'énergie du vide', comme le Saumon du Vide.",
-  "SVETP": "Franchissez cette porte pour voir notre exhibition de certains poissons spéciaux.",
-  "ComingSoon": "À venir!",
-  "SVEBookOpen": "C'est un livre de cuisine. Il mentionne quelque chose à propos du Poisson-Beure...",
-  "SVEBook1": "Vous devez vois ceci sur la liste de surveillance des monstres: L'Apophis",
-  "SVEBook2": "Les terres désolées écarlantes: Une inspection détaillée.",
-  "SVEBook3": "Les secrets de Castle Village",
-  "Shopkeeperecksdeehahafunny": "Ice Cream Man: Hé! Tu ne peut pas être içi!",
-
-  /*
-	//1.1.0 dialogue boxes
-
-	"LASV_TP": "Stepping into these magical sparkles, will teleport you to a new magical world!",
-	*/
-  //npc dialogue such long
-
   "SPRINGNPC_1": "Touriste: Que devrais-je acheter du magasin de souvenirs?",
   "SPRINGNPC_2": "Touriste: Bonjour, première fois que vous visitez l'Aquarium?",
   "SPRINGNPC_3": "La femme ne vous remarque pas, elle est occupée.",
@@ -156,9 +108,5 @@
   "NPCWINTER_3": "Pêcheur: T'es v'nu pour pêcher?",
   "NPCWINTER_4": "Pêcheur: Hmm? Oh bonjour, venu pour profiter du silence?",
   "NPCWINTER_5": "Dame: Simon... pose cette boulle de neige.",
-  "NPCWINTER_6": "Simon portes un sourire malicieux",
-
-  //mail
-  "AquariumOpenLandslide": "Cher @,^^Je suis ravis d'entendre que personne ne fût blessé pendant l'éboulement de la nuit dernière. Mais grâce à cet évènemment j'ai entendu dire que la gare est à nouveau accessible pour les résidents de Pélican Ville.^Je suis donc fier de vous annoncer que le tout nouvel Aquarium Stardew est ouvert!^Mon ami Willy me dit que vous êtes un pêcheur doué, peut-être consideriez vous donner quelques spécimens que vous attrapez.^^Meilleures salutations, Le Conservateur de l'Aquarium Stardew.",
-  "AquariumOpenLater": "Bonjour @!^^Je suis fier de vous annoncer que le tout nouvel Aquarium Stardew est ouvert!^Mon ami Willy me dit que vous êtes un pêcheur doué, peut-être consideriez vous donner quelques spécimens que vous attrapez.^^Meilleures salutations, Le Conservateur de l'Aquarium Stardew."
+  "NPCWINTER_6": "Simon portes un sourire malicieux"
 }

@@ -1,0 +1,11 @@
+{
+  "Decor": "Decor", // used as the override category name for one item.
+  "pufferchick-shirt-name": "河豚鸡鱼T恤",
+  "pufferchick-shirt-description": "去了水族馆，捐赠了鱼，还买了件T恤。",
+
+  "legendary-bait-name": "Legendary Bait", // new!
+  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+
+  "pufferchick-name": "河豚鸡鱼",
+  "pufferchick-description": "一半是鸡，一半是河豚。"
+}

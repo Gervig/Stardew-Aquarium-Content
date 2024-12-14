@@ -1,16 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Gender Neutral Curator Japanese Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "お元気ですか？町ではうまくいってますかな。",
-        "Thu": "こんにちは@さん！#$b#あなたが当プロジェクトに協力していただける事にとても感激しています。$1",
-        "Fri": "%館長は新聞を読んでいる。#$b#やぁ@さん、どうも。#$b#最新のニュースをお伝えしましょう。セルリアン海岸で人魚が目撃されているそうですがご存じですか？$3"
-      }
-    },
-    {
       "LogName": "Gender Neutral FishMuseum Japanese Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",

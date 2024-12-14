@@ -1,16 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Gender Neutral Curator Russian Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "Как ты сегодня, @? Надеюсь, в городе дела идут хорошо.",
-        "Thu": "Здравствуй, @!#$b#Я рад, что ты мне помогаешь с моим проектом.$1",
-        "Fri": "%Генри читает новости#$b#Ах, добрый день @.#$b#Просто читаю последние новости. Тут говорится, что у побережья Церулеана были замечены русалки.$3"
-      }
-    },
-    {
       "LogName": "Gender Neutral FishMuseum Russian Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",

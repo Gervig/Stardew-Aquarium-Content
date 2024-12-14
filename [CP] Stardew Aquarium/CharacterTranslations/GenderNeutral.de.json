@@ -1,16 +1,6 @@
 {
   "Changes": [
     {
-      "LogName": "Gender Neutral Curator de-DE Dialogue",
-      "Target": "Characters/Dialogue/Curator",
-      "Action": "EditData",
-      "Entries": {
-        "Mon": "Wie geht es dir heute @? Ich hoffe, es läuft alles gut in der Stadt.",
-        "Thu": "Hallo @!#$b#Ich freue mich wahnsinnig, dass du mir bei meinem Projekt hilfst.$1",
-        "Fri": "%Der Kurator liest die Tageszeitung.#$b#Ah, guten Tag @.#$b#Ich habe gerade die neuesten Nachrichten gelesen. Wusstest du, dass an der Himmelblau-Küste Meerjungfrauen gesichtet wurden?$3"
-      }
-    },
-    {
       "LogName": "Gender Neutral FishMuseum de-DE Events",
       "Target": "Data/Events/{{ModId}}_FishMuseum",
       "Action": "EditData",

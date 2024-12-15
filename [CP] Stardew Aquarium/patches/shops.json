@@ -206,56 +206,49 @@
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Tui, PLAYER_HAS_MAIL Host AquariumDonated:La"
             },
             {
-              "Id": "TheCuratorsHat",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: The Curator's Hat}}",
+              "ItemId": "{{ModId}}_TheCuratorsHat",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumCompleted"
             },
             {
-              "Id": "PufferchickMask",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: Pufferchick Mask}}",
+              "ItemId": "{{ModId}}_PufferchickMask",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Pufferchick"
             },
             {
-              "Id": "GlacierfishMask",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: Glacierfish Mask}}",
+              "ItemId": "{{ModId}}_GlacierfishMask",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Glacierfish"
             },
             {
-              "Id": "LegendMask",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: Legend Mask}}",
+              "ItemId": "{{ModId}}_LegendMask",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Legend"
             },
             {
-              "Id": "CrimsonfishMask",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: Crimsonfish Mask}}",
+              "ItemId": "{{ModId}}_CrimsonfishMask",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Crimsonfish"
             },
             {
-              "Id": "MutantCarpMask",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: Mutant Carp Mask}}",
+              "ItemId": "{{ModId}}_MutantCarpMask",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:MutantCarp"
             },
             {
-              "Id": "AnglerMask",
-              "ItemId": "{{spacechase0.JsonAssets/HatId: Angler Mask}}",
+              "ItemId": "{{ModId}}_AnglerMask",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
@@ -352,8 +345,7 @@
               "AvailableStockLimit": "Player"
             },
             {
-              "Id": "FishBowl",
-              "ItemId": "{{spacechase0.JsonAssets/ObjectId: Fish Bowl}}",
+              "ItemId": "{{ModId}}_FishBowl",
               "Price": 200,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player"

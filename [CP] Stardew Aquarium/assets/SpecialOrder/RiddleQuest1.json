@@ -13,7 +13,7 @@
           "OrderType": "Esca.EMP/StardewAquarium/AquariumOrders",
           "SpecialRule": "SA.Riddle1",
           "Text": "[SA.Riddle1_Text]",
-          "ItemToRemoveOnEnd": "{{spacechase0.JsonAssets/ObjectId:Aquarium Riddle#1}}",
+          "ItemToRemoveOnEnd": "{{ModId}}_AquariumRiddle1",
           "MailToRemoveOnEnd": "SA.Riddle1.Clue1",
           "RandomizedElements": null,
           "Objectives": [

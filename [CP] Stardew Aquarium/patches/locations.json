@@ -442,7 +442,7 @@
           "OrderType": "Esca.EMP/StardewAquarium/AquariumOrders",
           "SpecialRule": "SA.Riddle1",
           "Text": "[SA.Riddle1_Text]",
-          "ItemToRemoveOnEnd": "{{spacechase0.JsonAssets/ObjectId:Aquarium Riddle#1}}",
+          "ItemToRemoveOnEnd": "{{ModId}}_AquariumRiddle1",
           "MailToRemoveOnEnd": "SA.Riddle1.Clue1",
           "RandomizedElements": null,
           "Objectives": [
@@ -474,8 +474,7 @@
         }
       },
       "When": {
-        "HasFlag: hostPlayer": "AquariumDonated:Snail",
-        "HasMod": "spacechase0.JsonAssets"
+        "HasFlag: hostPlayer": "AquariumDonated:Snail"
       },
     },
 
@@ -485,7 +484,7 @@
       "Action": "EditData",
       "Target": "Characters/Curator/Dialogue",
       "Entries": {
-        "SA.Riddle1_InProgress": "$1 SA.Riddle1.Clue1#Ah @, are you here for the riddle?#$b#I was told to give you this clue. %item object {{spacechase0.JsonAssets/ObjectId:Aquarium Riddle#1}} 1 %% $0%The Curator hands you a piece of paper.",
+        "SA.Riddle1_InProgress": "$1 SA.Riddle1.Clue1#Ah @, are you here for the riddle?#$b#I was told to give you this clue. %item object {{ModId}}_AquariumRiddle1 1 %% $0%The Curator hands you a piece of paper.",
         "SA.Riddle1_Completed": "Hello @, you solve the riddle?$3#$b#Oh you did? Good for you!$1",
         "SA.Riddle1_Failed": "So @, did you solve the riddle?$3#$b#Oh you didn't? Maybe you can try again another day.$2",
       },
@@ -506,7 +505,7 @@
           }
         }
       ],
-      "EPUPreconditions": ["HasItem {{spacechase0.JsonAssets/ObjectId:Aquarium Clue #1}}"],
+      "EPUPreconditions": ["HasItem {{ModId}}_AquariumClue1"],
       "When": { "atravita.SpecialOrdersExtended/Current |contains=SA.Riddle1": true },
       "Update": "OnLocationChange, OnTimeChange"
     },
@@ -534,25 +533,25 @@
         {
           "Operation": "Append",
           "Target": [ "Fields", "Custom_FishMuseum", 4 ],
-          "Value": "{{spacechase0.JsonAssets/ObjectId:Aquarium Clue #2}} -1",
+          "Value": "{{ModId}}_AquariumClue2 -1",
           "Delimiter": " "
         },
         {
           "Operation": "Append",
           "Target": [ "Fields", "Custom_FishMuseum", 5 ],
-          "Value": "{{spacechase0.JsonAssets/ObjectId:Aquarium Clue #2}} -1",
+          "Value": "{{ModId}}_AquariumClue2 -1",
           "Delimiter": " "
         },
         {
           "Operation": "Append",
           "Target": [ "Fields", "Custom_FishMuseum", 6 ],
-          "Value": "{{spacechase0.JsonAssets/ObjectId:Aquarium Clue #2}} -1",
+          "Value": "{{ModId}}_AquariumClue2 -1",
           "Delimiter": " "
         },
         {
           "Operation": "Append",
           "Target": [ "Fields", "Custom_FishMuseum", 7 ],
-          "Value": "{{spacechase0.JsonAssets/ObjectId:Aquarium Clue #2}} -1",
+          "Value": "{{ModId}}_AquariumClue2 -1",
           "Delimiter": " "
         },
       ],
@@ -647,53 +646,6 @@
         "HasHasSeenEventMod": "6372011"
       },
       Update": "OnLocationChange"
-    },
-    */
-
-    {
-      "LogName": "0 Fish Bowl Animation",
-      "Action": "EditImage",
-      "Target": "{{spacechase0.JsonAssets/ObjectSpriteTilesheet:Fish Bowl}}",
-      "FromFile": "assets/Animations/fishbowl.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
-      "ToArea": { "X": "{{spacechase0.JsonAssets/ObjectSpriteX:Fish Bowl}}", "Y": "{{spacechase0.JsonAssets/ObjectSpriteY:Fish Bowl}}", "Width": 16, "Height": 16 },
-      "AnimationFrameTime": 10,
-      "AnimationFrameCount": 28,
-      "When": {
-        "HasMod |contains=spacechase0.ContentPatcherAnimations": true,
-        "HasMod |contains=spacechase0.JsonAssets": true
-      }
-    },
-    {
-      "LogName": "0 Pufferchick Animation",
-      "Action": "EditImage",
-      "Target": "Mods/StardewAquarium/Items",
-      "FromFile": "assets/Animations/pufferchick.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
-      "ToArea": { "X": 32, "Y": 0, "Width": 16, "Height": 16  },
-      "AnimationFrameTime": 10,
-      "AnimationFrameCount": 5,
-      "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
-        "LegendaryFishAnimation": "true"
-      }
-    },
-
-    /*
-    {
-      "LogName": "0 Spicy Lava Eel Animation",
-      "Action": "EditImage",
-      "Target": "{{spacechase0.JsonAssets/ObjectSpriteTilesheet:Spicy Lava Eel}}",
-      "FromFile": "assets/Animations/spicy_lava_eel.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
-      "ToArea":{ "X": "{{spacechase0.JsonAssets/ObjectSpriteX:Spicy Lava Eel}}", "Y": "{{spacechase0.JsonAssets/ObjectSpriteY:Spicy Lava Eel}}", "Width": 16, "Height": 16 },
-      "AnimationFrameTime": 20,
-      "AnimationFrameCount": 4,
-      "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
-        "HasMod": "spacechase0.JsonAssets",
-        "SpicyLavaEelAnimation": "true"
-      },
     },
     */
 

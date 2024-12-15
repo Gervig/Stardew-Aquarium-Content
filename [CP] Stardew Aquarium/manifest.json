@@ -20,14 +20,6 @@
     },
     {
       "UniqueID": "Esca.EMP"
-    },
-    {
-      "UniqueID": "spacechase0.JsonAssets",
-      "IsRequired": true
-    },
-    {
-      "UniqueID": "Cherry.ExpandedPreconditionsUtility",
-      "IsRequired": true
     }
   ]
 }

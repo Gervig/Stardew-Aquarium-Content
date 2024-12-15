@@ -1,6 +1,6 @@
 /*
 
-This entries are loaded by the C# component to get the fish tank descriptions. For example, given an
+These entries are loaded by the C# component to get the fish tank descriptions. For example, given an
 `AquariumSign GoldenTrout` tile property, it would get the description from the `GoldenTrout` key.
 
 */

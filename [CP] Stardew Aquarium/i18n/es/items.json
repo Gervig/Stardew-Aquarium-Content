@@ -1,11 +1,45 @@
 {
-  "Decor": "Decor", // used as the override category name for one item.
-  "pufferchick-shirt-name": "Camiseta de Globo-Pollo",
-  "pufferchick-shirt-description": "He estado allí, he hecho eso, y ya tengo la camiseta.",
+  /*********
+  ** Hats
+  *********/
+  "items.anglerMask.name": "Máscara de Rape",
+  "items.anglerMask.description": "Máscara del legendario Rape.",
+
+  "items.crimsonfishMask.name": "Máscara de Pez Carmesí",
+  "items.crimsonfishMask.description": "Máscara del legendario Pez Carmesí.",
+
+  "items.glacierfishMask.name": "Máscara del Pez Glacial",
+  "items.glacierfishMask.description": "Máscara del legendario Pez Glacial.",
+
+  "items.legendMask.name": "Máscara de Leyenda",
+  "items.legendMask.description": "Máscara del único Leyenda.",
+
+  "items.mutantCarpMask.name": "Máscara de Carpa Mutante",
+  "items.mutantCarpMask.description": "Máscara del legendario Carpa Mutante.",
+
+  "items.pufferchickMask.name": "Máscara de Globo-Pollo",
+  "items.pufferchickMask.description": "Máscara del legendario Globo-Pollo.",
+
+
+  /*********
+  ** Objects
+  *********/
+  "items.fishBowl.name": "Pecera",
+  "items.fishBowl.description": "¡Lindo pececito!",
 
   "legendary-bait-name": "Legendary Bait", // new!
   "legendary-bait-description": "Very rare fish are attracted to this...", // new!
 
   "pufferchick-name": "Globo-Pollo",
-  "pufferchick-description": "Mitad pollo, mitad Pez Globo."
+  "pufferchick-description": "Mitad pollo, mitad Pez Globo.",
+
+  "items.trophy.name": "Trofeo del Acuario Stardew",
+  "items.trophy.description": "¡Recompensado por ayudar al Acuario Stardew a alcanzar su máximo potencial!",
+
+
+  /*********
+  ** Shirts
+  *********/
+  "pufferchick-shirt-name": "Camiseta de Globo-Pollo",
+  "pufferchick-shirt-description": "He estado allí, he hecho eso, y ya tengo la camiseta."
 }

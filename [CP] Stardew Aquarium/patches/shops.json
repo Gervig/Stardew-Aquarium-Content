@@ -203,7 +203,7 @@
               "Price": 200,
               "AvailableStock": 4,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Tui, PLAYER_HAS_MAIL Host AquariumDonated:La"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:MNF.MoreNewFish_tui, PLAYER_HAS_MAIL Host AquariumDonated:MNF.MoreNewFish_la"
             },
             {
               "ItemId": "{{ModId}}_TheCuratorsHat",

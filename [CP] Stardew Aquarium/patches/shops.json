@@ -205,16 +205,14 @@
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Tui, PLAYER_HAS_MAIL Host AquariumDonated:La"
             },
-            /*
             {
               "Id": "TheCuratorsHat",
-              "ItemId": "",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: The Curator's Hat}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "PLAYER_HAS_MAIL Host AquariumCompleted"
             },
-            */
             {
               "Id": "PufferchickMask",
               "ItemId": "{{spacechase0.JsonAssets/HatId: Pufferchick Mask}}",

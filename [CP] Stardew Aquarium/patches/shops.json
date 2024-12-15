@@ -28,13 +28,23 @@
         ****/
         "{{ModId}}_BeachShop": {
           "Owners": [
+            // closed
             {
+              "Id": "Closed",
+              "Name": "AnyOrNone",
+              "ClosedMessage": "{{i18n: beach-shop.closed}}",
+              "Condition": "!TIME 1000 1800"
+            },
+
+            // open
+            {
+              "Id": "Default",
               "Name": "AnyOrNone",
               "Portrait": "Portraits/{{ModId}}_SnackVendor",
               "Dialogues": [
                 {
                   "Id": "Default",
-                  "Dialogue": "Welcome to the snack shop!"
+                  "Dialogue": "{{i18n: beach-shop.dialogue}}"
                 }
               ]
             }
@@ -117,20 +127,30 @@
         ****/
         "{{ModId}}_IceCreamShop": {
           "Owners": [
+            // closed
             {
+              "Id": "Closed",
+              "Name": "AnyOrNone",
+              "Condition": "!TIME 900 1900",
+              "ClosedMessage": "{{i18n: ice-cream-shop.closed}}"
+            },
+
+            // open
+            {
+              "Id": "Default",
               "Name": "AnyOrNone",
               "Portrait": "",
               "Dialogues": [
                 {
                   "Id": "Default",
-                  "Dialogue": "Welcome to the Ice Cream Shop!"
+                  "Dialogue": "{{i18n: ice-cream-shop.dialogue}}"
                 }
               ]
             }
           ],
           "Items": [
             {
-              "Id": "Icecream",
+              "Id": "IceCream",
               "ItemId": "(O)233",
               "Price": 250,
               "AvailableStock": 10,
@@ -165,13 +185,23 @@
         ****/
         "{{ModId}}_SubmarineShop": {
           "Owners": [
+            // closed
             {
+              "Id": "Closed",
+              "Name": "AnyOrNone",
+              "ClosedMessage": "{{i18n: submarine-shop.closed}}",
+              "Condition": "!TIME 1000 2100"
+            },
+
+            // open
+            {
+              "Id": "Default",
               "Name": "AnyOrNone",
               "Portrait": "Portraits/{{ModId}}_SubmarineVendor",
               "Dialogues": [
                 {
                   "Id": "Default",
-                  "Dialogue": "Welcome to the Submarine Shop!"
+                  "Dialogue": "{{i18n: submarine-shop.dialogue}}"
                 }
               ]
             }

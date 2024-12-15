@@ -25110,23 +25110,23 @@
   </object>
   <object id="1068" name="TileData" x="592" y="416" width="16" height="16">
    <properties>
-    <property name="Shop" value="BeachShop"/>
+    <property name="Action" value="OpenShop Gervig91.StardewAquariumCP_BeachShop down -1 -1 0 0 0 0"/>
    </properties>
   </object>
   <object id="1069" name="TileData" x="240" y="160" width="16" height="16">
    <properties>
-    <property name="Shop" value="SubmarineShop"/>
+    <property name="Action" value="OpenShop Gervig91.StardewAquariumCP_SubmarineShop down -1 -1 0 0 0 0"/>
    </properties>
   </object>
   <object id="1070" name="TileData" x="224" y="160" width="16" height="16">
    <properties>
-    <property name="Shop" value="SubmarineShop"/>
+    <property name="Action" value="OpenShop Gervig91.StardewAquariumCP_SubmarineShop down -1 -1 0 0 0 0"/>
    </properties>
   </object>
   <object id="1072" name="TileData" x="784" y="272" width="16" height="16">
    <properties>
     <property name="Action" value=""/>
-    <property name="Shop" value="LiterallyAShopThatJUSTSellsIceCream"/>
+    <property name="Action" value="OpenShop Gervig91.StardewAquariumCP_IceCreamShop down -1 -1 0 0 0 0"/>
    </properties>
   </object>
   <object id="1074" name="TileData" x="384" y="176" width="16" height="16">

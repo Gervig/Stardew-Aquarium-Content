@@ -58,15 +58,8 @@
               "AvailableStockLimit": "Player"
             },
             {
-              "Id": "FishTaco",
-              "ItemId": "(O)213",
-              "Price": 750,
-              "AvailableStock": 2,
-              "AvailableStockLimit": "Player"
-            },
-            {
               "Id": "Cookie",
-              "ItemId": "(O)220",
+              "ItemId": "(O)223",
               "Price": 180,
               "AvailableStock": 3,
               "AvailableStockLimit": "Player"
@@ -89,7 +82,7 @@
             },
             {
               "Id": "Peach",
-              "ItemId": "(O)634",
+              "ItemId": "(O)636",
               "Price": 150,
               "AvailableStock": 5,
               "AvailableStockLimit": "Player",
@@ -152,29 +145,8 @@
             {
               "Id": "IceCream",
               "ItemId": "(O)233",
-              "Price": 250,
-              "AvailableStock": 10,
-              "AvailableStockLimit": "Player"
-            },
-            {
-              "Id": "AppleJuice",
-              "ItemId": "FLAVORED_ITEM Juice (O)613",
-              "Price": 300,
-              "AvailableStock": 10,
-              "AvailableStockLimit": "Player"
-            },
-            {
-              "Id": "PomegranateJuice",
-              "ItemId": "FLAVORED_ITEM Juice (O)637",
-              "Price": 400,
-              "AvailableStock": 5,
-              "AvailableStockLimit": "Player"
-            },
-            {
-              "Id": "OrangeJuice",
-              "ItemId": "FLAVORED_ITEM Juice (O)635",
-              "Price": 350,
-              "AvailableStock": 10,
+              "Price": 200,
+              "AvailableStock": 4,
               "AvailableStockLimit": "Player"
             }
           ]
@@ -207,85 +179,89 @@
             }
           ],
           "Items": [
+            /*
             {
-              "Id": "SpicyEel",
-              "ItemId": "(O)242",
+              "Id": "SpicyLavaEel",
+              "ItemId": "",
               "Price": 5000,
               "AvailableStock": 10,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Lavaeel any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:LavaEel"
             },
+            */
             {
-              "Id": "ChallengeBait",
-              "ItemId": "ChallengeBait",
-              "Price": 500,
+              "Id": "LegendaryBait",
+              "ItemId": "Cherry.StardewAquarium_LegendaryBait",
+              "Price": 5000,
               "AvailableStock": 10,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:40 any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:40"
             },
             {
               "Id": "WarpTotemBeach",
-              "ItemId": "(O)688",
+              "ItemId": "(O)690",
               "Price": 200,
               "AvailableStock": 4,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Tui, PLAYER_HAS_MAIL any AquariumDonated:La"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Tui, PLAYER_HAS_MAIL Host AquariumDonated:La"
             },
+            /*
             {
-              "Id": "CuratorsHat",
-              "ItemId": "The Curator's Hat",
+              "Id": "TheCuratorsHat",
+              "ItemId": "",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumComplete any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumCompleted"
             },
+            */
             {
-              "Id": "PufferchickShirt",
-              "ItemId": "Cherry.StardewAquarium_PufferchickShirt",
+              "Id": "PufferchickMask",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: Pufferchick Mask}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Pufferchick any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Pufferchick"
             },
             {
               "Id": "GlacierfishMask",
-              "ItemId": "Glacierfish Mask",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: Glacierfish Mask}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Glacierfish any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Glacierfish"
             },
             {
               "Id": "LegendMask",
-              "ItemId": "Legend Mask",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: Legend Mask}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Legend any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Legend"
             },
             {
               "Id": "CrimsonfishMask",
-              "ItemId": "Crimsonfish Mask",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: Crimsonfish Mask}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:CrimsonFish any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Crimsonfish"
             },
             {
               "Id": "MutantCarpMask",
-              "ItemId": "Mutant Carp Mask",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: Mutant Carp Mask}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:MutantCarp any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:MutantCarp"
             },
             {
               "Id": "AnglerMask",
-              "ItemId": "Angler Mask",
+              "ItemId": "{{spacechase0.JsonAssets/HatId: Angler Mask}}",
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Angler any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Angler"
             },
             {
               "Id": "BlobfishMask",
@@ -293,22 +269,15 @@
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:blobfish any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Blobfish"
             },
             {
-              "Id": "ShrimpEnthusiastShirt",
-              "ItemId": "(S)1286",
+              "Id": "PufferchickShirt",
+              "ItemId": "Cherry.StardewAquarium_PufferchickShirt",
               "Price": 200,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumDonated:Shrimp any"
-            },
-            {
-              "Id": "FishShirt",
-              "ItemId": "(S)1158",
-              "Price": 200,
-              "AvailableStock": 1,
-              "AvailableStockLimit": "Player"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Pufferchick"
             },
             {
               "Id": "Sunglasses",
@@ -319,12 +288,27 @@
               "Condition": "SEASON Summer"
             },
             {
+              "Id": "ShrimpEnthusiastShirt",
+              "ItemId": "(S)1286",
+              "Price": 200,
+              "AvailableStock": 1,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumDonated:Shrimp"
+            },
+            {
+              "Id": "FishShirt",
+              "ItemId": "(S)1158",
+              "Price": 200,
+              "AvailableStock": 1,
+              "AvailableStockLimit": "Player"
+            },
+            {
               "Id": "FishingVest",
               "ItemId": "(S)1157",
               "Price": 500,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:30 any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:30"
             },
             {
               "Id": "FishingHat",
@@ -332,26 +316,32 @@
               "Price": 1000,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:40 any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:40"
             },
             {
               "Id": "BikiniTop",
               "ItemId": "(S)1134",
               "Price": 200,
               "AvailableStock": 1,
-              "AvailableStockLimit": "Player",
-              "Condition": "SEASON Summer"
+              "AvailableStockLimit": "Player"
             },
             {
-              "Id": "CropTankTop",
+              "Id": "CropTankTopF",
               "ItemId": "(S)1133",
               "Price": 200,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player"
             },
             {
+              "Id": "CropTankTopM",
+              "ItemId": "(S)1132",
+              "Price": 200,
+              "AvailableStock": 1,
+              "AvailableStockLimit": "Player"
+            },
+            {
               "Id": "SailorShirt",
-              "ItemId": "(S)1259",
+              "ItemId": "(S)1019",
               "Price": 200,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player"
@@ -364,12 +354,98 @@
               "AvailableStockLimit": "Player"
             },
             {
+              "Id": "FishBowl",
+              "ItemId": "{{spacechase0.JsonAssets/ObjectId: Fish Bowl}}",
+              "Price": 200,
+              "AvailableStock": 1,
+              "AvailableStockLimit": "Player"
+            },
+            /*
+            {
+              "Id": "LargeFishTank",
+              "ItemId": "(F)2304",
+              "Price": 2000,
+              "AvailableStock": 5,
+              "AvailableStockLimit": "Player"
+            },
+            {
+              "Id": "SmallFishTank",
+              "ItemId": "(F)2322",
+              "Price": 500,
+              "AvailableStock": 10,
+              "AvailableStockLimit": "Player"
+            },
+            */
+            {
+              "Id": "FisherDoubleBed",
+              "ItemId": "(F)2502",
+              "Price": 25000,
+              "AvailableStock": 1,
+              "AvailableStockLimit": "Player"
+            },
+            {
+              "Id": "WildBait",
+              "ItemId": "(O)774",
+              "Price": 28,
+              "AvailableStock": 15,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:55"
+            },
+            {
+              "Id": "Spinner",
+              "ItemId": "(O)686",
+              "Price": 400,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:15"
+            },
+            {
+              "Id": "DressedSpinner",
+              "ItemId": "(O)687",
+              "Price": 800,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:25"
+            },
+            {
+              "Id": "TrapBobber",
+              "ItemId": "(O)694",
+              "Price": 425,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:35"
+            },
+            {
+              "Id": "CorkBobber",
+              "ItemId": "(O)695",
+              "Price": 600,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:45"
+            },
+            {
+              "Id": "LeadBobber",
+              "ItemId": "(O)692",
+              "Price": 100,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:50"
+            },
+            {
+              "Id": "BarbedHook",
+              "ItemId": "(O)691",
+              "Price": 750,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:20"
+            },
+            {
               "Id": "TroutSoup",
               "ItemId": "(O)219",
               "Price": 200,
               "AvailableStock": 5,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:5 any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:5"
             },
             {
               "Id": "Chowder",
@@ -377,7 +453,7 @@
               "Price": 300,
               "AvailableStock": 5,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:10 any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:10"
             },
             {
               "Id": "ShrimpCocktail",
@@ -385,31 +461,47 @@
               "Price": 350,
               "AvailableStock": 5,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:15 any"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:15"
             },
             {
-              "Id": "Crabcakes",
-              "ItemId": "(O)732",
-              "Price": 350,
-              "AvailableStock": 5,
-              "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:30 any"
-            },
-            {
-              "Id": "FishStew",
-              "ItemId": "(O)728",
-              "Price": 400,
+              "Id": "FishTaco",
+              "ItemId": "(O)213",
+              "Price": 650,
               "AvailableStock": 3,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:15 any, PLAYER_BASE_FISHING_LEVEL current 5"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:20, PLAYER_BASE_FISHING_LEVEL Current 3"
             },
             {
               "Id": "Escargot",
               "ItemId": "(O)729",
-              "Price": 300,
+              "Price": 700,
               "AvailableStock": 3,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:30 any, PLAYER_BASE_FISHING_LEVEL current 8"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:25, PLAYER_BASE_FISHING_LEVEL Current 5"
+            },
+            {
+              "Id": "DishOTheSea",
+              "ItemId": "(O)242",
+              "Price": 800,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:30, PLAYER_BASE_FISHING_LEVEL Current 4"
+            },
+            {
+              "Id": "FishStew",
+              "ItemId": "(O)728",
+              "Price": 850,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:40, PLAYER_BASE_FISHING_LEVEL Current 6"
+            },
+            {
+              "Id": "LobsterBisque",
+              "ItemId": "(O)730",
+              "Price": 1000,
+              "AvailableStock": 2,
+              "AvailableStockLimit": "Player",
+              "Condition": "PLAYER_HAS_MAIL Host quariumFishDonated:50, PLAYER_BASE_FISHING_LEVEL Current 7"
             },
             {
               "Id": "SeafoamPudding",
@@ -417,7 +509,7 @@
               "Price": 2500,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:60 any, PLAYER_BASE_FISHING_LEVEL current 10"
+              "Condition": "PLAYER_HAS_MAIL Host AquariumFishDonated:60, PLAYER_BASE_FISHING_LEVEL Current 10"
             }
           ]
         }

@@ -2,25 +2,35 @@
   "$schema": "https://smapi.io/schemas/content-patcher.json",
 
   "Changes": [
+    /*********
+    ** Textures
+    *********/
     {
       "Action": "Load",
-      "Target": "Portraits/SubmarineVendor",
+      "Target": "Portraits/{{ModId}}_SubmarineVendor",
       "FromFile": "assets/shops/submarinevendor.png"
     },
     {
       "Action": "Load",
-      "Target": "Portraits/SnackVendor",
+      "Target": "Portraits/{{ModId}}_SnackVendor",
       "FromFile": "assets/shops/snackvendor.png"
     },
+
+    /*********
+    ** Shop data
+    *********/
     {
       "Action": "EditData",
       "Target": "Data/Shops",
       "Entries": {
-        "BeachSnackShop": {
+        /****
+        ** Beach snack shop
+        ****/
+        "{{ModId}}_BeachShop": {
           "Owners": [
             {
               "Name": "AnyOrNone",
-              "Portrait": "Portraits/SnackVendor",
+              "Portrait": "Portraits/{{ModId}}_SnackVendor",
               "Dialogues": [
                 {
                   "Id": "Default",
@@ -100,14 +110,12 @@
               "Condition": "SEASON Spring, YEAR 2"
             }
           ]
-        }
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/Shops",
-      "Entries": {
-        "IceCreamShop": {
+        },
+
+        /****
+        ** Ice-cream shop
+        ****/
+        "{{ModId}}_IceCreamShop": {
           "Owners": [
             {
               "Name": "AnyOrNone",
@@ -150,18 +158,16 @@
               "AvailableStockLimit": "Player"
             }
           ]
-        }
-      }
-    },
-    {
-      "Action": "EditData",
-      "Target": "Data/Shops",
-      "Entries": {
-        "SubmarineShop": {
+        },
+
+        /****
+        ** Submarine shop
+        ****/
+        "{{ModId}}_SubmarineShop": {
           "Owners": [
             {
               "Name": "AnyOrNone",
-              "Portrait": "Portraits/SubmarineVendor",
+              "Portrait": "Portraits/{{ModId}}_SubmarineVendor",
               "Dialogues": [
                 {
                   "Id": "Default",

@@ -1,56 +1,16 @@
 {
-  "Format": "2.4.0",
+  "$schema": "https://smapi.io/schemas/content-patcher.json",
+
   "Changes": [
-    {
-      "Action": "EditMap",
-      "Target": "Maps/ExteriorMuseum",
-      "MapTiles": [
-        {
-          "Position": { "X": 37, "Y": 26 },
-          "Layer": "Buildings",
-          "SetProperties": {
-            "Action": "OpenShop BeachSnackShop down 700 1800"
-          }
-        },
-        {
-          "Position": { "X": 38, "Y": 26 },
-          "Layer": "Buildings",
-          "SetProperties": {
-            "Action": "OpenShop BeachSnackShop down 700 1800"
-          }
-        },
-        {
-          "Position": { "X": 49, "Y": 17 },
-          "Layer": "Buildings",
-          "SetProperties": {
-            "Action": "OpenShop IceCreamShop down 700 2000"
-          }
-        },
-        {
-          "Position": { "X": 14, "Y": 10 },
-          "Layer": "Buildings",
-          "SetProperties": {
-            "Action": "OpenShop SubmarineShop down 700 2100"
-          }
-        },
-        {
-          "Position": { "X": 15, "Y": 10 },
-          "Layer": "Buildings",
-          "SetProperties": {
-            "Action": "OpenShop SubmarineShop down 700 2100"
-          }
-        }
-      ]
-    },
     {
       "Action": "Load",
       "Target": "Portraits/SubmarineVendor",
-      "FromFile": "assets/submarinevendor.png"
+      "FromFile": "assets/shops/submarinevendor.png"
     },
     {
       "Action": "Load",
       "Target": "Portraits/SnackVendor",
-      "FromFile": "assets/snackvendor.png"
+      "FromFile": "assets/shops/snackvendor.png"
     },
     {
       "Action": "EditData",
@@ -321,7 +281,6 @@
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
               "Condition": "SEASON Summer"
-              
             },
             {
               "Id": "FishingVest",

@@ -401,7 +401,7 @@
               "Price": 400,
               "AvailableStock": 3,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:15 any, PLAYER_FISHING_LEVEL current 5"
+              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:15 any, PLAYER_BASE_FISHING_LEVEL current 5"
             },
             {
               "Id": "Escargot",
@@ -409,7 +409,7 @@
               "Price": 300,
               "AvailableStock": 3,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:30 any, PLAYER_FISHING_LEVEL current 8"
+              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:30 any, PLAYER_BASE_FISHING_LEVEL current 8"
             },
             {
               "Id": "SeafoamPudding",
@@ -417,7 +417,7 @@
               "Price": 2500,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",
-              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:60 any, PLAYER_FISHING_LEVEL current 10"
+              "Condition": "PLAYER_HAS_MAIL any AquariumFishDonated:60 any, PLAYER_BASE_FISHING_LEVEL current 10"
             }
           ]
         }

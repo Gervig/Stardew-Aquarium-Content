@@ -239,7 +239,17 @@
           "DisplayName": "{{i18n:Locations.Aquarium.ExteriorMuseum}}",
           "DefaultArrivalTile": { "X": 21, "Y": 13 },
           "CreateOnLoad": { "MapPath": "Maps/ExteriorMuseum" },
-          "FormerLocationNames": [ "Custom_ExteriorMuseum" ]
+          "FormerLocationNames": [ "Custom_ExteriorMuseum" ],
+          "Fish": [
+            {
+              "Id": "Pufferchick",
+              "ItemId": "{{ModId}}_Pufferchick",
+              "CanUseTrainingRod": false,
+              "IsBossFish": true,
+              "CatchLimit": 1,
+              "Condition": "PLAYER_HAS_CAUGHT_FISH Current (O)128, PLAYER_HAS_MAIL Current StardewAquarium.PlayerHasChicken Any, StardewValleyAquarium_RANDOM_CHANCE_FOR_PUFFER"
+            }
+          ]
         },
         "{{ModId}}_BigRoom": {
           "DisplayName": "{{i18n:Locations.Aquarium.BigRoom}}",

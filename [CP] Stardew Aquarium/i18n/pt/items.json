@@ -27,11 +27,11 @@
   "items.fishBowl.name": "Aquário",
   "items.fishBowl.description": "Peixe fofo!",
 
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+  "items.legendary-bait.name": "Legendary Bait", // new!
+  "items.legendary-bait.description": "Very rare fish are attracted to this...", // new!
 
-  "pufferchick-name": "Galiacu",
-  "pufferchick-description": "Meio frango, meio baiacu.",
+  "items.pufferchick.name": "Galiacu",
+  "items.pufferchick.description": "Meio frango, meio baiacu.",
 
   "items.trophy.name": "Troféu Stardew Aquarium",
   "items.trophy.description": "Recompensado por ajudar o Stardew Aquarium a atingir todo o seu potencial!",
@@ -40,6 +40,6 @@
   /*********
   ** Shirts
   *********/
-  "pufferchick-shirt-name": "Camiseta de Galiacu",
-  "pufferchick-shirt-description": "Galiacu!"
+  "items.pufferchickShirt.name": "Camiseta de Galiacu",
+  "items.pufferchickShirt.description": "Galiacu!"
 }

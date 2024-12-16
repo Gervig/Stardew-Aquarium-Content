@@ -29,11 +29,11 @@
   "items.fishBowl.name": "Fish Bowl",
   "items.fishBowl.description": "Cute fishy!",
 
-  "legendary-bait-name": "Legendary Bait",
-  "legendary-bait-description": "Very rare fish are attracted to this...",
+  "items.legendary-bait.name": "Legendary Bait",
+  "items.legendary-bait.description": "Very rare fish are attracted to this...",
 
-  "pufferchick-name": "Pufferchick",
-  "pufferchick-description": "Half chicken, half pufferfish.",
+  "items.pufferchick.name": "Pufferchick",
+  "items.pufferchick.description": "Half chicken, half pufferfish.",
 
   "items.trophy.name": "Stardew Aquarium Trophy",
   "items.trophy.description": "Rewarded for helping the Stardew Aquarium reach its full potential!",
@@ -42,6 +42,6 @@
   /*********
   ** Shirts
   *********/
-  "pufferchick-shirt-name": "Pufferchick Shirt",
-  "pufferchick-shirt-description": "Been there, done that, got the T-shirt."
+  "items.pufferchickShirt.name": "Pufferchick Shirt",
+  "items.pufferchickShirt.description": "Been there, done that, got the T-shirt."
 }

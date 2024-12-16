@@ -27,11 +27,11 @@
   "items.fishBowl.name": "鱼缸",
   "items.fishBowl.description": "鱼缸里有可爱的小鱼儿！",
 
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+  "items.legendary-bait.name": "Legendary Bait", // new!
+  "items.legendary-bait.description": "Very rare fish are attracted to this...", // new!
 
-  "pufferchick-name": "河豚鸡鱼",
-  "pufferchick-description": "一半是鸡，一半是河豚。",
+  "items.pufferchick.name": "河豚鸡鱼",
+  "items.pufferchick.description": "一半是鸡，一半是河豚。",
 
   "items.trophy.name": "星露水族馆奖杯",
   "items.trophy.description": "奖励帮助星露水族馆，使其充分发挥潜力的人！",
@@ -40,6 +40,6 @@
   /*********
   ** Shirts
   *********/
-  "pufferchick-shirt-name": "河豚鸡鱼T恤",
-  "pufferchick-shirt-description": "去了水族馆，捐赠了鱼，还买了件T恤。"
+  "items.pufferchickShirt.name": "河豚鸡鱼T恤",
+  "items.pufferchickShirt.description": "去了水族馆，捐赠了鱼，还买了件T恤。"
 }

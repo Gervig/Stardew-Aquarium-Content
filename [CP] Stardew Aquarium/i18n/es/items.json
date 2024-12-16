@@ -27,11 +27,11 @@
   "items.fishBowl.name": "Pecera",
   "items.fishBowl.description": "¡Lindo pececito!",
 
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+  "items.legendary-bait.name": "Legendary Bait", // new!
+  "items.legendary-bait.description": "Very rare fish are attracted to this...", // new!
 
-  "pufferchick-name": "Globo-Pollo",
-  "pufferchick-description": "Mitad pollo, mitad Pez Globo.",
+  "items.pufferchick.name": "Globo-Pollo",
+  "items.pufferchick.description": "Mitad pollo, mitad Pez Globo.",
 
   "items.trophy.name": "Trofeo del Acuario Stardew",
   "items.trophy.description": "¡Recompensado por ayudar al Acuario Stardew a alcanzar su máximo potencial!",
@@ -40,6 +40,6 @@
   /*********
   ** Shirts
   *********/
-  "pufferchick-shirt-name": "Camiseta de Globo-Pollo",
-  "pufferchick-shirt-description": "He estado allí, he hecho eso, y ya tengo la camiseta."
+  "items.pufferchickShirt.name": "Camiseta de Globo-Pollo",
+  "items.pufferchickShirt.description": "He estado allí, he hecho eso, y ya tengo la camiseta."
 }

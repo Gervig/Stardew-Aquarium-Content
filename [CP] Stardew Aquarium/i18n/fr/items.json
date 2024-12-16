@@ -27,11 +27,11 @@
   "items.fishBowl.name": "Bocal à Poisson",
   "items.fishBowl.description": "Poisson Mignon!",
 
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+  "items.legendary-bait.name": "Legendary Bait", // new!
+  "items.legendary-bait.description": "Very rare fish are attracted to this...", // new!
 
-  "pufferchick-name": "Poulet-Globe",
-  "pufferchick-description": "Moitié poulet, moitié poisson-globe",
+  "items.pufferchick.name": "Poulet-Globe",
+  "items.pufferchick.description": "Moitié poulet, moitié poisson-globe",
 
   "items.trophy.name": "Trophée de l'Aquarium Stardew",
   "items.trophy.description": "Il vous fut récompensé pour avoir aider l'Aquarium Stardew à atteindre so potentiel maximal!",
@@ -40,6 +40,6 @@
   /*********
   ** Shirts
   *********/
-  "pufferchick-shirt-name": "PT-Shirt de Poulet-Globe",
-  "pufferchick-shirt-description": "J'étais là-bas, j'ai fait ça, j'ai eu le T-Shirt."
+  "items.pufferchickShirt.name": "PT-Shirt de Poulet-Globe",
+  "items.pufferchickShirt.description": "J'étais là-bas, j'ai fait ça, j'ai eu le T-Shirt."
 }

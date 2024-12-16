@@ -30,11 +30,11 @@
   "items.fishBowl.name": "Небольшой аквариум",
   "items.fishBowl.description": "В нём плавает симпатичная рыбка !",
 
-  "legendary-bait-name": "Legendary Bait", // new!
-  "legendary-bait-description": "Very rare fish are attracted to this...", // new!
+  "items.legendary-bait.name": "Legendary Bait", // new!
+  "items.legendary-bait.description": "Very rare fish are attracted to this...", // new!
 
-  "pufferchick-name": "Фугу-цыплёнок",
-  "pufferchick-description": "Наполовину фугу, наполовину цыплёнок.",
+  "items.pufferchick.name": "Фугу-цыплёнок",
+  "items.pufferchick.description": "Наполовину фугу, наполовину цыплёнок.",
 
   "items.trophy.name": "Трофей Аквариума долины Стардью.",
   "items.trophy.description": "Награда за помощь в сборе рыб Аквариуму долины Стардью.",
@@ -43,6 +43,6 @@
   /*********
   ** Shirts
   *********/
-  "pufferchick-shirt-name": "Фугу-цыплячья рубашка",
-  "pufferchick-shirt-description": "Был там, сделал это - получил футболку."
+  "items.pufferchickShirt.name": "Фугу-цыплячья рубашка",
+  "items.pufferchickShirt.description": "Был там, сделал это - получил футболку."
 }

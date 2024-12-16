@@ -1,0 +1,57 @@
+/*
+
+These patches add the custom mail sent by the mod.
+
+*/
+{
+  "$schema": "https://smapi.io/schemas/content-patcher.json",
+
+  "Changes": [
+    /*********
+    ** Mail data
+    *********/
+    {
+      "Action": "EditData",
+      "Target": "Data/Mail",
+      "Entries": {
+        "{{ModId}}_AquariumOpen": "{{i18n: mail.open}}",
+        "{{ModId}}_AquariumOpenLater": "{{i18n: mail.openLater}}"
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/TriggerActions",
+      "Entries": {
+        "{{ModId}}_AquariumOpen": {
+          "Id": "{{ModId}}_AquariumOpen",
+          "Trigger": "DayStarted",
+          "Action": "AddMail Current {{ModId}}_AquariumOpen Now",
+          "Condition": "DAYS_PLAYED 30 30, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpenLater Any"
+        },
+        "{{ModId}}_AquariumOpenLater": {
+          "Id": "{{ModId}}_AquariumOpenLater",
+          "Trigger": "DayStarted",
+          "Action": "AddMail Current {{ModId}}_AquariumOpenLater Now",
+          "Condition": "DAYS_PLAYED 31, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpen Any"
+        }
+      }
+    },
+
+
+    /*********
+    ** Migrate legacy mail
+    *********/
+    {
+      "Action": "EditData",
+      "Target": "Data/TriggerActions",
+      "Entries": {
+        "{{ModId}}_MigrateLegacyMail": {
+          "Id": "{{ModId}}_MigrateLegacyMail",
+          "Trigger": "DayStarted",
+          "Action": "Pathoschild.ContentPatcher_MigrateIds Mail StardewAquarium.Open {{ModId}}_AquariumOpen StardewAquarium.OpenLater {{ModId}}_AquariumOpenLater",
+          "HostOnly": true
+        }
+      }
+    }
+  ]
+}

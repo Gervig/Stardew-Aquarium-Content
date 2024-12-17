@@ -3,6 +3,7 @@
  <properties>
   <property name="Gervig91.StardewAquariumCP_DolphinChance" value="0.00001"/>
   <property name="Gervig91.StardewAquariumCP_DolphinRange" value="74 0 10 40"/>
+  <property name="Gervig91.StardewAquariumCP_LastDonatedFishSign" value="31 10"/>
   <property name="Music" value="ocean"/>
   <property name="NPCWarp" value="39 0 RailRoad 32 41 40 0 RailRoad 32 41 41 0 RailRoad 32 41 42 0 RailRoad 32 41 43 0 RailRoad 32 41"/>
   <property name="Outdoors" value="T"/>

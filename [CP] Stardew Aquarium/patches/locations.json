@@ -2,6 +2,13 @@
   "$schema": "https://smapi.io/schemas/content-patcher.json",
 
   "Changes": [
+    // load dolphin Easter egg animation
+    {
+      "Action": "Load",
+      "Target": "Mods/{{ModId}}/Dolphin",
+      "FromFile": "assets/dolphin.png"
+    },
+
     // load map assets
     {
       "LogName": "Load ExteriorMuseum",

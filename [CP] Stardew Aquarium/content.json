@@ -38,7 +38,7 @@
   "Changes": [
     {
       "Action": "Include",
-      "FromFile": "patches/characters.json, patches/fish-tank-descriptions.json, patches/items.json, patches/legacy-migrations.json, patches/locations.json, patches/mail.json, patches/map-strings.json, patches/shops.json, patches/ui.json"
+      "FromFile": "patches/characters.json, patches/events.json, patches/fish-tank-descriptions.json, patches/items.json, patches/legacy-migrations.json, patches/locations.json, patches/mail.json, patches/map-strings.json, patches/shops.json, patches/ui.json"
     }
   ]
 }

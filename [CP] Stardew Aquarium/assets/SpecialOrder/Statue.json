@@ -73,7 +73,7 @@
         "HasFlag: hostPlayer": "AquariumDonated:Pufferfish",
         "HasFlag: hostPlayer": "AquariumFishDonated:25",
         "SpecialOrdersDifficulty": "Easy",
-        "HasSeenEvent": "6372008"
+        "HasSeenEvent": "{{ModId}}_SpecialOrdersIntro"
       }
     },
     {
@@ -142,7 +142,7 @@
         "HasFlag: hostPlayer": "AquariumDonated:Pufferfish",
         "HasFlag: hostPlayer": "AquariumFishDonated:25",
         "SpecialOrdersDifficulty": "Medium",
-        "HasSeenEvent": "6372008"
+        "HasSeenEvent": "{{ModId}}_SpecialOrdersIntro"
       }
     },
     {
@@ -211,7 +211,7 @@
         "HasFlag: hostPlayer": "AquariumDonated:Pufferfish",
         "HasFlag: hostPlayer": "AquariumFishDonated:25",
         "SpecialOrdersDifficulty": "Hard",
-        "HasSeenEvent": "6372008"
+        "HasSeenEvent": "{{ModId}}_SpecialOrdersIntro"
       }
     },
     {
@@ -280,7 +280,7 @@
         "HasFlag: hostPlayer": "AquariumDonated:Pufferfish",
         "HasFlag: hostPlayer": "AquariumFishDonated:25",
         "SpecialOrdersDifficulty": "Hell",
-        "HasSeenEvent": "6372008"
+        "HasSeenEvent": "{{ModId}}_SpecialOrdersIntro"
       }
     }
   ]

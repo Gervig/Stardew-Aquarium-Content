@@ -632,7 +632,7 @@
       "ToArea": { "X": 0, "Y": 32, "Width": 80, "Height": 112 },
       "PatchMode":"Replace",
       "When": {
-        "HasSeenEvent": "6372011"
+        "HasSeenEvent": "{{ModId}}_Statue"
       },
       "Update": "OnLocationChange"
     },
@@ -660,7 +660,7 @@
         },
       ],
       "When": {
-        "HasHasSeenEventMod": "6372011"
+        "HasHasSeenEventMod": "{{ModId}}_Statue"
       },
       Update": "OnLocationChange"
     },
@@ -4337,7 +4337,7 @@
       "ToArea": { "X": 16, "Y": 80, "Width": 16, "Height": 16 },
       "When": {
         "HasMod": "MoreFish",
-        "HasSeenEvent": "6372005",
+        "HasSeenEvent": "{{ModId}}_LaDonation",
         "HasFlag: hostPlayer": "AquariumDonated:MNF.MoreNewFish_la",
         "HasFlag: hostPlayer |contains=AquariumDonated:MNF.MoreNewFish_tui": false
       },
@@ -4352,7 +4352,7 @@
       "ToArea": { "X": 16, "Y": 80, "Width": 16, "Height": 16 },
       "When": {
         "HasMod": "MoreFish",
-        "HasSeenEvent": "6372006",
+        "HasSeenEvent": "{{ModId}}_TuiDonation",
         "HasFlag: hostPlayer": "AquariumDonated:MNF.MoreNewFish_tui",
         "HasFlag: hostPlayer |contains=AquariumDonated:MNF.MoreNewFish_la": false
       },

@@ -45,7 +45,7 @@
       },
       "When": {
         "HasFlag: hostPlayer": "AquariumDonated:LavaEel",
-        "HasSeenEvent": "6372010",
+        "HasSeenEvent": "{{ModId}}_SpicyLavaEel",
         "SpecialOrdersDifficulty": "Easy"
       }
     },
@@ -94,7 +94,7 @@
       },
       "When": {
         "HasFlag: hostPlayer": "AquariumDonated:LavaEel",
-        "HasSeenEvent": "6372010",
+        "HasSeenEvent": "{{ModId}}_SpicyLavaEel",
         "SpecialOrdersDifficulty": "Medium"
       }
     },
@@ -143,7 +143,7 @@
       },
       "When": {
         "HasFlag: hostPlayer": "AquariumDonated:LavaEel",
-        "HasSeenEvent": "6372010",
+        "HasSeenEvent": "{{ModId}}_SpicyLavaEel",
         "SpecialOrdersDifficulty": "Hard"
       }
     },
@@ -192,7 +192,7 @@
       },
       "When": {
         "HasFlag: hostPlayer": "AquariumDonated:LavaEel",
-        "HasSeenEvent": "6372010",
+        "HasSeenEvent": "{{ModId}}_SpicyLavaEel",
         "SpecialOrdersDifficulty": "Hell"
       }
     }

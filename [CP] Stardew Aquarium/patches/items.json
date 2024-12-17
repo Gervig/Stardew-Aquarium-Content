@@ -199,31 +199,5 @@ These patches add the custom items used by the mod.
       }
     },
     */
-
-
-    /*********
-    ** Migrate legacy Json Assets items
-    *********/
-    {
-      "Action": "EditData",
-      "Target": "Data/TriggerActions",
-      "Entries": {
-        "{{ModId}}_MigrateLegacyItems": {
-          "Id": "{{ModId}}_MigrateLegacyItems",
-          "Trigger": "DayStarted",
-          "Actions": [
-              // pre-1.6 Json Assets items
-              "Pathoschild.ContentPatcher_MigrateIds Items \"JsonAssets:big-craftables:Stardew Aquarium Trophy\" (BC){{ModId}}_Trophy \"JsonAssets:clothing:Pufferchick Shirt\" (S){{ModId}}_PufferchickShirt \"JsonAssets:hats:Angler Mask\" (H){{ModId}}_AnglerMask \"JsonAssets:hats:Crimsonfish Mask\" (H){{ModId}}_CrimsonfishMask \"JsonAssets:hats:Glacierfish Mask\" (H){{ModId}}_GlacierfishMask \"JsonAssets:hats:Legend Mask\" (H){{ModId}}_LegendMask \"JsonAssets:hats:Mutant Carp Mask\" (H){{ModId}}_MutantCarpMask \"JsonAssets:hats:Pufferchick Mask\" (H){{ModId}}_PufferchickMask \"JsonAssets:hats:The Curator's Mask\" (H){{ModId}}_TheCuratorsHat \"JsonAssets:objects:Fish Bowl\" (O){{ModId}}_FishBowl \"JsonAssets:objects:Legendary Bait\" (O){{ModId}}_LegendaryBait \"JsonAssets:objects:Pufferchick\" (O){{ModId}}_Pufferchick",
-
-              // 1.6+ Json Assets items
-              "Pathoschild.ContentPatcher_MigrateIds Items (BC)Gervig91.StardewAquariumJA_Stardew_Aquarium_Trophy (BC){{ModId}}_Trophy (H)Gervig91.StardewAquariumJA_Angler_Mask (H){{ModId}}_AnglerMask (H)Gervig91.StardewAquariumJA_Crimsonfish_Mask (H){{ModId}}_CrimsonfishMask (H)Gervig91.StardewAquariumJA_Glacierfish_Mask (H){{ModId}}_GlacierfishMask (H)Gervig91.StardewAquariumJA_Legend_Mask (H){{ModId}}_LegendMask (H)Gervig91.StardewAquariumJA_Mutant_Carp_Mask (H){{ModId}}_MutantCarpMask (H)Gervig91.StardewAquariumJA_Pufferchick_Mask (H){{ModId}}_PufferchickMask (H)Gervig91.StardewAquariumJA_The_Curator's_Hat (H){{ModId}}_TheCuratorsHat (O)Gervig91.StardewAquariumJA_Fish_Bowl (O){{ModId}}_FishBowl",
-
-              // items previously added by the C# component
-              "Pathoschild.ContentPatcher_MigrateIds Items (O)Cherry.StardewAquarium_LegendaryBait (O){{ModId}}_LegendaryBait (O)Cherry.StardewAquarium_Pufferchick (O){{ModId}}_Pufferchick (S)Cherry.StardewAquarium_PufferchickShirt (S){{ModId}}_PufferchickShirt"
-          ],
-          "HostOnly": true
-        }
-      }
-    }
   ]
 }

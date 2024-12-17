@@ -35,23 +35,6 @@ These patches add the custom mail sent by the mod.
           "Condition": "DAYS_PLAYED 31, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpen Any"
         }
       }
-    },
-
-
-    /*********
-    ** Migrate legacy mail
-    *********/
-    {
-      "Action": "EditData",
-      "Target": "Data/TriggerActions",
-      "Entries": {
-        "{{ModId}}_MigrateLegacyMail": {
-          "Id": "{{ModId}}_MigrateLegacyMail",
-          "Trigger": "DayStarted",
-          "Action": "Pathoschild.ContentPatcher_MigrateIds Mail StardewAquarium.Open {{ModId}}_AquariumOpen StardewAquarium.OpenLater {{ModId}}_AquariumOpenLater",
-          "HostOnly": true
-        }
-      }
     }
   ]
 }

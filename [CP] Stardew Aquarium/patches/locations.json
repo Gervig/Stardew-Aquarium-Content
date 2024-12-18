@@ -4327,9 +4327,9 @@
       "Update": "OnLocationChange"
     },
 
-    //Spirit Oasis overlay patches, makes the map red when one of the fish is missing.
+    //Spirit Oasis overlay patch, makes the map red when one of the fish is missing.
     {
-      "LogName": "42 Spirit Oasis Overlay La",
+      "LogName": "42 Spirit Oasis Overlay",
       "Action": "EditImage",
       "Target": "Maps/AquariumEmpty42",
       "FromFile": "assets/Aquariums/MNF/SpiritOasis/AquariumEmpty42.png",
@@ -4337,24 +4337,8 @@
       "ToArea": { "X": 16, "Y": 80, "Width": 16, "Height": 16 },
       "When": {
         "HasMod": "MoreFish",
-        "HasSeenEvent": "{{ModId}}_LaDonation",
-        "HasFlag: hostPlayer": "AquariumDonated:MNF.MoreNewFish_la",
-        "HasFlag: hostPlayer |contains=AquariumDonated:MNF.MoreNewFish_tui": false
-      },
-      "Update": "OnLocationChange"
-    },
-    {
-      "LogName": "42 Spirit Oasis Overlay Tui",
-      "Action": "EditImage",
-      "Target": "Maps/AquariumEmpty42",
-      "FromFile": "assets/Aquariums/MNF/SpiritOasis/AquariumEmpty42.png",
-      "FromArea": { "X": 0, "Y": 80, "Width": 16, "Height": 16 },
-      "ToArea": { "X": 16, "Y": 80, "Width": 16, "Height": 16 },
-      "When": {
-        "HasMod": "MoreFish",
-        "HasSeenEvent": "{{ModId}}_TuiDonation",
-        "HasFlag: hostPlayer": "AquariumDonated:MNF.MoreNewFish_tui",
-        "HasFlag: hostPlayer |contains=AquariumDonated:MNF.MoreNewFish_la": false
+        "HasSeenEvent": "{{ModId}}_SpiritFish",
+        "HasCaptiveSpiritFish": true
       },
       "Update": "OnLocationChange"
     },

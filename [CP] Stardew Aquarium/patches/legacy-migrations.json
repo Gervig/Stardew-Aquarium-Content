@@ -15,6 +15,9 @@ These patches migrate older save data to reflect the latest mod version.
           "Id": "{{ModId}}_MigrateLegacyData",
           "Trigger": "DayStarted",
           "Actions": [
+            // events
+            "Pathoschild.ContentPatcher_MigrateIds Events 6372001 {{ModId}}_Intro 6372002 {{ModId}}_Completed 6372003 {{ModId}}_RazorTroutDonation 6372004 {{ModId}}_MantaRay 6372005 {{ModId}}_LaDonation 6372006 {{ModId}}_TuiDonation 6372007 {{ModId}}_SpiritRitual",
+
             // mail
             "Pathoschild.ContentPatcher_MigrateIds Mail StardewAquarium.Open {{ModId}}_AquariumOpen StardewAquarium.OpenLater {{ModId}}_AquariumOpenLater",
 

@@ -111,6 +111,19 @@
       }
     },
     {
+      "LogName": "Gender Neutral Curator Dialogue",
+      "Target": "Characters/Dialogue/Curator",
+      "Action": "EditData",
+      "Entries": {
+        "Mon": "{{i18n: curator.dialogue.genderNeutral.Mon}}",
+        "Thu": "{{i18n: curator.dialogue.genderNeutral.Thu}}",
+        "Fri": "{{i18n: curator.dialogue.genderNeutral.Fri}}"
+      },
+      "When": {
+        "HasMod |contains=Hana.GenderNeutralityMod": true
+      }
+    },
+    {
       "Action": "EditData",
       "Target": "Characters/Dialogue/Goldie",
       "Entries": {
@@ -203,47 +216,12 @@
       }
     },
     {
-      "Action": "Include",
-      "FromFile": "CharacterTranslations/GenderNeutral.{{Language}}.json",
-      "When": {
-        "HasFile:{{FromFile}}": true,
-        "HasMod": "Hana.GenderNeutralityMod"
-      }
-    },
-    {
       "LogName": "Animations",
       "Action": "EditData",
       "Target": "Data/animationDescriptions",
       "Entries": {
         "Curator_work": "24/25 25 25 26 26 26 27 27 27 24 24 24 24 24 24 24 24 24 24 24 24 24 24 24/24",
         "Curator_Sleep": "32/32/32"
-      }
-    },
-    {
-      "LogName": "Load Events",
-      "Action": "Load",
-      "Target": "Data/Events/{{ModId}}_FishMuseum, Data/Events/{{ModId}}_BigRoom, Data/Events/{{ModId}}_CuratorBedroom, Data/Events/{{ModId}}_ExteriorMuseum, Data/Events/{{ModId}}_AquariumBasement, Data/Events/{{ModId}}_KayaRoom, Data/Events/{{ModId}}_NotYouAgainRoom, Data/Events/{{ModId}}_RSVRoom, Data/Events/{{ModId}}_AquariumESRoom",
-      "FromFile": "assets/Events/{{TargetWithoutPath}}.json",
-      "When": {
-        "HasFile:{{FromFile}}": true
-      }
-    },
-    {
-      "LogName": "Load MNF Events",
-      "Action": "Load",
-      "Target": "Data/Events/{{ModId}}_MNFIslandRoom, Data/Events/{{ModId}}_MNFKoiRoom, Data/Events/{{ModId}}_MNFKoiRoom, Data/Events/{{ModId}}_MNFRoom, Data/Events/{{ModId}}_SpiritOasis",
-      "FromFile": "assets/Events/{{TargetWithoutPath}}.json",
-      "When": {
-        "HasFile:{{FromFile}}": true,
-        "HasMod": "MoreFish"
-      }
-    },
-    {
-      "LogName": "Include Special Events",
-      "Action": "Include",
-      "FromFile": "assets/Events/SpecialEvents.json",
-      "When": {
-        "HasFile:{{FromFile}}": true
       }
     }
   ]

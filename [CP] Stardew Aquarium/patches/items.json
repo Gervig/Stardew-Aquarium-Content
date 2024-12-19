@@ -114,6 +114,22 @@ These patches add the custom items used by the mod.
         "{{ModId}}_Pufferchick": "0/float/////Mods\\{{ModId}}\\AquariumFish"
       }
     },
+    {
+      "LogName": "Pufferchick Legendary Fish Pond Color",
+      "Action": "EditData",
+      "Target": "Data/FishPondData",
+      "TargetField": ["LegendaryFish", "WaterColor",],
+      "Entries": {
+        "{{ModId}}_Pufferchick": {
+          "Id": "{{ModId}}_Pufferchick",
+          "Color": "255 150 0",
+          "Condition": "ITEM_ID Input {{ModId}}_Pufferchick"
+        },
+      },
+      "MoveEntries": [
+        { "Id": "{{ModId}}_Pufferchick", "ToPosition": "Top" }
+      ]
+    },
 
 
     /*********

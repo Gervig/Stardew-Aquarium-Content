@@ -150,7 +150,7 @@
 
   // Custom Companion dialogue
   "mask-tourist.dialogue": "Tourist: Do you like my mask? You can buy them at the giftshop just outside!",
-  "aquarium-tourist.dialogue": "...",
+  "aquarium-tourist.dialogue.1": "...",
   "iridium-knight.dialogue": "I have done all that can be done. There is nothing left. I need one last challenge!",
   "squire.dialogue": "I'm looking for a knight in purple armor. Have you seen them?"
 }

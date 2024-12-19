@@ -157,30 +157,29 @@ These patches add the custom items used by the mod.
     ** Sprite animations
     *********/
     {
-      "LogName": "0 Fish Bowl Animation",
-      "Action": "EditImage",
-      "Target": "Mods/{{ModId}}/Objects",
-      "FromFile": "assets/Animations/fishbowl.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
-      "ToArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
-      "AnimationFrameTime": 10,
-      "AnimationFrameCount": 28,
-      "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations"
+    "LogName": "0 Fish Bowl Animation",
+    "Action": "EditData",
+    "Target": "spacechase0.SpaceCore/TextureOverrides",
+    "When": {"LegendaryFishAnimation": true},
+    "Entries": {
+      "Gervig91.StardewAquariumCP.FishBowlAnimation": {
+        "TargetTexture": "Mods/{{ModId}}/Objects",
+        "TargetRect": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
+        "SourceTexture": "{{InternalAssetKey:assets/Animations/fishbowl.png}}:0..27@10"
+        }
       }
     },
     {
-      "LogName": "0 Pufferchick Animation",
-      "Action": "EditImage",
-      "Target": "Mods/{{ModId}}/Objects",
-      "FromFile": "assets/Animations/pufferchick.png",
-      "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
-      "ToArea": { "X": 32, "Y": 0, "Width": 16, "Height": 16  },
-      "AnimationFrameTime": 10,
-      "AnimationFrameCount": 5,
-      "When": {
-        "HasMod": "spacechase0.ContentPatcherAnimations",
-        "LegendaryFishAnimation": "true"
+    "LogName": "0 Pufferchick Animation",
+    "Action": "EditData",
+    "Target": "spacechase0.SpaceCore/TextureOverrides",
+    "When": {"LegendaryFishAnimation": true},
+    "Entries": {
+      "Gervig91.StardewAquariumCP.PufferchickAnimation": {
+        "TargetTexture": "Mods/{{ModId}}/Objects",
+        "TargetRect": { "X": 32, "Y": 0, "Width": 16, "Height": 16 },
+        "SourceTexture": "{{InternalAssetKey:assets/Animations/pufferchick.png}}:0..4@10"
+        }
       }
     },
     /*

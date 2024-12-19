@@ -264,7 +264,7 @@
             },
             {
               "Id": "PufferchickShirt",
-              "ItemId": "Cherry.StardewAquarium_PufferchickShirt",
+              "ItemId": "{{ModId}}_PufferchickShirt",
               "Price": 200,
               "AvailableStock": 1,
               "AvailableStockLimit": "Player",

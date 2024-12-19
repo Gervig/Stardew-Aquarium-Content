@@ -39,22 +39,15 @@ These patches add the custom items used by the mod.
     },
     {
       "Action": "EditData",
+      "Target": "Data/Furniture",
+      "Entries": {
+        "{{ModId}}_FishBowl": "{{i18n: items.fishBowl.name}}/Decor/1 1/1 1/1/200/2/{{i18n: items.fishBowl.description}}/0/Mods\\{{ModId}}\\Objects"
+      }
+    },
+    {
+      "Action": "EditData",
       "Target": "Data/Objects",
       "Entries": {
-        "{{ModId}}_FishBowl": {
-          "Name": "Fish Bowl",
-          "DisplayName": "{{i18n: items.fishBowl.name}}",
-          "Description": "{{i18n: items.fishBowl.description}}",
-          "Type": "Basic",
-          "Category": -24, // decor
-          "Price": 200,
-
-          "ExcludeFromShippingCollection": true,
-          "ExcludeFromRandomSale": true,
-
-          "Texture": "Mods/{{ModId}}/Objects",
-          "SpriteIndex": 0
-        },
         "{{ModId}}_LegendaryBait": {
           "Name": "Legendary Bait",
           "DisplayName": "{{i18n: items.legendary-bait.name}}",

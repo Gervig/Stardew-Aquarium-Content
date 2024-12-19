@@ -191,7 +191,7 @@
             */
             {
               "Id": "LegendaryBait",
-              "ItemId": "Cherry.StardewAquarium_LegendaryBait",
+              "ItemId": "{{ModId}}_LegendaryBait",
               "Price": 5000,
               "AvailableStock": 10,
               "AvailableStockLimit": "Player",

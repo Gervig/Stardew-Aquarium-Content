@@ -172,7 +172,7 @@ These patches add the custom items used by the mod.
     {
       "LogName": "0 Pufferchick Animation",
       "Action": "EditImage",
-      "Target": "Mods/StardewAquarium/Items",
+      "Target": "Mods/{{ModId}}/Objects",
       "FromFile": "assets/Animations/pufferchick.png",
       "FromArea": { "X": 0, "Y": 0, "Width": 16, "Height": 16 },
       "ToArea": { "X": 32, "Y": 0, "Width": 16, "Height": 16  },

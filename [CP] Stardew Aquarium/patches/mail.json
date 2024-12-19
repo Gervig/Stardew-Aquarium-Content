@@ -26,13 +26,13 @@ These patches add the custom mail sent by the mod.
           "Id": "{{ModId}}_AquariumOpen",
           "Trigger": "DayStarted",
           "Action": "AddMail Current {{ModId}}_AquariumOpen Now",
-          "Condition": "DAYS_PLAYED 30 30, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpenLater Any"
+          "Condition": "DAYS_PLAYED 31 31, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpenLater Any"
         },
         "{{ModId}}_AquariumOpenLater": {
           "Id": "{{ModId}}_AquariumOpenLater",
           "Trigger": "DayStarted",
           "Action": "AddMail Current {{ModId}}_AquariumOpenLater Now",
-          "Condition": "DAYS_PLAYED 31, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpen Any"
+          "Condition": "DAYS_PLAYED 32, !PLAYER_HAS_MAIL Current {{ModId}}_AquariumOpen Any"
         }
       }
     }

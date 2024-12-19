@@ -60,7 +60,7 @@
     // should be shown and (b) swap in the correct text like `{{i18n: events.spiritFish.{{CaptiveSpiritFish}}.name}}`.
     {
       "Name": "CaptiveSpiritFish",
-      "Value": "",
+      "Value": ""
     },
     {
       "Name": "CaptiveSpiritFish",

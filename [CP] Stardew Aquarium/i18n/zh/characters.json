@@ -149,7 +149,7 @@
 
   // Custom Companion dialogue
   "mask-tourist.dialogue": "游客：你喜欢我的面具吗？你可以在外面的礼品店购买它们！",
-  "aquarium-tourist.dialogue": "...",
+  "aquarium-tourist.dialogue.1": "...",
   "iridium-knight.dialogue": "我已经尽了一切努力。没有剩下什么了。我需要最后一个挑战！",
   "squire.dialogue": "我正在寻找一位穿着紫色盔甲的骑士。你见过他们吗？"
 }

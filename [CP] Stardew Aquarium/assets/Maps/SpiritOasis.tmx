@@ -7587,6 +7587,7 @@
    <tile/>
    <tile/>
    <tile/>
+   <tile gid="2147491208"/>
    <tile/>
    <tile/>
    <tile/>
@@ -7604,8 +7605,7 @@
    <tile/>
    <tile/>
    <tile/>
-   <tile/>
-   <tile/>
+   <tile gid="7560"/>
    <tile/>
    <tile/>
    <tile/>
@@ -9552,7 +9552,7 @@
    <tile/>
    <tile/>
    <tile gid="7588"/>
-   <tile gid="2147491208"/>
+   <tile gid="536871350"/>
    <tile/>
    <tile/>
    <tile/>
@@ -9570,7 +9570,7 @@
    <tile/>
    <tile/>
    <tile/>
-   <tile gid="7560"/>
+   <tile gid="2684354998"/>
    <tile gid="7588"/>
    <tile/>
    <tile/>
@@ -10380,7 +10380,7 @@
   </object>
   <object id="5" name="TileData" x="304" y="16" width="32" height="16">
    <properties>
-    <property name="Action" value="Message Gervig91.StardewAquariumCP_WaterfallCave"/>
+    <property name="Action" value="AquariumString WaterfallCave"/>
    </properties>
   </object>
  </objectgroup>
@@ -11531,7 +11531,6 @@
    <tile/>
    <tile/>
    <tile/>
-   <tile gid="536871350"/>
    <tile/>
    <tile/>
    <tile/>
@@ -11549,7 +11548,8 @@
    <tile/>
    <tile/>
    <tile/>
-   <tile gid="2684354998"/>
+   <tile/>
+   <tile/>
    <tile/>
    <tile/>
    <tile/>

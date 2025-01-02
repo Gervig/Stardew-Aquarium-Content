@@ -8333,7 +8333,7 @@
   </object>
   <object id="7" name="TileData" x="768" y="144" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign Bream Dorado Pike RainbowTrout Salmon Shad SmallmouthBass Sunfish TigerTrout"/>
+    <property name="Action" value="AquariumSign Bream Dorado Pike RainbowTrout Salmon Shad SmallmouthBass Sunfish TigerTrout Goby"/>
    </properties>
   </object>
   <object id="13" name="TileData" x="272" y="208" width="16" height="16">

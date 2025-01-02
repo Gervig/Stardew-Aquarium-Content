@@ -271,12 +271,12 @@ When adding new fish, make sure to add it to `patches/fish-tank-descriptions.jso
   "Tank_FlapjackOctopus": "The Flapjack Octopus or 'Adorabilis' as it is also known as, is like other octopuses a member of the mollusc phylum. It has fins above its eyes and its short tentacles are spread out in an umbrella like fashion around its body.",
 
   //East Scarpe
-  "Tank_CeruleanNudibranch": "The Cerulean Nudibranch belongs to a genus called 'Berghia' which feeds sea anemones. The name 'Nudibranch' comes from the latin word 'nudus' meaning 'naked' and the greek word 'bránkhia' meaning gills. ",
-  "Tank_OrnateNudibranch": "The Ornate Nudibranch, like its other related species are usually called 'sea slugs'. This species has a translucent body with broad lateral outgrowths.",
-  "Tank_SeaBunnyNudibranch": "The Sea Bunny Nudibranch or 'Sea bunny' which it is also known as, is a gastropod mollusc which resembles a rabbit. The sea bunny is a hermaphrodite, meaning they produce both sperm and egg cells.",
-  "Tank_SunsetNudibranch": "The Sunset Nudibranch belongs to a genus called 'Phestilla', these sea slugs have an unsual habit of feeding on hard coral. Juveniles have long stining cells on its dorsal surface called 'cnidosacs', adults does not have such sacs.",
-  "Tank_GoldenTrout": "The Golden Trout or 'Brigit' as it is also known as, is a freshwater species of trout. It is closely related to the Rainbow Trout which it can hybridize with, meaning these two species can have hybrid offspring.",
-  "Tank_KokaneeSalmon": "The Kokanee Salmon is known by many other names such as 'Little redfish', 'Kikanning' and 'Walla' to name a few. Unlike other salmon species it is 'non-anadromous', meaning it does not migrate out to sea but spends all its life in freshwater.",
+  "Tank_EastScarp_Cerulean_Nudibranch": "The Cerulean Nudibranch belongs to a genus called 'Berghia' which feeds sea anemones. The name 'Nudibranch' comes from the latin word 'nudus' meaning 'naked' and the greek word 'bránkhia' meaning gills. ",
+  "Tank_EastScarp_Ornate_Nudibranch": "The Ornate Nudibranch, like its other related species are usually called 'sea slugs'. This species has a translucent body with broad lateral outgrowths.",
+  "Tank_EastScarp_Sea_Bunny_Nudibranch": "The Sea Bunny Nudibranch or 'Sea bunny' which it is also known as, is a gastropod mollusc which resembles a rabbit. The sea bunny is a hermaphrodite, meaning they produce both sperm and egg cells.",
+  "Tank_EastScarp_Sunset_Nudibranch": "The Sunset Nudibranch belongs to a genus called 'Phestilla', these sea slugs have an unsual habit of feeding on hard coral. Juveniles have long stining cells on its dorsal surface called 'cnidosacs', adults does not have such sacs.",
+  "Tank_EastScarp_Golden_Trout": "The Golden Trout or 'Brigit' as it is also known as, is a freshwater species of trout. It is closely related to the Rainbow Trout which it can hybridize with, meaning these two species can have hybrid offspring.",
+  "Tank_EastScarp_Kokanee_Salmon": "The Kokanee Salmon is known by many other names such as 'Little redfish', 'Kikanning' and 'Walla' to name a few. Unlike other salmon species it is 'non-anadromous', meaning it does not migrate out to sea but spends all its life in freshwater.",
 
   //RSV
   "Tank_CutthroatTrout": "The Cutthroat Trout is a popular game fish for many anglers. It gets its name from its distinctive red colouration of its underside jaw.",

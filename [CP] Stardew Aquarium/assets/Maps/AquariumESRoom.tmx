@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="left-up" width="80" height="18" tilewidth="16" tileheight="16" infinite="0" nextlayerid="12" nextobjectid="48">
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="left-up" width="80" height="18" tilewidth="16" tileheight="16" infinite="0" nextlayerid="12" nextobjectid="51">
  <properties>
   <property name="Music" value="submarine_song"/>
   <property name="Warp" value="39 0 Gervig91.StardewAquariumCP_FishMuseum 8 44 40 0 Gervig91.StardewAquariumCP_FishMuseum 9 44"/>
@@ -2630,37 +2630,37 @@
   </object>
   <object id="16" name="TileData" x="480" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="17" name="TileData" x="496" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="18" name="TileData" x="512" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="19" name="TileData" x="528" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="20" name="TileData" x="544" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="21" name="TileData" x="560" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="22" name="TileData" x="576" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign CeruleanNudibranch OrnateNudibranch SeaBunnyNudibranch SunsetNudibranch"/>
+    <property name="Action" value="AquariumSign EastScarp_Cerulean_Nudibranch EastScarp_Ornate_Nudibranch EastScarp_Sea_Bunny_Nudibranch EastScarp_Sunset_Nudibranch"/>
    </properties>
   </object>
   <object id="23" name="TileData" x="576" y="112" width="16" height="16">
@@ -2680,37 +2680,37 @@
   </object>
   <object id="37" name="TileData" x="688" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="38" name="TileData" x="704" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="39" name="TileData" x="720" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="40" name="TileData" x="736" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="41" name="TileData" x="752" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="42" name="TileData" x="768" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="43" name="TileData" x="784" y="128" width="16" height="16">
    <properties>
-    <property name="Action" value="AquariumSign GoldenTrout KokaneeSalmon"/>
+    <property name="Action" value="AquariumSign EastScarp_Golden_Trout EastScarp_Kokanee_Salmon"/>
    </properties>
   </object>
   <object id="44" name="TileData" x="784" y="112" width="16" height="16">

@@ -324,7 +324,7 @@ These entries are loaded by the C# component to get the fish tank descriptions. 
         "MNF.MoreNewFish_dwarf_stingray_pup": "{{i18n: Tank_MNF.MoreNewFish_dwarf_stingray_pup}}",
 
         // 1.6
-        "Goby": "{{i18n: Tank_Goby}"
+        "Goby": "{{i18n: Tank_Goby}}"
       }
     }
   ]

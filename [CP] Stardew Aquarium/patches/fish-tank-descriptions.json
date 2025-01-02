@@ -282,12 +282,12 @@ These entries are loaded by the C# component to get the fish tank descriptions. 
         "FlapjackOctopus": "{{i18n: Tank_FlapjackOctopus}}",
 
         //East Scarpe
-        "CeruleanNudibranch": "{{i18n: Tank_CeruleanNudibranch}}",
-        "OrnateNudibranch": "{{i18n: Tank_OrnateNudibranch}}",
-        "SeaBunnyNudibranch": "{{i18n: Tank_SeaBunnyNudibranch}}",
-        "SunsetNudibranch": "{{i18n: Tank_SunsetNudibranch}}",
-        "GoldenTrout": "{{i18n: Tank_GoldenTrout}}",
-        "KokaneeSalmon": "{{i18n: Tank_KokaneeSalmon}}",
+        "CeruleanNudibranch": "{{i18n: Tank_EastScarp_Cerulean_Nudibranch}}",
+        "OrnateNudibranch": "{{i18n: Tank_EastScarp_Ornate_Nudibranch}}",
+        "SeaBunnyNudibranch": "{{i18n: Tank_EastScarp_Sea_Bunny_Nudibranch}}",
+        "SunsetNudibranch": "{{i18n: Tank_EastScarp_Sunset_Nudibranch}}",
+        "GoldenTrout": "{{i18n: Tank_EastScarp_Golden_Trout}}",
+        "KokaneeSalmon": "{{i18n: Tank_EastScarp_Kokanee_Salmon}}",
 
         //RSV
         "CutthroatTrout": "{{i18n: Tank_CutthroatTrout}}",

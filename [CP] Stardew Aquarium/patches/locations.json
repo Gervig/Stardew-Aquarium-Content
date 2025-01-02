@@ -5215,7 +5215,7 @@
       "PatchMode": "Overlay",
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP",
-        "HasFlag: hostPlayer": "AquariumDonated:KokaneeSalmon"
+        "HasFlag: hostPlayer": "AquariumDonated:EastScarp_Kokanee_Salmon"
       },
       "Update": "OnLocationChange"
     },

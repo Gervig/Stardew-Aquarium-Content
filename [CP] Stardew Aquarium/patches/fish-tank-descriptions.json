@@ -282,12 +282,12 @@ These entries are loaded by the C# component to get the fish tank descriptions. 
         "FlapjackOctopus": "{{i18n: Tank_FlapjackOctopus}}",
 
         //East Scarpe
-        "Tank_EastScarp_Cerulean_Nudibranch": "{{i18n: Tank_EastScarp_Cerulean_Nudibranch}}",
-        "Tank_EastScarp_Ornate_Nudibranch": "{{i18n: Tank_EastScarp_Ornate_Nudibranch}}",
-        "Tank_EastScarp_Sea_Bunny_Nudibranch": "{{i18n: Tank_EastScarp_Sea_Bunny_Nudibranch}}",
-        "Tank_EastScarp_Sunset_Nudibranch": "{{i18n: Tank_EastScarp_Sunset_Nudibranch}}",
-        "Tank_EastScarp_Golden_Trout": "{{i18n: Tank_EastScarp_Golden_Trout}}",
-        "Tank_EastScarp_Kokanee_Salmon": "{{i18n: Tank_EastScarp_Kokanee_Salmon}}",
+        "EastScarp_Cerulean_Nudibranch": "{{i18n: Tank_EastScarp_Cerulean_Nudibranch}}",
+        "EastScarp_Ornate_Nudibranch": "{{i18n: Tank_EastScarp_Ornate_Nudibranch}}",
+        "EastScarp_Sea_Bunny_Nudibranch": "{{i18n: Tank_EastScarp_Sea_Bunny_Nudibranch}}",
+        "EastScarp_Sunset_Nudibranch": "{{i18n: Tank_EastScarp_Sunset_Nudibranch}}",
+        "EastScarp_Golden_Trout": "{{i18n: Tank_EastScarp_Golden_Trout}}",
+        "EastScarp_Kokanee_Salmon": "{{i18n: Tank_EastScarp_Kokanee_Salmon}}",
 
         //RSV
         "CutthroatTrout": "{{i18n: Tank_CutthroatTrout}}",

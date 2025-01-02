@@ -261,12 +261,12 @@
   "Tank_FlapjackOctopus": "烙饼章鱼，又被称为'小飞象章鱼'，与其他章鱼一样属于软体动物门。它的眼睛上方有鳍，短触角像伞一样散开在身体周围。",
 
   //East Scarpe
-  "Tank_CeruleanNudibranch": "蓝色海蛞蝓属于一种叫做'Berghia'的属，以海葵为食。'Nudibranch'一词来自拉丁词'nudus'，意为'裸露'，和希腊词'bránkhia'，意为鳃。",
-  "Tank_OrnateNudibranch": "华丽海蛞蝓，像其他相关物种一样通常被称为'海蛞蝓'。这个物种有一个半透明的身体，有宽大的侧面突出部分。",
-  "Tank_SeaBunnyNudibranch": "海兔海蛞蝓，又被称为'海兔'，是一种类似兔子的腹足动物软体动物。海兔是两性生物，意味着它们同时产生精子和卵子。",
-  "Tank_SunsetNudibranch": "日落海蛞蝓属于一种叫做'Phestilla'的属，这些海蛞蝓有一个不寻常的习惯，以硬珊瑚为食。幼体在背面有长长的刺细胞袋，成年个体没有这样的囊。",
-  "Tank_GoldenTrout": "金色鳟鱼，又被称为'Brigit'，是一种淡水鳟鱼。它与彩虹鳟鱼密切相关，可以杂交，这意味着这两个物种可以产生杂种后代。",
-  "Tank_KokaneeSalmon": "科卡尼鲑鱼有许多其他名称，如'小红鱼'，'基坎宁'和'瓦拉'等。与其他鲑鱼物种不同，它是'非洄游'的，意味着它不会迁徙到海洋，而是在淡水中度过整个生命。",
+  "Tank_EastScarp_Cerulean_Nudibranch": "蓝色海蛞蝓属于一种叫做'Berghia'的属，以海葵为食。'Nudibranch'一词来自拉丁词'nudus'，意为'裸露'，和希腊词'bránkhia'，意为鳃。",
+  "Tank_EastScarp_Ornate_Nudibranch": "华丽海蛞蝓，像其他相关物种一样通常被称为'海蛞蝓'。这个物种有一个半透明的身体，有宽大的侧面突出部分。",
+  "Tank_EastScarp_Sea_Bunny_Nudibranch": "海兔海蛞蝓，又被称为'海兔'，是一种类似兔子的腹足动物软体动物。海兔是两性生物，意味着它们同时产生精子和卵子。",
+  "Tank_EastScarp_Sunset_Nudibranch": "日落海蛞蝓属于一种叫做'Phestilla'的属，这些海蛞蝓有一个不寻常的习惯，以硬珊瑚为食。幼体在背面有长长的刺细胞袋，成年个体没有这样的囊。",
+  "Tank_EastScarp_Golden_Trout": "金色鳟鱼，又被称为'Brigit'，是一种淡水鳟鱼。它与彩虹鳟鱼密切相关，可以杂交，这意味着这两个物种可以产生杂种后代。",
+  "Tank_EastScarp_Kokanee_Salmon": "科卡尼鲑鱼有许多其他名称，如'小红鱼'，'基坎宁'和'瓦拉'等。与其他鲑鱼物种不同，它是'非洄游'的，意味着它不会迁徙到海洋，而是在淡水中度过整个生命。",
 
   //RSV
   "Tank_CutthroatTrout": "残暴鳟鱼是许多钓鱼者喜爱的游戏鱼。它的名字来自于下颌的独特红色着色。",

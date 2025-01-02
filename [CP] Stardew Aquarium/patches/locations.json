@@ -2772,6 +2772,17 @@
       "Update": "OnLocationChange"
     },
     {
+      "LogName": "17 Goby Overlay",
+      "Action": "EditImage",
+      "Target": "Maps/AquariumEmpty17",
+      "FromFile": "assets/Aquariums/River/goby.png",
+      "PatchMode": "Overlay",
+      "When": {
+        "HasFlag: hostPlayer": "AquariumDonated:Goby"
+      },
+      "Update": "OnLocationChange"
+    },
+    {
       "LogName": "21 Pufferchick Overlay",
       "Action": "EditImage",
       "Target": "Maps/AquariumEmpty21",

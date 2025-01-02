@@ -5155,7 +5155,7 @@
       "PatchMode": "Overlay",
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP",
-        "HasFlag: hostPlayer": "AquariumDonated:CeruleanNudibranch"
+        "HasFlag: hostPlayer": "AquariumDonated:EastScarp_Cerulean_Nudibranch"
       },
       "Update": "OnLocationChange"
     },
@@ -5167,7 +5167,7 @@
       "PatchMode": "Overlay",
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP",
-        "HasFlag: hostPlayer": "AquariumDonated:OrnateNudibranch"
+        "HasFlag: hostPlayer": "AquariumDonated:EastScarp_Ornate_Nudibranch"
       },
       "Update": "OnLocationChange"
     },
@@ -5179,7 +5179,7 @@
       "PatchMode": "Overlay",
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP",
-        "HasFlag: hostPlayer": "AquariumDonated:SeaBunnyNudibranch"
+        "HasFlag: hostPlayer": "AquariumDonated:EastScarp_Sea_Bunny_Nudibranch"
       },
       "Update": "OnLocationChange"
     },
@@ -5191,7 +5191,7 @@
       "PatchMode": "Overlay",
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP",
-        "HasFlag: hostPlayer": "AquariumDonated:SunsetNudibranch"
+        "HasFlag: hostPlayer": "AquariumDonated:EastScarp_Sunset_Nudibranch"
       },
       "Update": "OnLocationChange"
     },
@@ -5203,7 +5203,7 @@
       "PatchMode": "Overlay",
       "When": {
         "HasMod": "LemurKat.EastScarpe.CP",
-        "HasFlag: hostPlayer": "AquariumDonated:GoldenTrout"
+        "HasFlag: hostPlayer": "AquariumDonated:EastScarp_Golden_Trout"
       },
       "Update": "OnLocationChange"
     },

@@ -310,5 +310,7 @@ When adding new fish, make sure to add it to `patches/fish-tank-descriptions.jso
   "Tank_MNF.MoreNewFish_bonnethead_pup": "bonnethead_pup",
   "Tank_MNF.MoreNewFish_spiny_dogfish_pup": "spiny dogfish pup",
   "Tank_MNF.MoreNewFish_manta_ray_pup": "manta ray pup",
-  "Tank_MNF.MoreNewFish_dwarf_stingray_pup": "dwarf stingray pup"
+  "Tank_MNF.MoreNewFish_dwarf_stingray_pup": "dwarf stingray pup",
+
+  "Tank_Goby": "Goby is a common name for many species of ray-finned fish. This particular speciment is capable of climbing very tall waterfalls using its sunctioning mouth and a sucker on its stomach."
 }

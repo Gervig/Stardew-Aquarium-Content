@@ -2,6 +2,20 @@
   "$schema": "https://smapi.io/schemas/content-patcher.json",
 
   "Changes": [
+    // add Central Station stops
+    {
+      "Action": "EditData",
+      "Target": "Mods/Pathoschild.CentralStation/Stops",
+      "Entries": {
+        "{{ModId}}_StardewAquarium": {
+          "DisplayName": "{{i18n: stardew-aquarium}}",
+          "ToLocation": "{{ModId}}_ExteriorMuseum",
+          "ToTile": { "X": 39, "Y": 6 },
+          "Cost": 20
+        }
+      }
+    },
+
     // load dolphin Easter egg animation
     {
       "Action": "Load",

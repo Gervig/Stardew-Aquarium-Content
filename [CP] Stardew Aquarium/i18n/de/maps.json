@@ -1,4 +1,7 @@
 {
+  // display name (shown in Central Station menu)
+  "stardew-aquarium": "Sternentau Aquarium",
+
   //tank messages, This Translation was made by Mary1504
   "EmptyTank": "Nur ein leeres Becken...",
 

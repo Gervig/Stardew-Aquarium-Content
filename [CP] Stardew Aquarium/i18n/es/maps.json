@@ -1,4 +1,7 @@
 {
+  // display name (shown in Central Station menu)
+  "stardew-aquarium": "El Acuario Stardew",
+
   //tank messages
   "EmptyTank": "Solo un tanque vacío...",
 

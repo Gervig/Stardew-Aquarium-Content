@@ -1,4 +1,7 @@
 {
+  // display name (shown in Central Station menu)
+  "stardew-aquarium": "Yıldızçiyi Akvaryumu",
+
   //tank messages
   "EmptyTank": "Sadece boş bir havuz...",
 

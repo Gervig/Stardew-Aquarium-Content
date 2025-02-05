@@ -4,7 +4,7 @@
   "Version": "2.1.1",
   "Description": "Animations and stuff",
   "UniqueID": "Gervig91.StardewAquariumCP",
-  "UpdateKeys": [ "Nexus:???" ],
+  "UpdateKeys": [ "Nexus:6372" ],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   },
@@ -14,6 +14,9 @@
     },
     {
       "UniqueID": "hxw.tilesheets"
+    },
+    {
+      "UniqueID": "Pathoschild.CentralStation"
     },
     {
       "UniqueID": "PeacefulEnd.CustomCompanions"

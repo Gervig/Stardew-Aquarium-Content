@@ -6,6 +6,7 @@
   <property name="Gervig91.StardewAquariumCP_LastDonatedFishSign" value="31 10"/>
   <property name="Music" value="ocean"/>
   <property name="Outdoors" value="T"/>
+  <property name="Pathoschild.CentralStation_TicketMachine" value="39 5 Train"/>
   <property name="Warp" value="37 -1 Railroad 29 46 38 -1 Railroad 29 46 39 -1 Railroad 29 46 40 -1 Railroad 29 46 41 -1 Railroad 29 46 42 -1 Railroad 29 46 43 -1 Railroad 29 46 44 -1 Railroad 29 46 45 -1 Railroad 29 46"/>
   <property name="forceLoadPathLayerLights" value=""/>
  </properties>

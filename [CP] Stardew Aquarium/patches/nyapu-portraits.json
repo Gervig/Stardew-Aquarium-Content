@@ -1,0 +1,128 @@
+/*
+
+These patches changes all portraits to Nyapu's portraits.
+
+*/
+{
+  "Changes": [
+    {
+      "Action": "EditImage",
+      "LogName": "Nyapu's NPC portraits",
+      "Target": "Portraits/Curator, Portraits/Goldie",
+      "FromFile": "assets/Portraits/Nyapu/{{TargetWithoutPath}}.png"
+    },
+    {
+      "Action": "EditImage",
+      "LogName": "Nyapu's submarine shop portraits",	  
+      "Target": "Portraits/{{ModId}}_SubmarineVendor",
+      "FromFile": "assets/shops/Nyapu/submarinevendor.png"
+    },
+    {
+      "Action": "EditImage",
+      "LogName": "Nyapu's snack shop portraits",
+      "Target": "Portraits/{{ModId}}_SnackVendor",
+      "FromFile": "assets/shops/Nyapu/snackvendor.png"
+    },	
+	{
+	  "LogName": "Stardew Aquarium Fall Nyapu CCs",
+	  "Action": "EditMap",
+	  "Target": "Maps/ExteriorMuseum",
+	  "MapTiles": [
+	    {
+		  "Position": { "X": 43, "Y": 54 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist1",
+		  }
+		},
+	    {
+		  "Position": { "X": 40, "Y": 43 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist15",
+		  }
+		},
+	    {
+		  "Position": { "X": 74, "Y": 16 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Bex",
+		  }
+		}	
+	  ],
+	  "When": {"Season": "fall"}
+	},	
+	{
+	  "LogName": "Stardew Aquarium Spring Nyapu CCs",
+	  "Action": "EditMap",
+	  "Target": "Maps/ExteriorMuseum",
+	  "MapTiles": [
+	    {
+		  "Position": { "X": 33, "Y": 14 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist1",
+		  }
+		},
+	    {
+		  "Position": { "X": 21, "Y": 26 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist15",
+		  }
+		},
+	    {
+		  "Position": { "X": 44, "Y": 10 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Bex",
+		  }
+		}	
+	  ],
+	  "When": {"Season": "spring"}
+	},
+	{
+	  "LogName": "Stardew Aquarium Summer Nyapu CCs",
+	  "Action": "EditMap",
+	  "Target": "Maps/ExteriorMuseum",
+	  "MapTiles": [
+	    {
+		  "Position": { "X": 63, "Y": 44 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist1",
+		  }
+		},
+	    {
+		  "Position": { "X": 53, "Y": 10 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist15",
+		  }
+		},
+	    {
+		  "Position": { "X": 44, "Y": 9 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist15",
+		  }
+		},
+	    {
+		  "Position": { "X": 28, "Y": 32 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Tourist15",
+		  }
+		},
+	    {
+		  "Position": { "X": 40, "Y": 26 },
+		  "Layer": "Back",
+		  "SetProperties": {
+		  "CustomCompanions": "SPAWN 1 Gervig91.StardewAquariumCC.Nyapu.Bex",
+		  }
+		}	
+	  ],
+	  "When": {"Season": "summer"}
+	},	
+  ]
+}

@@ -7,6 +7,12 @@
       "AllowValues": "true,false",
       "Default": "true",
       "AllowMultiple": false
+    },
+    "Nyapu's Portraits":
+    {
+      "AllowValues": "true,false",
+      "Default": "false",
+      "AllowMultiple": false
     }
     /*
     "SpicyLavaEelAnimation":
@@ -87,6 +93,11 @@
     {
       "Action": "Include",
       "FromFile": "patches/characters.json, patches/events.json, patches/fish-tank-descriptions.json, patches/items.json, patches/legacy-migrations.json, patches/locations.json, patches/mail.json, patches/map-strings.json, patches/shops.json, patches/ui.json"
-    }
+    },
+	  {
+      "Action": "Include",
+      "FromFile": "patches/nyapu-portraits.json",
+	    "When": {"Nyapu's Portraits": true}
+    },
   ]
 }

@@ -1,0 +1,33 @@
+{
+  "Name": "Stardew Aquarium [CP]",
+  "Author": "Gervig91",
+  "Version": "1.6.8",
+  "Description": "Animations and stuff",
+  "UniqueID": "Gervig91.StardewAquariumCP",
+  "UpdateKeys": [ "Nexus:???" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+"Dependencies": [
+   {
+      "UniqueID": "Cherry.StardewAquarium",
+   },
+   {
+      "UniqueID": "hxw.tilesheets",
+   },
+   {
+      "UniqueID": "PeacefulEnd.CustomCompanions",
+   },
+   {
+      "UniqueID": "Esca.EMP",
+   },
+   {
+      "UniqueID": "spacechase0.JsonAssets",
+      "IsRequired": true,
+   },
+   {
+      "UniqueID": "Cherry.ExpandedPreconditionsUtility",
+      "IsRequired": true,
+   },
+]
+}
